@@ -11,3 +11,9 @@ The script generates results in two folders:
 Inside each folder, you will find:
 1. `.csv`: Raw spreadsheet data.
 2. `.md`: Markdown table file with clickable links.
+
+### Full
+[https://cantsroar.github.io/smallfunds/full_hedge_funds.html](https://cantsroar.github.io/smallfunds/full_hedge_funds.html)
+
+### NYC
+[https://cantsroar.github.io/smallfunds/nyc_hedge_funds.html](https://cantsroar.github.io/smallfunds/nyc_hedge_funds.html)
