@@ -55,7 +55,7 @@ def parse_nyc_hedge_funds(xml_file_path):
         web_addr_elements = firm.findall('.//FormInfo/Part1A/Item1/WebAddrs/WebAddr')
         for addr in web_addr_elements:
             if addr.text:
-                web_addrs.append(addr.text.strip())
+                web_addrs.append(addr.text.strip().lower())
         
         website = ", ".join(web_addrs) if web_addrs else 'N/A'
 
@@ -76,7 +76,16 @@ def df_to_markdown(df):
     separator = "| " + " | ".join(["---"] * len(columns)) + " |"
     rows = []
     for _, row in df.iterrows():
-        rows.append("| " + " | ".join(str(val) for val in row) + " |")
+        formatted_row = []
+        for col, val in zip(columns, row):
+            if col == 'Website' and val != 'N/A':
+                # Parse comma separated web addresses and make them clickable
+                links = [l.strip() for l in str(val).split(',')]
+                clickable_links = ", ".join([f"[{l}]({l})" for l in links])
+                formatted_row.append(clickable_links)
+            else:
+                formatted_row.append(str(val))
+        rows.append("| " + " | ".join(formatted_row) + " |")
     return "\n".join([header, separator] + rows)
 
 # Usage: Replace the string with the name of the file you downloaded

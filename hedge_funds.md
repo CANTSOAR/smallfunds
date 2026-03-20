@@ -1,620 +1,620 @@
 | Firm Name | CRD Number | AUM (Millions) | Website |
 | --- | --- | --- | --- |
-| DAWSON PARTNERS (US) INC. | 339430 | 999.15 | https://ca.linkedin.com/company/dawsonpartners, https://www.instagram.com/dawsonpartners/, https://dawsonpartners.com/ |
-| FIVE ARROWS MANAGERS (USA) LLC | 286195 | 993.69 | https://www.instagram.com/rothschildandco/, https://www.linkedin.com/company/rothschildandco, HTTPS://WWW.ROTHSCHILDANDCO.COM |
+| DAWSON PARTNERS (US) INC. | 339430 | 999.15 | [https://ca.linkedin.com/company/dawsonpartners](https://ca.linkedin.com/company/dawsonpartners), [https://www.instagram.com/dawsonpartners/](https://www.instagram.com/dawsonpartners/), [https://dawsonpartners.com/](https://dawsonpartners.com/) |
+| FIVE ARROWS MANAGERS (USA) LLC | 286195 | 993.69 | [https://www.instagram.com/rothschildandco/](https://www.instagram.com/rothschildandco/), [https://www.linkedin.com/company/rothschildandco](https://www.linkedin.com/company/rothschildandco), [https://www.rothschildandco.com](https://www.rothschildandco.com) |
 | CANDER ASSET MANAGEMENT LP | 337596 | 989.01 | N/A |
-| TRISPAN (USA) LLC | 305501 | 982.45 | https://WWW.LINKEDIN.COM/COMPANY/TRISPAN-CORP, https://www.instagram.com/trispan_pe/, https://www.trispanllp.com/, https://x.com/TriSpanLLP |
-| GREENPOINT GROUP, LP | 310532 | 982.06 | https://www.greenpointpartners.com/, https://www.linkedin.com/company/greenpointpartners/ |
-| VSS FUND MANAGEMENT LLC | 156600 | 977.72 | HTTP://WWW.VSS.COM, https://www.linkedin.com/company/vsscapitalpartners/mycompany/ |
-| NEXWAVE CAPITAL PARTNERS LLC | 241788 | 971.95 | https://www.linkedin.com/company/tishman/, https://www.tishmancapitalpartners.com, https://www.youtube.com/@TishmanIR, https://www.linkedin.com/showcase/tishman-opportunity-zone/about/, https://www.tishmanopportunityzone.com/ |
-| ORANGEWOOD PARTNERS MANAGEMENT LLC | 282292 | 970.65 | https://www.linkedin.com/company/orangewood/, HTTPS://WWW.ORANGEWOODPARTNERS.COM |
-| EOS MANAGEMENT, L.P. | 158090 | 969.49 | HTTP://WWW.EOSPARTNERS.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/EOS-PARTNERS/ |
-| GREENLIGHT MASTERS, LLC | 157082 | 967.19 | HTTP://WWW.GREENLIGHTCAPITAL.COM, HTTP://WWW.LINKEDIN.COM/COMPANY/GREENLIGHT-CAPITAL/ABOUT/ |
-| CURIAM CAPITAL LLC | 305220 | 964.66 | https://www.curiam.com, http://www.twitter.com/curiamcapital, http://www.instagram.com/curiamcapital, http://www.facebook.com/CuriamCapitalLLC, http://www.linkedin.com/company/curiam-capital-llc |
-| MARITIME CAPITAL LLC | 161112 | 961.22 | HTTP://WWW.MARITIMELP.COM/ |
-| SANDLER CAPITAL MANAGEMENT | 109856 | 946.87 | HTTP://WWW.SANDLERCAP.COM |
-| PETRICHOR HEALTHCARE CAPITAL MANAGEMENT LP | 288664 | 945.24 | https://www.linkedin.com/company/scion-life-sciences/, HTTPS://PETRICHORCAP.COM, https://www.linkedin.com/company/petrichor-healthcare/about/, https://www.scionlifesciences.com |
-| MILL HILL CAPITAL LLC | 269882 | 944.81 | HTTPS://WWW.LINKEDIN.COM/COMPANY/MILL-HILL-CAPITAL-LLC/, HTTP://WWW.MILLHILLCAP.COM |
+| TRISPAN (USA) LLC | 305501 | 982.45 | [https://www.linkedin.com/company/trispan-corp](https://www.linkedin.com/company/trispan-corp), [https://www.instagram.com/trispan_pe/](https://www.instagram.com/trispan_pe/), [https://www.trispanllp.com/](https://www.trispanllp.com/), [https://x.com/trispanllp](https://x.com/trispanllp) |
+| GREENPOINT GROUP, LP | 310532 | 982.06 | [https://www.greenpointpartners.com/](https://www.greenpointpartners.com/), [https://www.linkedin.com/company/greenpointpartners/](https://www.linkedin.com/company/greenpointpartners/) |
+| VSS FUND MANAGEMENT LLC | 156600 | 977.72 | [http://www.vss.com](http://www.vss.com), [https://www.linkedin.com/company/vsscapitalpartners/mycompany/](https://www.linkedin.com/company/vsscapitalpartners/mycompany/) |
+| NEXWAVE CAPITAL PARTNERS LLC | 241788 | 971.95 | [https://www.linkedin.com/company/tishman/](https://www.linkedin.com/company/tishman/), [https://www.tishmancapitalpartners.com](https://www.tishmancapitalpartners.com), [https://www.youtube.com/@tishmanir](https://www.youtube.com/@tishmanir), [https://www.linkedin.com/showcase/tishman-opportunity-zone/about/](https://www.linkedin.com/showcase/tishman-opportunity-zone/about/), [https://www.tishmanopportunityzone.com/](https://www.tishmanopportunityzone.com/) |
+| ORANGEWOOD PARTNERS MANAGEMENT LLC | 282292 | 970.65 | [https://www.linkedin.com/company/orangewood/](https://www.linkedin.com/company/orangewood/), [https://www.orangewoodpartners.com](https://www.orangewoodpartners.com) |
+| EOS MANAGEMENT, L.P. | 158090 | 969.49 | [http://www.eospartners.com](http://www.eospartners.com), [https://www.linkedin.com/company/eos-partners/](https://www.linkedin.com/company/eos-partners/) |
+| GREENLIGHT MASTERS, LLC | 157082 | 967.19 | [http://www.greenlightcapital.com](http://www.greenlightcapital.com), [http://www.linkedin.com/company/greenlight-capital/about/](http://www.linkedin.com/company/greenlight-capital/about/) |
+| CURIAM CAPITAL LLC | 305220 | 964.66 | [https://www.curiam.com](https://www.curiam.com), [http://www.twitter.com/curiamcapital](http://www.twitter.com/curiamcapital), [http://www.instagram.com/curiamcapital](http://www.instagram.com/curiamcapital), [http://www.facebook.com/curiamcapitalllc](http://www.facebook.com/curiamcapitalllc), [http://www.linkedin.com/company/curiam-capital-llc](http://www.linkedin.com/company/curiam-capital-llc) |
+| MARITIME CAPITAL LLC | 161112 | 961.22 | [http://www.maritimelp.com/](http://www.maritimelp.com/) |
+| SANDLER CAPITAL MANAGEMENT | 109856 | 946.87 | [http://www.sandlercap.com](http://www.sandlercap.com) |
+| PETRICHOR HEALTHCARE CAPITAL MANAGEMENT LP | 288664 | 945.24 | [https://www.linkedin.com/company/scion-life-sciences/](https://www.linkedin.com/company/scion-life-sciences/), [https://petrichorcap.com](https://petrichorcap.com), [https://www.linkedin.com/company/petrichor-healthcare/about/](https://www.linkedin.com/company/petrichor-healthcare/about/), [https://www.scionlifesciences.com](https://www.scionlifesciences.com) |
+| MILL HILL CAPITAL LLC | 269882 | 944.81 | [https://www.linkedin.com/company/mill-hill-capital-llc/](https://www.linkedin.com/company/mill-hill-capital-llc/), [http://www.millhillcap.com](http://www.millhillcap.com) |
 | NEWBROOK CAPITAL ADVISORS LP | 138930 | 944.79 | N/A |
-| DOME EQUITIES, LLC | 159102 | 942.5 | HTTP://WWW.DOMEEQ.COM, https://www.linkedin.com/company/dome-equities-llc |
-| ATIKA CAPITAL MANAGEMENT, LLC | 167227 | 933.8 | https://www.linkedin.com/company/atika-capital-management-llc, HTTP://WWW.ATIKACAPITAL.COM |
+| DOME EQUITIES, LLC | 159102 | 942.5 | [http://www.domeeq.com](http://www.domeeq.com), [https://www.linkedin.com/company/dome-equities-llc](https://www.linkedin.com/company/dome-equities-llc) |
+| ATIKA CAPITAL MANAGEMENT, LLC | 167227 | 933.8 | [https://www.linkedin.com/company/atika-capital-management-llc](https://www.linkedin.com/company/atika-capital-management-llc), [http://www.atikacapital.com](http://www.atikacapital.com) |
 | E&E ADVISORS L.P. | 111300 | 932.62 | N/A |
-| FREEDOM 3 CAPITAL, LLC | 170786 | 930.18 | HTTP://WWW.FREEDOM3.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/5220689/, HTTP://WWW.FREEDOMIIICAPITAL.COM, HTTP://WWW.FREEDOM3CAPITAL.COM |
-| EVERVIEW PARTNERS, L.P. | 334067 | 926.42 | https://www.everviewcap.com, https://www.linkedin.com/company/everview-partners-l-p/ |
-| FIRST SENTIER INVESTORS (US) LLC | 170739 | 922.13 | https://www.firstsentierfunds.com/, https://www.stewartinvestorsfunds.com/, https://www.firstsentiergroup.com/, https://www.firstsentierinvestors.com/, https://www.stewartinvestors.com/, https://www.igneoip.com/, https://www.fssaim.com/ |
+| FREEDOM 3 CAPITAL, LLC | 170786 | 930.18 | [http://www.freedom3.com](http://www.freedom3.com), [https://www.linkedin.com/company/5220689/](https://www.linkedin.com/company/5220689/), [http://www.freedomiiicapital.com](http://www.freedomiiicapital.com), [http://www.freedom3capital.com](http://www.freedom3capital.com) |
+| EVERVIEW PARTNERS, L.P. | 334067 | 926.42 | [https://www.everviewcap.com](https://www.everviewcap.com), [https://www.linkedin.com/company/everview-partners-l-p/](https://www.linkedin.com/company/everview-partners-l-p/) |
+| FIRST SENTIER INVESTORS (US) LLC | 170739 | 922.13 | [https://www.firstsentierfunds.com/](https://www.firstsentierfunds.com/), [https://www.stewartinvestorsfunds.com/](https://www.stewartinvestorsfunds.com/), [https://www.firstsentiergroup.com/](https://www.firstsentiergroup.com/), [https://www.firstsentierinvestors.com/](https://www.firstsentierinvestors.com/), [https://www.stewartinvestors.com/](https://www.stewartinvestors.com/), [https://www.igneoip.com/](https://www.igneoip.com/), [https://www.fssaim.com/](https://www.fssaim.com/) |
 | RUDIUS MANAGEMENT, L.P. | 305465 | 921.51 | N/A |
-| OCTAGON CAPITAL ADVISORS LP | 306424 | 919.79 | HTTPS://WWW.OCTAGONINVESTMENTS.COM, https://www.linkedin.com/company/octagon-capital-advisors |
-| CHARLES PRATT & COMPANY, L.L.C. | 104864 | 916.09 | HTTP://WWW.CHARLESPRATT.COM |
-| THAYER STREET PARTNERS MANAGEMENT, LLC | 170763 | 913.56 | HTTP://WWW.THAYERSTREET.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/THAYER-STREET-PARTNERS/ |
+| OCTAGON CAPITAL ADVISORS LP | 306424 | 919.79 | [https://www.octagoninvestments.com](https://www.octagoninvestments.com), [https://www.linkedin.com/company/octagon-capital-advisors](https://www.linkedin.com/company/octagon-capital-advisors) |
+| CHARLES PRATT & COMPANY, L.L.C. | 104864 | 916.09 | [http://www.charlespratt.com](http://www.charlespratt.com) |
+| THAYER STREET PARTNERS MANAGEMENT, LLC | 170763 | 913.56 | [http://www.thayerstreet.com](http://www.thayerstreet.com), [https://www.linkedin.com/company/thayer-street-partners/](https://www.linkedin.com/company/thayer-street-partners/) |
 | ROC360 ADVISORS LLC | 326954 | 907.0 | N/A |
-| MADRYN ASSET MANAGEMENT, LP | 286065 | 906.56 | https://www.linkedin.com/company/madryn-asset-management, https://madrynlp.com/ |
-| ALLIANCE CONSUMER GROWTH, LLC | 163639 | 901.13 | HTTPS://WWW.ACGPARTNERS.COM, HTTPS://TWITTER.COM/WEAREACG, https://www.linkedin.com/company/alliance-consumer-growth-llc/, https://www.instagram.com/weareacg/?hl=en |
-| FCO ADVISORS LP | 290182 | 900.75 | https://www.foundationcredit.com/, https://www.linkedin.com/company/foundation-credit/ |
-| MALABAR INVESTMENTS, LLC | 168091 | 899.7 | HTTP://WWW.MALABARINVEST.COM |
-| CELLO CAPITAL MANAGEMENT, LP | 160398 | 899.32 | https://www.linkedin.com/company/cello-capital-management/, https://www.cellocapital.com |
-| HCSF MANAGEMENT, LLC | 163598 | 896.28 | HTTP://WWW.HEADLANDSCAP.NET/, HTTP://WWW.LINKEDIN.COM/COMPANY/HEADLANDS-CAPITAL-MANAGEMENT, HTTP://WWW.HEADLANDSCAP.COM |
-| VOLOFIN CAPITAL MANAGEMENT (US) LLC | 309922 | 889.88 | https://www.volofin.com/, https://www.linkedin.com/company/volofin-capital-management/ |
-| MADISON RIVER CAPITAL LLC | 286411 | 888.64 | https://www.mrivercapital.com/, https://www.linkedin.com/company/madison-river-capital/ |
-| ROBOTTI & COMPANY ADVISORS, LLC | 128093 | 881.81 | https://www.youtube.com/@robotticompanyinc.2783, https://www.X.com/BobRobotti, https://www.linkedin.com/company/robotti-&-co-/mycompany/, HTTP://WWW.ROBOTTI.COM |
-| STAPLE STREET CAPITAL MANAGEMENT, L.P. | 173785 | 881.81 | HTTP://WWW.STAPLESTREETCAPITAL.COM/, https://www.linkedin.com/company/staple-street-capital |
-| ELEQUIN CAPITAL, LP | 308371 | 880.57 | https://www.elequincapital.com/ |
-| SIMCOE CAPITAL MANAGEMENT, LLC | 161985 | 868.68 | HTTP://WWW.SIMCOEPARTNERS.COM/, HTTP://WWW.SIMCOECAP.COM/ |
-| KINGDON CAPITAL MANAGEMENT, L.L.C. | 157509 | 861.88 | HTTP://WWW.KINGDON.COM |
-| SPRINGCOAST CAPITAL PARTNERS, L.P. | 327164 | 861.56 | https://springcoast.com/, https://www.linkedin.com/company/springcoast |
-| SADDLE POINT MANAGEMENT, L.P. | 329856 | 857.17 | https://www.linkedin.com/company/saddle-point-management-l-p, https://saddlepointmanagement.com/ |
-| BACKCAST PARTNERS MANAGEMENT LLC | 291785 | 854.57 | HTTPS://WWW.BACKCASTPARTNERS.COM/, https://www.linkedin.com/company/backcastpartners/ |
-| DLJ REAL ESTATE CAPITAL PARTNERS, LLC | 106238 | 853.01 | HTTP://WWW.DLJRECP.COM |
-| ARGAND PARTNERS, LP | 282127 | 852.46 | http://www.argandequity.com/, http://www.argand.com/, https://www.linkedin.com/company/argand-partners/ |
-| MAYTECH GLOBAL INVESTMENTS, LLC | 285985 | 848.47 | https://www.linkedin.com/company/maytech-global-investments/, HTTP://WWW.MAYTECHGLOBAL.COM |
-| SHANNON RIVER FUND MANAGEMENT, LLC | 161538 | 844.72 | http://www.shannonpartners.com/ |
-| CARTESIAN CAPITAL GROUP, LLC | 159370 | 840.22 | HTTP://WWW.CARTESIANGROUP.COM |
-| GLOBAL CREDIT ADVISERS, LLC | 147843 | 840.05 | HTTP://WWW.GLOBALCREDITADVISERS.COM, https://www.linkedin.com/company/global-credit-advisers-llc/ |
-| OTRO CAPITAL MANAGEMENT, LLC | 327232 | 839.43 | https://www.linkedin.com/company/otro-capital/, https://www.otrocapital.com |
-| MALTESE CAPITAL MANAGEMENT, LLC | 138175 | 831.06 | HTTPS://WWW.MALTESECAP.COM |
-| AMERICAN TRIPLE I, LLC | 318463 | 829.17 | https://www.linkedin.com/company/tripleipartners, https://www.atipartners.com/ |
-| INVESCO PRIVATE CAPITAL, INC. | 107584 | 822.92 | HTTP://WWW.INVESCO.COM |
-| CIRRUS REAL ESTATE PARTNERS LP | 323210 | 819.11 | HTTP://WWW.CIRRUSREP.COM, https://www.linkedin.com/company/cirrus-real-estate-partners/, https://twitter.com/CirrusReal, https://www.instagram.com/cirrusrep |
-| FIRST CITIZENS INSTITUTIONAL ASSET MANAGEMENT LLC | 285836 | 815.01 | https://www.firstcitizens.com/commercial/solutions/asset-based-lending |
-| SSW PARTNERS LP | 325761 | 814.32 | https://www.sswpartners.com |
-| PINNBROOK CAPITAL MANAGEMENT LP | 312827 | 812.83 | https://www.pinnbrook.com, https://www.linkedin.com/company/pinnbrook-capital-management |
-| REGAL HEALTHCARE CAPITAL MANAGEMENT, LLC | 294006 | 812.19 | HTTPS://WWW.REGALHCP.COM/, https://www.linkedin.com/company/regal-healthcare-capital-partners/ |
-| AFFINITY ASSET ADVISORS, LLC | 312788 | 807.9 | http://affinityadv.com/, https://www.linkedin.com/company/affinityassetadvisors/about/, https://x.com/Affinity_Asset |
-| OPTIMA ASSET MANAGEMENT LLC | 299826 | 807.39 | https://www.optima.com |
-| ENHALUS CAPITAL, LP | 313321 | 803.12 | https://www.enhalus.com, https://www.linkedin.com/company/enhalus-capital-lp/about/ |
-| POLYMER CAPITAL MANAGEMENT (US), LLC | 316277 | 802.51 | https://www.linkedin.com/company/polymer-capital-united-states/ |
-| CARBON DIRECT CAPITAL MANAGEMENT LLC | 317548 | 799.97 | https://carbondirectcapital.com, https://www.linkedin.com/company/carbon-direct-capital |
+| MADRYN ASSET MANAGEMENT, LP | 286065 | 906.56 | [https://www.linkedin.com/company/madryn-asset-management](https://www.linkedin.com/company/madryn-asset-management), [https://madrynlp.com/](https://madrynlp.com/) |
+| ALLIANCE CONSUMER GROWTH, LLC | 163639 | 901.13 | [https://www.acgpartners.com](https://www.acgpartners.com), [https://twitter.com/weareacg](https://twitter.com/weareacg), [https://www.linkedin.com/company/alliance-consumer-growth-llc/](https://www.linkedin.com/company/alliance-consumer-growth-llc/), [https://www.instagram.com/weareacg/?hl=en](https://www.instagram.com/weareacg/?hl=en) |
+| FCO ADVISORS LP | 290182 | 900.75 | [https://www.foundationcredit.com/](https://www.foundationcredit.com/), [https://www.linkedin.com/company/foundation-credit/](https://www.linkedin.com/company/foundation-credit/) |
+| MALABAR INVESTMENTS, LLC | 168091 | 899.7 | [http://www.malabarinvest.com](http://www.malabarinvest.com) |
+| CELLO CAPITAL MANAGEMENT, LP | 160398 | 899.32 | [https://www.linkedin.com/company/cello-capital-management/](https://www.linkedin.com/company/cello-capital-management/), [https://www.cellocapital.com](https://www.cellocapital.com) |
+| HCSF MANAGEMENT, LLC | 163598 | 896.28 | [http://www.headlandscap.net/](http://www.headlandscap.net/), [http://www.linkedin.com/company/headlands-capital-management](http://www.linkedin.com/company/headlands-capital-management), [http://www.headlandscap.com](http://www.headlandscap.com) |
+| VOLOFIN CAPITAL MANAGEMENT (US) LLC | 309922 | 889.88 | [https://www.volofin.com/](https://www.volofin.com/), [https://www.linkedin.com/company/volofin-capital-management/](https://www.linkedin.com/company/volofin-capital-management/) |
+| MADISON RIVER CAPITAL LLC | 286411 | 888.64 | [https://www.mrivercapital.com/](https://www.mrivercapital.com/), [https://www.linkedin.com/company/madison-river-capital/](https://www.linkedin.com/company/madison-river-capital/) |
+| ROBOTTI & COMPANY ADVISORS, LLC | 128093 | 881.81 | [https://www.youtube.com/@robotticompanyinc.2783](https://www.youtube.com/@robotticompanyinc.2783), [https://www.x.com/bobrobotti](https://www.x.com/bobrobotti), [https://www.linkedin.com/company/robotti-&-co-/mycompany/](https://www.linkedin.com/company/robotti-&-co-/mycompany/), [http://www.robotti.com](http://www.robotti.com) |
+| STAPLE STREET CAPITAL MANAGEMENT, L.P. | 173785 | 881.81 | [http://www.staplestreetcapital.com/](http://www.staplestreetcapital.com/), [https://www.linkedin.com/company/staple-street-capital](https://www.linkedin.com/company/staple-street-capital) |
+| ELEQUIN CAPITAL, LP | 308371 | 880.57 | [https://www.elequincapital.com/](https://www.elequincapital.com/) |
+| SIMCOE CAPITAL MANAGEMENT, LLC | 161985 | 868.68 | [http://www.simcoepartners.com/](http://www.simcoepartners.com/), [http://www.simcoecap.com/](http://www.simcoecap.com/) |
+| KINGDON CAPITAL MANAGEMENT, L.L.C. | 157509 | 861.88 | [http://www.kingdon.com](http://www.kingdon.com) |
+| SPRINGCOAST CAPITAL PARTNERS, L.P. | 327164 | 861.56 | [https://springcoast.com/](https://springcoast.com/), [https://www.linkedin.com/company/springcoast](https://www.linkedin.com/company/springcoast) |
+| SADDLE POINT MANAGEMENT, L.P. | 329856 | 857.17 | [https://www.linkedin.com/company/saddle-point-management-l-p](https://www.linkedin.com/company/saddle-point-management-l-p), [https://saddlepointmanagement.com/](https://saddlepointmanagement.com/) |
+| BACKCAST PARTNERS MANAGEMENT LLC | 291785 | 854.57 | [https://www.backcastpartners.com/](https://www.backcastpartners.com/), [https://www.linkedin.com/company/backcastpartners/](https://www.linkedin.com/company/backcastpartners/) |
+| DLJ REAL ESTATE CAPITAL PARTNERS, LLC | 106238 | 853.01 | [http://www.dljrecp.com](http://www.dljrecp.com) |
+| ARGAND PARTNERS, LP | 282127 | 852.46 | [http://www.argandequity.com/](http://www.argandequity.com/), [http://www.argand.com/](http://www.argand.com/), [https://www.linkedin.com/company/argand-partners/](https://www.linkedin.com/company/argand-partners/) |
+| MAYTECH GLOBAL INVESTMENTS, LLC | 285985 | 848.47 | [https://www.linkedin.com/company/maytech-global-investments/](https://www.linkedin.com/company/maytech-global-investments/), [http://www.maytechglobal.com](http://www.maytechglobal.com) |
+| SHANNON RIVER FUND MANAGEMENT, LLC | 161538 | 844.72 | [http://www.shannonpartners.com/](http://www.shannonpartners.com/) |
+| CARTESIAN CAPITAL GROUP, LLC | 159370 | 840.22 | [http://www.cartesiangroup.com](http://www.cartesiangroup.com) |
+| GLOBAL CREDIT ADVISERS, LLC | 147843 | 840.05 | [http://www.globalcreditadvisers.com](http://www.globalcreditadvisers.com), [https://www.linkedin.com/company/global-credit-advisers-llc/](https://www.linkedin.com/company/global-credit-advisers-llc/) |
+| OTRO CAPITAL MANAGEMENT, LLC | 327232 | 839.43 | [https://www.linkedin.com/company/otro-capital/](https://www.linkedin.com/company/otro-capital/), [https://www.otrocapital.com](https://www.otrocapital.com) |
+| MALTESE CAPITAL MANAGEMENT, LLC | 138175 | 831.06 | [https://www.maltesecap.com](https://www.maltesecap.com) |
+| AMERICAN TRIPLE I, LLC | 318463 | 829.17 | [https://www.linkedin.com/company/tripleipartners](https://www.linkedin.com/company/tripleipartners), [https://www.atipartners.com/](https://www.atipartners.com/) |
+| INVESCO PRIVATE CAPITAL, INC. | 107584 | 822.92 | [http://www.invesco.com](http://www.invesco.com) |
+| CIRRUS REAL ESTATE PARTNERS LP | 323210 | 819.11 | [http://www.cirrusrep.com](http://www.cirrusrep.com), [https://www.linkedin.com/company/cirrus-real-estate-partners/](https://www.linkedin.com/company/cirrus-real-estate-partners/), [https://twitter.com/cirrusreal](https://twitter.com/cirrusreal), [https://www.instagram.com/cirrusrep](https://www.instagram.com/cirrusrep) |
+| FIRST CITIZENS INSTITUTIONAL ASSET MANAGEMENT LLC | 285836 | 815.01 | [https://www.firstcitizens.com/commercial/solutions/asset-based-lending](https://www.firstcitizens.com/commercial/solutions/asset-based-lending) |
+| SSW PARTNERS LP | 325761 | 814.32 | [https://www.sswpartners.com](https://www.sswpartners.com) |
+| PINNBROOK CAPITAL MANAGEMENT LP | 312827 | 812.83 | [https://www.pinnbrook.com](https://www.pinnbrook.com), [https://www.linkedin.com/company/pinnbrook-capital-management](https://www.linkedin.com/company/pinnbrook-capital-management) |
+| REGAL HEALTHCARE CAPITAL MANAGEMENT, LLC | 294006 | 812.19 | [https://www.regalhcp.com/](https://www.regalhcp.com/), [https://www.linkedin.com/company/regal-healthcare-capital-partners/](https://www.linkedin.com/company/regal-healthcare-capital-partners/) |
+| AFFINITY ASSET ADVISORS, LLC | 312788 | 807.9 | [http://affinityadv.com/](http://affinityadv.com/), [https://www.linkedin.com/company/affinityassetadvisors/about/](https://www.linkedin.com/company/affinityassetadvisors/about/), [https://x.com/affinity_asset](https://x.com/affinity_asset) |
+| OPTIMA ASSET MANAGEMENT LLC | 299826 | 807.39 | [https://www.optima.com](https://www.optima.com) |
+| ENHALUS CAPITAL, LP | 313321 | 803.12 | [https://www.enhalus.com](https://www.enhalus.com), [https://www.linkedin.com/company/enhalus-capital-lp/about/](https://www.linkedin.com/company/enhalus-capital-lp/about/) |
+| POLYMER CAPITAL MANAGEMENT (US), LLC | 316277 | 802.51 | [https://www.linkedin.com/company/polymer-capital-united-states/](https://www.linkedin.com/company/polymer-capital-united-states/) |
+| CARBON DIRECT CAPITAL MANAGEMENT LLC | 317548 | 799.97 | [https://carbondirectcapital.com](https://carbondirectcapital.com), [https://www.linkedin.com/company/carbon-direct-capital](https://www.linkedin.com/company/carbon-direct-capital) |
 | FLATIRON RR LLC, MANAGER SERIES | 314505 | 798.59 | N/A |
-| LISC FUND MANAGEMENT, LLC | 304733 | 797.47 | https://www.linkedin.com/showcase/charlotte-housing-opportunity-investment-fund, https://www.liscfm.com, https://www.liscfundmanagement.com, https://www.liscsi.org, https://www.linkedin.com/showcase/dallas-housing-opportunity-fund, https://www.linkedin.com/showcase/new-york-forward-loan-fund, https://www.linkedin.com/showcase/pbf-family-of-funds, https://www.linkedin.com/showcase/southern-opportunity-and-resilience-fund, https://www.linkedin.com/showcase/cleveland-housing-investment-fund, https://www.linkedin.com/showcase/national-strategic-investments-impact-fund, https://www.linkedin.com/showcase/entrepreneurs-opportunity-community-loan-fund, https://www.linkedin.com/showcase/detroit-housing-for-the-future-fund, https://www.linkedin.com/company/local-initiatives-support-corporation-lisc, https://www.youtube.com/@liscstrategicinvestments, https://www.liscstrategicinvestments.org, https://www.lisc.org, https://www.liscfundmanagement.org, https://www.facebook.com/lisc.org, https://www.instagram.com/lisc_hq, https://www.youtube.com/@liscfundmanagement, https://www.liscfm.org, https://www.linkedin.com/company/lisc-fund-management, https://www.youtube.com/@localinitiatives, https://x.com/LISC_HQ |
-| 337 FRONTIER CAPITAL, LP | 284266 | 795.34 | HTTPS://WWW.337FRONTIER.COM |
-| KR CAPITAL LP | 338229 | 792.36 | https://krlp.com |
-| ODEON CAPITAL ADVISORS LLC | 307619 | 786.05 | https://www.odeonadvisors.com, https://www.jetcapitalmanagement.net |
-| CORNER CAPITAL MANAGEMENT, LLC | 317086 | 784.11 | https://www.linkedin.com/company/corner-capital-mgmt, http://cornerventures.com, https://x.com/cornerventure, https://www.linkedin.com/company/corner-ventures, http://cornercapitalmgmt.com |
-| GLOBAL EVOLUTION USA, LLC | 161677 | 783.5 | HTTP://WWW.GLOBALEVOLUTION.COM, https://www.linkedin.com/company/global-evolution-usa-llc/ |
-| DELTEC ASSET MANAGEMENT LLC | 104068 | 782.76 | HTTP://WWW.DELTEC-NY.COM, https://www.linkedin.com/company/deltec-asset-management |
-| AMHERST CAPITAL MANAGEMENT LLC | 174130 | 782.56 | HTTPS://WWW.TWITTER.COM/AMHERSTCAPITAL, https://www.amherst.com/, https://www.linkedin.com/company/amherst/ |
-| MOERUS CAPITAL MANAGEMENT LLC | 282399 | 778.56 | HTTPS://MOERUSCAP.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/MOERUS-CAPITAL-MANAGEMENT-LLC/, HTTPS://x.com/MoerusCapital/ |
+| LISC FUND MANAGEMENT, LLC | 304733 | 797.47 | [https://www.linkedin.com/showcase/charlotte-housing-opportunity-investment-fund](https://www.linkedin.com/showcase/charlotte-housing-opportunity-investment-fund), [https://www.liscfm.com](https://www.liscfm.com), [https://www.liscfundmanagement.com](https://www.liscfundmanagement.com), [https://www.liscsi.org](https://www.liscsi.org), [https://www.linkedin.com/showcase/dallas-housing-opportunity-fund](https://www.linkedin.com/showcase/dallas-housing-opportunity-fund), [https://www.linkedin.com/showcase/new-york-forward-loan-fund](https://www.linkedin.com/showcase/new-york-forward-loan-fund), [https://www.linkedin.com/showcase/pbf-family-of-funds](https://www.linkedin.com/showcase/pbf-family-of-funds), [https://www.linkedin.com/showcase/southern-opportunity-and-resilience-fund](https://www.linkedin.com/showcase/southern-opportunity-and-resilience-fund), [https://www.linkedin.com/showcase/cleveland-housing-investment-fund](https://www.linkedin.com/showcase/cleveland-housing-investment-fund), [https://www.linkedin.com/showcase/national-strategic-investments-impact-fund](https://www.linkedin.com/showcase/national-strategic-investments-impact-fund), [https://www.linkedin.com/showcase/entrepreneurs-opportunity-community-loan-fund](https://www.linkedin.com/showcase/entrepreneurs-opportunity-community-loan-fund), [https://www.linkedin.com/showcase/detroit-housing-for-the-future-fund](https://www.linkedin.com/showcase/detroit-housing-for-the-future-fund), [https://www.linkedin.com/company/local-initiatives-support-corporation-lisc](https://www.linkedin.com/company/local-initiatives-support-corporation-lisc), [https://www.youtube.com/@liscstrategicinvestments](https://www.youtube.com/@liscstrategicinvestments), [https://www.liscstrategicinvestments.org](https://www.liscstrategicinvestments.org), [https://www.lisc.org](https://www.lisc.org), [https://www.liscfundmanagement.org](https://www.liscfundmanagement.org), [https://www.facebook.com/lisc.org](https://www.facebook.com/lisc.org), [https://www.instagram.com/lisc_hq](https://www.instagram.com/lisc_hq), [https://www.youtube.com/@liscfundmanagement](https://www.youtube.com/@liscfundmanagement), [https://www.liscfm.org](https://www.liscfm.org), [https://www.linkedin.com/company/lisc-fund-management](https://www.linkedin.com/company/lisc-fund-management), [https://www.youtube.com/@localinitiatives](https://www.youtube.com/@localinitiatives), [https://x.com/lisc_hq](https://x.com/lisc_hq) |
+| 337 FRONTIER CAPITAL, LP | 284266 | 795.34 | [https://www.337frontier.com](https://www.337frontier.com) |
+| KR CAPITAL LP | 338229 | 792.36 | [https://krlp.com](https://krlp.com) |
+| ODEON CAPITAL ADVISORS LLC | 307619 | 786.05 | [https://www.odeonadvisors.com](https://www.odeonadvisors.com), [https://www.jetcapitalmanagement.net](https://www.jetcapitalmanagement.net) |
+| CORNER CAPITAL MANAGEMENT, LLC | 317086 | 784.11 | [https://www.linkedin.com/company/corner-capital-mgmt](https://www.linkedin.com/company/corner-capital-mgmt), [http://cornerventures.com](http://cornerventures.com), [https://x.com/cornerventure](https://x.com/cornerventure), [https://www.linkedin.com/company/corner-ventures](https://www.linkedin.com/company/corner-ventures), [http://cornercapitalmgmt.com](http://cornercapitalmgmt.com) |
+| GLOBAL EVOLUTION USA, LLC | 161677 | 783.5 | [http://www.globalevolution.com](http://www.globalevolution.com), [https://www.linkedin.com/company/global-evolution-usa-llc/](https://www.linkedin.com/company/global-evolution-usa-llc/) |
+| DELTEC ASSET MANAGEMENT LLC | 104068 | 782.76 | [http://www.deltec-ny.com](http://www.deltec-ny.com), [https://www.linkedin.com/company/deltec-asset-management](https://www.linkedin.com/company/deltec-asset-management) |
+| AMHERST CAPITAL MANAGEMENT LLC | 174130 | 782.56 | [https://www.twitter.com/amherstcapital](https://www.twitter.com/amherstcapital), [https://www.amherst.com/](https://www.amherst.com/), [https://www.linkedin.com/company/amherst/](https://www.linkedin.com/company/amherst/) |
+| MOERUS CAPITAL MANAGEMENT LLC | 282399 | 778.56 | [https://moeruscap.com](https://moeruscap.com), [https://www.linkedin.com/company/moerus-capital-management-llc/](https://www.linkedin.com/company/moerus-capital-management-llc/), [https://x.com/moeruscapital/](https://x.com/moeruscapital/) |
 | FINE CAPITAL PARTNERS, L.P. | 156889 | 776.7 | N/A |
 | SIERRA CREST INVESTMENT MANAGEMENT LLC | 300069 | 772.6 | N/A |
-| WHITEFORT CAPITAL MANAGEMENT, LP | 288534 | 772.57 | HTTP://WWW.WHITEFORTCAPITAL.COM |
-| KEYFRAME CAPITAL PARTNERS, L.P. | 305812 | 772.44 | https://www.linkedin.com/company/keyframecapital, https://www.keyframecapital.com |
-| FINTECH COLLECTIVE MANAGEMENT LLC | 288031 | 771.14 | https://twitter.com/fintech_io, https://www.fintech.io/, https://www.linkedin.com/company/fintech-collective/ |
-| WATERFRONT CAPITAL PARTNERS LLC | 167801 | 770.69 | https://www.linkedin.com/company/waterfront-capital-partners/ |
-| ALTUM CAPITAL MANAGEMENT, LLC | 160123 | 770.62 | https://www.linkedin.com/company/altum-capital-management/about/, HTTPS://WWW.ALTUMCREDIT.COM |
-| MOON CAPITAL MANAGEMENT LP | 156460 | 757.96 | HTTPS://WWW.MOONCAPITAL.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/MOON-CAPITAL |
-| SUMMIT STREET CAPITAL MANAGEMENT, LLC | 160129 | 757.47 | HTTP://WWW.SSVFUNDS.COM, https://www.linkedin.com/company/summit-street-capital-management/ |
-| CCMP GROWTH ADVISORS, LP | 322926 | 756.82 | HTTP://WWW.CCMPGROWTH.COM |
-| GCP CAPITAL PARTNERS LLC | 154457 | 754.88 | HTTP://WWW.GCPCAPITAL.COM/ |
+| WHITEFORT CAPITAL MANAGEMENT, LP | 288534 | 772.57 | [http://www.whitefortcapital.com](http://www.whitefortcapital.com) |
+| KEYFRAME CAPITAL PARTNERS, L.P. | 305812 | 772.44 | [https://www.linkedin.com/company/keyframecapital](https://www.linkedin.com/company/keyframecapital), [https://www.keyframecapital.com](https://www.keyframecapital.com) |
+| FINTECH COLLECTIVE MANAGEMENT LLC | 288031 | 771.14 | [https://twitter.com/fintech_io](https://twitter.com/fintech_io), [https://www.fintech.io/](https://www.fintech.io/), [https://www.linkedin.com/company/fintech-collective/](https://www.linkedin.com/company/fintech-collective/) |
+| WATERFRONT CAPITAL PARTNERS LLC | 167801 | 770.69 | [https://www.linkedin.com/company/waterfront-capital-partners/](https://www.linkedin.com/company/waterfront-capital-partners/) |
+| ALTUM CAPITAL MANAGEMENT, LLC | 160123 | 770.62 | [https://www.linkedin.com/company/altum-capital-management/about/](https://www.linkedin.com/company/altum-capital-management/about/), [https://www.altumcredit.com](https://www.altumcredit.com) |
+| MOON CAPITAL MANAGEMENT LP | 156460 | 757.96 | [https://www.mooncapital.com](https://www.mooncapital.com), [https://www.linkedin.com/company/moon-capital](https://www.linkedin.com/company/moon-capital) |
+| SUMMIT STREET CAPITAL MANAGEMENT, LLC | 160129 | 757.47 | [http://www.ssvfunds.com](http://www.ssvfunds.com), [https://www.linkedin.com/company/summit-street-capital-management/](https://www.linkedin.com/company/summit-street-capital-management/) |
+| CCMP GROWTH ADVISORS, LP | 322926 | 756.82 | [http://www.ccmpgrowth.com](http://www.ccmpgrowth.com) |
+| GCP CAPITAL PARTNERS LLC | 154457 | 754.88 | [http://www.gcpcapital.com/](http://www.gcpcapital.com/) |
 | TRI LOCUM PARTNERS LP | 309678 | 752.91 | N/A |
-| DME ADVISORS, LP | 157074 | 749.4 | HTTPS://WWW.GREENLIGHTCAPITAL.COM, HTTP://WWW.LINKEDIN.COM/COMPANY/GREENLIGHT-CAPITAL/ABOUT/ |
-| DERBY LANE PARTNERS LP | 334739 | 746.27 | https://www.derbyln.com/, https://www.linkedin.com/company/derby-lane-partners |
-| WATER ASSET MANAGEMENT, LLC | 151508 | 746.13 | HTTP://WWW.PVWATER.COM, HTTP://WWW.WATERINV.COM |
-| TREO ASSET MANAGEMENT, LLC | 164982 | 744.4 | http://www.treoam.com |
-| OLD FARM PARTNERS LP | 283573 | 744.15 | http://www.oldfarmpartners.com/, https://www.linkedin.com/company/old-farm-partners/ |
-| QUAD PARTNERS LLC | 160097 | 732.24 | HTTP://WWW.QUADPARTNERS.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/QUAD-PARTNERS-LLC |
-| TRIMER CAPITAL MANAGEMENT LP | 319428 | 731.15 | https://www.trimercap.com/, https://www.crunchbase.com/organization/trimer-capital, https://www.linkedin.com/company/trimer |
-| ACHIEVE PARTNERS MANAGEMENT, LLC | 299883 | 722.25 | https://www.linkedin.com/company/achieve-partners-llc/, http://www.achievepartners.com |
-| AMPFIELD MANAGEMENT, L.P. | 292722 | 721.26 | HTTPS://WWW.LINKEDIN.COM/COMPANY/AMPFIELD-MANAGEMENT/, HTTPS://WWW.AMPFIELDMANAGEMENT.COM |
-| BAILLIE GIFFORD INTERNATIONAL LLC | 305849 | 715.39 | https://www.linkedin.com/company/baillie-gifford/, HTTPS://WWW.FACEBOOK.COM/BAILLIE-GIFFORD-CO-152587304764159, https://www.youtube.com/user/BaillieGifford, https://www.linkedin.com/showcase/baillie-gifford-usa/, https://twitter.com/bailliegifford?lang=en, https://www.Bailliegifford.com, https://www.scottishmortgage.com/en/uk/individual-investors, https://www.linkedin.com/company/scottish-mortgage-uk/?viewAsMember=true, https://www.youtube.com/channel/UC8i_Ax5b8DD2lpkiYpGY4Kg, https://twitter.com/ScotMortgage_UK/ |
+| DME ADVISORS, LP | 157074 | 749.4 | [https://www.greenlightcapital.com](https://www.greenlightcapital.com), [http://www.linkedin.com/company/greenlight-capital/about/](http://www.linkedin.com/company/greenlight-capital/about/) |
+| DERBY LANE PARTNERS LP | 334739 | 746.27 | [https://www.derbyln.com/](https://www.derbyln.com/), [https://www.linkedin.com/company/derby-lane-partners](https://www.linkedin.com/company/derby-lane-partners) |
+| WATER ASSET MANAGEMENT, LLC | 151508 | 746.13 | [http://www.pvwater.com](http://www.pvwater.com), [http://www.waterinv.com](http://www.waterinv.com) |
+| TREO ASSET MANAGEMENT, LLC | 164982 | 744.4 | [http://www.treoam.com](http://www.treoam.com) |
+| OLD FARM PARTNERS LP | 283573 | 744.15 | [http://www.oldfarmpartners.com/](http://www.oldfarmpartners.com/), [https://www.linkedin.com/company/old-farm-partners/](https://www.linkedin.com/company/old-farm-partners/) |
+| QUAD PARTNERS LLC | 160097 | 732.24 | [http://www.quadpartners.com](http://www.quadpartners.com), [https://www.linkedin.com/company/quad-partners-llc](https://www.linkedin.com/company/quad-partners-llc) |
+| TRIMER CAPITAL MANAGEMENT LP | 319428 | 731.15 | [https://www.trimercap.com/](https://www.trimercap.com/), [https://www.crunchbase.com/organization/trimer-capital](https://www.crunchbase.com/organization/trimer-capital), [https://www.linkedin.com/company/trimer](https://www.linkedin.com/company/trimer) |
+| ACHIEVE PARTNERS MANAGEMENT, LLC | 299883 | 722.25 | [https://www.linkedin.com/company/achieve-partners-llc/](https://www.linkedin.com/company/achieve-partners-llc/), [http://www.achievepartners.com](http://www.achievepartners.com) |
+| AMPFIELD MANAGEMENT, L.P. | 292722 | 721.26 | [https://www.linkedin.com/company/ampfield-management/](https://www.linkedin.com/company/ampfield-management/), [https://www.ampfieldmanagement.com](https://www.ampfieldmanagement.com) |
+| BAILLIE GIFFORD INTERNATIONAL LLC | 305849 | 715.39 | [https://www.linkedin.com/company/baillie-gifford/](https://www.linkedin.com/company/baillie-gifford/), [https://www.facebook.com/baillie-gifford-co-152587304764159](https://www.facebook.com/baillie-gifford-co-152587304764159), [https://www.youtube.com/user/bailliegifford](https://www.youtube.com/user/bailliegifford), [https://www.linkedin.com/showcase/baillie-gifford-usa/](https://www.linkedin.com/showcase/baillie-gifford-usa/), [https://twitter.com/bailliegifford?lang=en](https://twitter.com/bailliegifford?lang=en), [https://www.bailliegifford.com](https://www.bailliegifford.com), [https://www.scottishmortgage.com/en/uk/individual-investors](https://www.scottishmortgage.com/en/uk/individual-investors), [https://www.linkedin.com/company/scottish-mortgage-uk/?viewasmember=true](https://www.linkedin.com/company/scottish-mortgage-uk/?viewasmember=true), [https://www.youtube.com/channel/uc8i_ax5b8dd2lpkiypgy4kg](https://www.youtube.com/channel/uc8i_ax5b8dd2lpkiypgy4kg), [https://twitter.com/scotmortgage_uk/](https://twitter.com/scotmortgage_uk/) |
 | MERCHANTS INVESTMENT PARTNERS, LLC | 314794 | 711.24 | N/A |
-| TAPROOT MANAGEMENT LP | 335061 | 710.27 | https://www.taprootmanagement.com/, https://www.linkedin.com/company/taproot-management |
-| NEW LEGACY GROUP, LLC | 160969 | 707.85 | HTTPS://WWW.CRUNCHBASE.COM/ORGANIZATION/NEW-LEGACY-GROUP, HTTP://WWW.NEWLEGACY.COM/, HTTPS://WWW.LINKEDIN.COM/COMPANY/NEW-LEGACY/ |
-| HALLE CAPITAL MANAGEMENT LP | 307156 | 706.42 | https://www.linkedin.com/company/halle-capital-management, https://hallecapital.com/ |
-| LEPERCQ DE NEUFLIZE ASSET MANAGEMENT LLC | 120109 | 704.04 | HTTPS://WWW.LINKEDIN.COM/COMPANY/LEPERCQ-DE-NEUFLIZE-&-CO-/, HTTP://WWW.LEPERCQ.COM/?GO=LEPERCQ-DE-NEUFLIZE-ASSET-MANAGEMENT-LLC |
-| THE QUARRY LP | 323449 | 702.54 | https://www.linkedin.com/company/the-quarry-lp/, https://quarrylp.com/ |
-| FALCONPOINT CAPITAL PARTNERS LLC | 327260 | 700.19 | https://www.falconpointpartners.com/ |
-| APIS CAPITAL ADVISORS, LLC | 131200 | 700.06 | HTTPS://WWW.LINKEDIN.COM/COMPANY/APIS-CAPITAL-ADVISORS-LLC/, HTTPS://WWW.APISCAPITAL.COM |
-| SNOWHAWK LP | 325176 | 699.26 | http://www.snowhawkpartners.com, https://www.linkedin.com/company/ snowhawk/ |
-| AURELIUS CAPITAL MANAGEMENT, LP | 157325 | 697.88 | HTTP://WWW.AURELIUS-CAPITAL.COM |
-| RIVA RIDGE CAPITAL MANAGEMENT LP | 137716 | 694.65 | HTTP://WWW.RIVARIDGECAPITAL.COM |
-| LONG ARC CAPITAL LP | 290245 | 693.8 | HTTPS://WWW.LINKEDIN.COM/COMPANY/LONG-ARC-CAPITAL/, HTTPS://WWW.LONGARC.COM |
-| PRAESIDIUM INVESTMENT MANAGEMENT COMPANY, LLC | 137980 | 693.5 | https://www.linkedin.com/company/praesidium-investment-management-company-llc/, HTTPS://WWW.PRAESIDIUMIM.COM |
-| RMWC | 147359 | 690.4 | https://www.linkedin.com/company/rmwchome/, HTTP://WWW.RMWC.COM |
-| CKC CAPITAL LLC | 168967 | 687.07 | HTTP://WWW.CKCCAPITAL.COM, https://www.linkedin.com/company/13997460/admin/ |
-| MAVERICK REAL ESTATE PARTNERS LLC | 269825 | 684.43 | HTTP://WWW.MAVERICKREP.COM, https://www.linkedin.com/company/maverickrep/about/ |
+| TAPROOT MANAGEMENT LP | 335061 | 710.27 | [https://www.taprootmanagement.com/](https://www.taprootmanagement.com/), [https://www.linkedin.com/company/taproot-management](https://www.linkedin.com/company/taproot-management) |
+| NEW LEGACY GROUP, LLC | 160969 | 707.85 | [https://www.crunchbase.com/organization/new-legacy-group](https://www.crunchbase.com/organization/new-legacy-group), [http://www.newlegacy.com/](http://www.newlegacy.com/), [https://www.linkedin.com/company/new-legacy/](https://www.linkedin.com/company/new-legacy/) |
+| HALLE CAPITAL MANAGEMENT LP | 307156 | 706.42 | [https://www.linkedin.com/company/halle-capital-management](https://www.linkedin.com/company/halle-capital-management), [https://hallecapital.com/](https://hallecapital.com/) |
+| LEPERCQ DE NEUFLIZE ASSET MANAGEMENT LLC | 120109 | 704.04 | [https://www.linkedin.com/company/lepercq-de-neuflize-&-co-/](https://www.linkedin.com/company/lepercq-de-neuflize-&-co-/), [http://www.lepercq.com/?go=lepercq-de-neuflize-asset-management-llc](http://www.lepercq.com/?go=lepercq-de-neuflize-asset-management-llc) |
+| THE QUARRY LP | 323449 | 702.54 | [https://www.linkedin.com/company/the-quarry-lp/](https://www.linkedin.com/company/the-quarry-lp/), [https://quarrylp.com/](https://quarrylp.com/) |
+| FALCONPOINT CAPITAL PARTNERS LLC | 327260 | 700.19 | [https://www.falconpointpartners.com/](https://www.falconpointpartners.com/) |
+| APIS CAPITAL ADVISORS, LLC | 131200 | 700.06 | [https://www.linkedin.com/company/apis-capital-advisors-llc/](https://www.linkedin.com/company/apis-capital-advisors-llc/), [https://www.apiscapital.com](https://www.apiscapital.com) |
+| SNOWHAWK LP | 325176 | 699.26 | [http://www.snowhawkpartners.com](http://www.snowhawkpartners.com), [https://www.linkedin.com/company/ snowhawk/](https://www.linkedin.com/company/ snowhawk/) |
+| AURELIUS CAPITAL MANAGEMENT, LP | 157325 | 697.88 | [http://www.aurelius-capital.com](http://www.aurelius-capital.com) |
+| RIVA RIDGE CAPITAL MANAGEMENT LP | 137716 | 694.65 | [http://www.rivaridgecapital.com](http://www.rivaridgecapital.com) |
+| LONG ARC CAPITAL LP | 290245 | 693.8 | [https://www.linkedin.com/company/long-arc-capital/](https://www.linkedin.com/company/long-arc-capital/), [https://www.longarc.com](https://www.longarc.com) |
+| PRAESIDIUM INVESTMENT MANAGEMENT COMPANY, LLC | 137980 | 693.5 | [https://www.linkedin.com/company/praesidium-investment-management-company-llc/](https://www.linkedin.com/company/praesidium-investment-management-company-llc/), [https://www.praesidiumim.com](https://www.praesidiumim.com) |
+| RMWC | 147359 | 690.4 | [https://www.linkedin.com/company/rmwchome/](https://www.linkedin.com/company/rmwchome/), [http://www.rmwc.com](http://www.rmwc.com) |
+| CKC CAPITAL LLC | 168967 | 687.07 | [http://www.ckccapital.com](http://www.ckccapital.com), [https://www.linkedin.com/company/13997460/admin/](https://www.linkedin.com/company/13997460/admin/) |
+| MAVERICK REAL ESTATE PARTNERS LLC | 269825 | 684.43 | [http://www.maverickrep.com](http://www.maverickrep.com), [https://www.linkedin.com/company/maverickrep/about/](https://www.linkedin.com/company/maverickrep/about/) |
 | NET RETURN ASSET MANAGEMENT LLC | 159895 | 683.11 | N/A |
-| LYRIC CAPITAL MANAGEMENT GROUP, L.P. | 299917 | 682.66 | https://www.linkedin.com/company/lyric-capital-group, http://www.lyriccapitalgroup.com |
-| ROSECLIFF VENTURE MANAGEMENT, LLC | 300188 | 680.39 | http://www.rosecliff.com, https://www.linkedin.com/company/rosecliff-ventures/about/ |
-| STELAC CAPITAL PARTNERS LLC | 163081 | 680.01 | HTTP://STELAC.COM/CAPITAL-PARTNERS |
-| SC MANAGEMENT LLC | 311359 | 679.9 | https://www.linkedin.com/company/scholdings, https://twitter.com/sc_holdings, http://sc.holdings |
-| TRANSATLANTIQUE PRIVATE WEALTH LLC | 169820 | 676.19 | https://www.linkedin.com/showcase/transatlantique-private-wealth/, https://www.banquetransatlantique.com/fr/international/private-wealth-usa.html |
-| BOW STREET LLC | 158043 | 672.96 | HTTP://WWW.BOWSTREETLLC.COM/ |
-| STANDARD GENERAL L.P. | 151831 | 670.27 | HTTPS://WWW.LINKEDIN.COM/COMPANY/STANDARDGENERALNYC/, HTTP://WWW.STANDARDGENERALLP.COM/ |
-| SANDGLASS CAPITAL ADVISORS LLC | 299418 | 669.41 | HTTP://WWW.SANDGLASSCAPITAL.COM |
-| STONE TEMPLE PARTNERS LLC | 332833 | 668.71 | https://www.linkedin.com/company/stone-temple-partners-llc, https://www.stpartners.co/ |
+| LYRIC CAPITAL MANAGEMENT GROUP, L.P. | 299917 | 682.66 | [https://www.linkedin.com/company/lyric-capital-group](https://www.linkedin.com/company/lyric-capital-group), [http://www.lyriccapitalgroup.com](http://www.lyriccapitalgroup.com) |
+| ROSECLIFF VENTURE MANAGEMENT, LLC | 300188 | 680.39 | [http://www.rosecliff.com](http://www.rosecliff.com), [https://www.linkedin.com/company/rosecliff-ventures/about/](https://www.linkedin.com/company/rosecliff-ventures/about/) |
+| STELAC CAPITAL PARTNERS LLC | 163081 | 680.01 | [http://stelac.com/capital-partners](http://stelac.com/capital-partners) |
+| SC MANAGEMENT LLC | 311359 | 679.9 | [https://www.linkedin.com/company/scholdings](https://www.linkedin.com/company/scholdings), [https://twitter.com/sc_holdings](https://twitter.com/sc_holdings), [http://sc.holdings](http://sc.holdings) |
+| TRANSATLANTIQUE PRIVATE WEALTH LLC | 169820 | 676.19 | [https://www.linkedin.com/showcase/transatlantique-private-wealth/](https://www.linkedin.com/showcase/transatlantique-private-wealth/), [https://www.banquetransatlantique.com/fr/international/private-wealth-usa.html](https://www.banquetransatlantique.com/fr/international/private-wealth-usa.html) |
+| BOW STREET LLC | 158043 | 672.96 | [http://www.bowstreetllc.com/](http://www.bowstreetllc.com/) |
+| STANDARD GENERAL L.P. | 151831 | 670.27 | [https://www.linkedin.com/company/standardgeneralnyc/](https://www.linkedin.com/company/standardgeneralnyc/), [http://www.standardgenerallp.com/](http://www.standardgenerallp.com/) |
+| SANDGLASS CAPITAL ADVISORS LLC | 299418 | 669.41 | [http://www.sandglasscapital.com](http://www.sandglasscapital.com) |
+| STONE TEMPLE PARTNERS LLC | 332833 | 668.71 | [https://www.linkedin.com/company/stone-temple-partners-llc](https://www.linkedin.com/company/stone-temple-partners-llc), [https://www.stpartners.co/](https://www.stpartners.co/) |
 | WEMBLEY STRATEGIC ADVISORY LLC | 305692 | 662.76 | N/A |
 | ALTA FUNDAMENTAL ADVISERS LLC | 168642 | 659.6 | N/A |
-| GATEWOOD CAPITAL MANAGEMENT LLC | 282128 | 658.24 | HTTPS://WWW.LINKEDIN.COM/COMPANY/GATEWOOD-CAPITAL-PARTNERS, HTTP://WWW.GATEWOODCAPITAL.COM |
-| ASTARA CAPITAL PARTNERS, L.P. | 317647 | 657.55 | https://astaracapital.com, https://www.linkedin.com/company/astara-capital-partners/ |
-| WARANA CAPITAL, LLC | 288311 | 652.0 | HTTPS://WWW.WARANACAP.COM/ |
-| AUSTRALIS PARTNERS (ADVISERS) LLC | 175505 | 651.84 | HTTP://WWW.AUSTRALISPARTNERS.COM |
-| CANARAS CAPITAL MANAGEMENT, LLC | 142766 | 651.0 | https://www.linkedin.com/company/canaras-capital-management/about/, HTTPS://WWW.FACEBOOK.COM/CANARAS/, HTTP://WWW.CANARAS.COM |
+| GATEWOOD CAPITAL MANAGEMENT LLC | 282128 | 658.24 | [https://www.linkedin.com/company/gatewood-capital-partners](https://www.linkedin.com/company/gatewood-capital-partners), [http://www.gatewoodcapital.com](http://www.gatewoodcapital.com) |
+| ASTARA CAPITAL PARTNERS, L.P. | 317647 | 657.55 | [https://astaracapital.com](https://astaracapital.com), [https://www.linkedin.com/company/astara-capital-partners/](https://www.linkedin.com/company/astara-capital-partners/) |
+| WARANA CAPITAL, LLC | 288311 | 652.0 | [https://www.waranacap.com/](https://www.waranacap.com/) |
+| AUSTRALIS PARTNERS (ADVISERS) LLC | 175505 | 651.84 | [http://www.australispartners.com](http://www.australispartners.com) |
+| CANARAS CAPITAL MANAGEMENT, LLC | 142766 | 651.0 | [https://www.linkedin.com/company/canaras-capital-management/about/](https://www.linkedin.com/company/canaras-capital-management/about/), [https://www.facebook.com/canaras/](https://www.facebook.com/canaras/), [http://www.canaras.com](http://www.canaras.com) |
 | LODGE HILL CAPITAL, LLC | 165973 | 649.97 | N/A |
-| RADIAL EQUITY PARTNERS LP | 308513 | 649.92 | https://radialequity.com/, https://www.linkedin.com/company/radial-equity-partners |
-| MONTROSE ADVISORS INCORPORATED | 105918 | 647.46 | HTTP://WWW.MONTROSEADVISORS.COM |
-| HUNTING HILL GLOBAL CAPITAL, LLC | 167481 | 644.63 | HTTP://WWW.HUNTINGHILL.COM, https://www.linkedin.com/company/huntinghill |
-| CORSAIR CAPITAL MANAGEMENT, L.P. | 157029 | 643.48 | HTTPS://WWW.CORSAIRCAP.COM |
+| RADIAL EQUITY PARTNERS LP | 308513 | 649.92 | [https://radialequity.com/](https://radialequity.com/), [https://www.linkedin.com/company/radial-equity-partners](https://www.linkedin.com/company/radial-equity-partners) |
+| MONTROSE ADVISORS INCORPORATED | 105918 | 647.46 | [http://www.montroseadvisors.com](http://www.montroseadvisors.com) |
+| HUNTING HILL GLOBAL CAPITAL, LLC | 167481 | 644.63 | [http://www.huntinghill.com](http://www.huntinghill.com), [https://www.linkedin.com/company/huntinghill](https://www.linkedin.com/company/huntinghill) |
+| CORSAIR CAPITAL MANAGEMENT, L.P. | 157029 | 643.48 | [https://www.corsaircap.com](https://www.corsaircap.com) |
 | HARVEST MANAGEMENT, L.L.C. | 124477 | 643.47 | N/A |
-| H PARTNERS MANAGEMENT LLC | 161041 | 639.95 | HTTP://WWW.HPARTNERSLP.COM |
-| MONEDA USA, INC. | 157833 | 635.76 | HTTPS://WWW.MONEDAUSA.COM |
-| GOALVEST ADVISORY LLC | 285374 | 628.35 | HTTPS://WWW.LINKEDIN.COM/IN/SEVASTI-BALAFAS-CFA-CPWA%C2%AE-0235231/, HTTPS://GOALVESTADVISORY.COM, https://www.linkedin.com/company/goalvest-advisory |
+| H PARTNERS MANAGEMENT LLC | 161041 | 639.95 | [http://www.hpartnerslp.com](http://www.hpartnerslp.com) |
+| MONEDA USA, INC. | 157833 | 635.76 | [https://www.monedausa.com](https://www.monedausa.com) |
+| GOALVEST ADVISORY LLC | 285374 | 628.35 | [https://www.linkedin.com/in/sevasti-balafas-cfa-cpwa%c2%ae-0235231/](https://www.linkedin.com/in/sevasti-balafas-cfa-cpwa%c2%ae-0235231/), [https://goalvestadvisory.com](https://goalvestadvisory.com), [https://www.linkedin.com/company/goalvest-advisory](https://www.linkedin.com/company/goalvest-advisory) |
 | COVISION ADVISORS LLC | 285328 | 628.1 | N/A |
-| STONE-GOFF MANAGEMENT, LLC | 281205 | 626.15 | https://www.linkedin.com/company/stone-goff-partners, HTTP://WWW.STONEGOFF.COM/ |
-| STEMPOINT CAPITAL LP | 324248 | 624.98 | https://www.stempointcapital.com/, https://www.linkedin.com/company/stempoint-capital-lp |
-| GRANT AVENUE CAPITAL LLC | 313104 | 623.02 | https://grantave.com/, https://www.linkedin.com/company/grant-avenue-capital, https://www.grantavecap.com |
-| BPGC MANAGEMENT LP | 309916 | 619.23 | https://www.bpgc.com |
-| KETTLE HILL CAPITAL MANAGEMENT, LLC | 163722 | 616.64 | HTTP://WWW.KETTLEHILL.COM |
-| ARGENTEM CREEK PARTNERS LP | 282070 | 615.13 | HTTP://WWW.ARGENTEMCREEK.COM/, HTTPS://WWW.LINKEDIN.COM/COMPANY/ARGENTEM-CREEK-PARTNERS |
-| BROOKFIELD ASSET MANAGEMENT PIC BMG, LLC | 312797 | 614.35 | HTTPS://WWW.BROOKFIELD.COM/ |
-| GOOD SPRINGS CAPITAL LP | 326803 | 610.74 | https://goodspringscap.com/, https://www.linkedin.com/company/good-springs-capital/about/ |
-| NINE THIRTY CAPITAL MANAGEMENT, LLC | 130545 | 609.29 | HTTP://WWW.930CAPITAL.COM/ |
-| SPIRE CAPITAL MANAGEMENT LLC | 161581 | 605.36 | HTTPs://SPIRECAPITAL.COM, https://www.linkedin.com/company/spire-capital-partners/ |
-| MAYTUS CAPITAL MANAGEMENT, LLC | 288640 | 597.81 | https://www.linkedin.com/company/maytus-capital-management-llc/about/, https://maytuscapital.com/ |
-| G2 INVESTMENT PARTNERS MANAGEMENT LLC | 163921 | 594.24 | HTTPS://TWITTER.COM/G2IPARTNERS, https://www.G2IPartners.com, https://www.linkedin.com/company/g2-investment-partners |
-| ALIGNMENT GROWTH MANAGEMENT LLC | 319136 | 593.2 | https://alignmentgrowth.com/, https://www.linkedin.com/company/alignment-growth, https://medium.com/@AlignmentGrowth |
-| FAROL INVESTMENT ADVISERS LP | 166565 | 592.4 | HTTPS://WWW.LINKEDIN.COM/COMPANY/FAROL-ASSET-MANAGEMENT-LP/, HTTP://WWW.FAROLAM.COM |
+| STONE-GOFF MANAGEMENT, LLC | 281205 | 626.15 | [https://www.linkedin.com/company/stone-goff-partners](https://www.linkedin.com/company/stone-goff-partners), [http://www.stonegoff.com/](http://www.stonegoff.com/) |
+| STEMPOINT CAPITAL LP | 324248 | 624.98 | [https://www.stempointcapital.com/](https://www.stempointcapital.com/), [https://www.linkedin.com/company/stempoint-capital-lp](https://www.linkedin.com/company/stempoint-capital-lp) |
+| GRANT AVENUE CAPITAL LLC | 313104 | 623.02 | [https://grantave.com/](https://grantave.com/), [https://www.linkedin.com/company/grant-avenue-capital](https://www.linkedin.com/company/grant-avenue-capital), [https://www.grantavecap.com](https://www.grantavecap.com) |
+| BPGC MANAGEMENT LP | 309916 | 619.23 | [https://www.bpgc.com](https://www.bpgc.com) |
+| KETTLE HILL CAPITAL MANAGEMENT, LLC | 163722 | 616.64 | [http://www.kettlehill.com](http://www.kettlehill.com) |
+| ARGENTEM CREEK PARTNERS LP | 282070 | 615.13 | [http://www.argentemcreek.com/](http://www.argentemcreek.com/), [https://www.linkedin.com/company/argentem-creek-partners](https://www.linkedin.com/company/argentem-creek-partners) |
+| BROOKFIELD ASSET MANAGEMENT PIC BMG, LLC | 312797 | 614.35 | [https://www.brookfield.com/](https://www.brookfield.com/) |
+| GOOD SPRINGS CAPITAL LP | 326803 | 610.74 | [https://goodspringscap.com/](https://goodspringscap.com/), [https://www.linkedin.com/company/good-springs-capital/about/](https://www.linkedin.com/company/good-springs-capital/about/) |
+| NINE THIRTY CAPITAL MANAGEMENT, LLC | 130545 | 609.29 | [http://www.930capital.com/](http://www.930capital.com/) |
+| SPIRE CAPITAL MANAGEMENT LLC | 161581 | 605.36 | [https://spirecapital.com](https://spirecapital.com), [https://www.linkedin.com/company/spire-capital-partners/](https://www.linkedin.com/company/spire-capital-partners/) |
+| MAYTUS CAPITAL MANAGEMENT, LLC | 288640 | 597.81 | [https://www.linkedin.com/company/maytus-capital-management-llc/about/](https://www.linkedin.com/company/maytus-capital-management-llc/about/), [https://maytuscapital.com/](https://maytuscapital.com/) |
+| G2 INVESTMENT PARTNERS MANAGEMENT LLC | 163921 | 594.24 | [https://twitter.com/g2ipartners](https://twitter.com/g2ipartners), [https://www.g2ipartners.com](https://www.g2ipartners.com), [https://www.linkedin.com/company/g2-investment-partners](https://www.linkedin.com/company/g2-investment-partners) |
+| ALIGNMENT GROWTH MANAGEMENT LLC | 319136 | 593.2 | [https://alignmentgrowth.com/](https://alignmentgrowth.com/), [https://www.linkedin.com/company/alignment-growth](https://www.linkedin.com/company/alignment-growth), [https://medium.com/@alignmentgrowth](https://medium.com/@alignmentgrowth) |
+| FAROL INVESTMENT ADVISERS LP | 166565 | 592.4 | [https://www.linkedin.com/company/farol-asset-management-lp/](https://www.linkedin.com/company/farol-asset-management-lp/), [http://www.farolam.com](http://www.farolam.com) |
 | HARSPRING CAPITAL MANAGEMENT, LLC | 170882 | 589.77 | N/A |
-| PRELUDE GROWTH PARTNERS MANAGEMENT COMPANY, LLC | 293249 | 589.76 | https://preludegrowth.com/, https://www.linkedin.com/company/prelude-growth-partners/ |
-| MB GLOBAL ADVISERS, LLC | 166823 | 589.54 | HTTPS://WWW.LINKEDIN.COM/COMPANY/MB-GLOBAL-PARTNERS, HTTP://WWW.MBGLOBALPARTNERS.COM |
-| JORDAN/ZALAZNICK ADVISERS, INC. | 160932 | 587.15 | HTTP://WWW.JZPARTNERS.COM, HTTP://WWW.JZIEUROPE.COM |
+| PRELUDE GROWTH PARTNERS MANAGEMENT COMPANY, LLC | 293249 | 589.76 | [https://preludegrowth.com/](https://preludegrowth.com/), [https://www.linkedin.com/company/prelude-growth-partners/](https://www.linkedin.com/company/prelude-growth-partners/) |
+| MB GLOBAL ADVISERS, LLC | 166823 | 589.54 | [https://www.linkedin.com/company/mb-global-partners](https://www.linkedin.com/company/mb-global-partners), [http://www.mbglobalpartners.com](http://www.mbglobalpartners.com) |
+| JORDAN/ZALAZNICK ADVISERS, INC. | 160932 | 587.15 | [http://www.jzpartners.com](http://www.jzpartners.com), [http://www.jzieurope.com](http://www.jzieurope.com) |
 | LEVCO CAPITAL LP | 161117 | 585.0 | N/A |
 | KARYA CAPITAL MANAGEMENT LLC | 160413 | 582.43 | N/A |
-| ATW PARTNERS LLC | 283146 | 581.15 | http://linkedin.com/company/atw-partners-llc/about/, HTTPS://WWW.ATWPARTNERS.COM |
-| ENTRYPOINT CAPITAL, LLC | 313946 | 578.04 | https://entrypointcap.com/, https://www.linkedin.com/company/entrypointcap |
-| AXIAL READE CAPITAL, LP | 301386 | 576.67 | https://www.axialreade.com/, https://www.linkedin.com/company/axial-reade-capital/about/ |
-| NOMURA ASSET MANAGEMENT U.S.A. INC | 108222 | 576.31 | https://www.nomura.com/nam-usa/ |
-| UNTITLED INVESTMENTS LP | 306357 | 574.01 | https://www.linkedin.com/company/untitled-investments/about/, https://www.untitledinvestments.com/ |
-| MSP SPORTS ADVISORS, LLC | 311037 | 565.64 | http://mspsportscapital.com/ |
-| ALIGHT CAPITAL MANAGEMENT LP | 174705 | 559.01 | https://www.alightcapital.com/ |
-| SPRUCE STREET CAPITAL LP | 333213 | 555.9 | https://www.linkedin.com/company/spruce-street-capital-lp/ |
-| BRIDGER MANAGEMENT LLC | 160738 | 553.41 | HTTPS://WWW.BRIDGERCAPITAL.COM, https://www.linkedin.com/company/bridger-management-llc/ |
-| TURNBRIDGE RE FUND MANAGEMENT COMPANY I LLC | 291631 | 552.74 | http://www.turnbridgeeq.com/, https://www.linkedin.com/company/turnbridge-equities/about/ |
-| GARNET CREDIT MANAGEMENT LLC | 334755 | 552.41 | Http://www.garnetcredit.com |
-| TERRAMONT INFRASTRUCTURE MANAGEMENT LLC | 317282 | 549.91 | HTTPS://terramontinfra.com, https://www.linkedin.com/company/terramont-infrastructure/ |
-| SARAZA MANAGEMENT LP | 317572 | 547.44 | https://www.sarazamgmt.com |
+| ATW PARTNERS LLC | 283146 | 581.15 | [http://linkedin.com/company/atw-partners-llc/about/](http://linkedin.com/company/atw-partners-llc/about/), [https://www.atwpartners.com](https://www.atwpartners.com) |
+| ENTRYPOINT CAPITAL, LLC | 313946 | 578.04 | [https://entrypointcap.com/](https://entrypointcap.com/), [https://www.linkedin.com/company/entrypointcap](https://www.linkedin.com/company/entrypointcap) |
+| AXIAL READE CAPITAL, LP | 301386 | 576.67 | [https://www.axialreade.com/](https://www.axialreade.com/), [https://www.linkedin.com/company/axial-reade-capital/about/](https://www.linkedin.com/company/axial-reade-capital/about/) |
+| NOMURA ASSET MANAGEMENT U.S.A. INC | 108222 | 576.31 | [https://www.nomura.com/nam-usa/](https://www.nomura.com/nam-usa/) |
+| UNTITLED INVESTMENTS LP | 306357 | 574.01 | [https://www.linkedin.com/company/untitled-investments/about/](https://www.linkedin.com/company/untitled-investments/about/), [https://www.untitledinvestments.com/](https://www.untitledinvestments.com/) |
+| MSP SPORTS ADVISORS, LLC | 311037 | 565.64 | [http://mspsportscapital.com/](http://mspsportscapital.com/) |
+| ALIGHT CAPITAL MANAGEMENT LP | 174705 | 559.01 | [https://www.alightcapital.com/](https://www.alightcapital.com/) |
+| SPRUCE STREET CAPITAL LP | 333213 | 555.9 | [https://www.linkedin.com/company/spruce-street-capital-lp/](https://www.linkedin.com/company/spruce-street-capital-lp/) |
+| BRIDGER MANAGEMENT LLC | 160738 | 553.41 | [https://www.bridgercapital.com](https://www.bridgercapital.com), [https://www.linkedin.com/company/bridger-management-llc/](https://www.linkedin.com/company/bridger-management-llc/) |
+| TURNBRIDGE RE FUND MANAGEMENT COMPANY I LLC | 291631 | 552.74 | [http://www.turnbridgeeq.com/](http://www.turnbridgeeq.com/), [https://www.linkedin.com/company/turnbridge-equities/about/](https://www.linkedin.com/company/turnbridge-equities/about/) |
+| GARNET CREDIT MANAGEMENT LLC | 334755 | 552.41 | [http://www.garnetcredit.com](http://www.garnetcredit.com) |
+| TERRAMONT INFRASTRUCTURE MANAGEMENT LLC | 317282 | 549.91 | [https://terramontinfra.com](https://terramontinfra.com), [https://www.linkedin.com/company/terramont-infrastructure/](https://www.linkedin.com/company/terramont-infrastructure/) |
+| SARAZA MANAGEMENT LP | 317572 | 547.44 | [https://www.sarazamgmt.com](https://www.sarazamgmt.com) |
 | CATALUR CAPITAL MANAGEMENT, LP | 307830 | 547.27 | N/A |
-| NORTH ISLAND VENTURES, LLC | 309291 | 544.78 | https://X.com/NorthIslandVC, https://www.linkedin.com/company/north-island-ventures/, https://www.logosfund.io, https://www.northisland.ventures/ |
-| SHERBORNE INVESTORS MANAGEMENT LP | 160178 | 541.42 | HTTP://WWW.SHERBORNEINVESTORS.COM |
-| REPUBLIC CAPITAL ADVISER LLC | 316437 | 537.68 | http://republiccapital.co, https://angel.co/republic/syndicate, https://www.linkedin.com/company/republic-capital/mycompany/, https://x.com/_rcapital_, https://republiccapital.medium.com/ |
-| BAYBERRY CAPITAL PARTNERS LP | 300381 | 533.43 | HTTPS://BAYBERRYCP.COM, HTTPS://BAYBERRYCAPITALPARTNERSLP.COM, https://www.linkedin.com/company/bayberry-capital-partners-lp |
-| AXON CAPITAL LP | 158281 | 533.32 | HTTP://TPGAXON.COM, HTTP://AXONCAP.COM, https://www.linkedin.com/company/axoncap/about/ |
-| PEMBROOK CAPITAL MANAGEMENT LLC | 161420 | 532.09 | HTTP://WWW.PEMBROOKGROUP.COM |
-| NEW SILK ROUTE ADVISORS, L.P. | 161339 | 528.9 | HTTPS://WWW.LINKEDIN.COM/COMPANY/NEW-SILK-ROUTE/ABOUT/, HTTP://WWW.NSRPARTNERS.COM |
-| PARAMOUNT GROUP REAL ESTATE ADVISOR LLC | 161324 | 528.51 | HTTP://WWW.PGRE.COM |
-| BEACONLIGHT CAPITAL, LLC | 158390 | 528.47 | HTTPS://WWW.LINKEDIN.COM/COMPANY/BEACONLIGHT-CAPITAL/, HTTPS://WWW.BEACONLIGHTCAP.COM/ |
-| ABR DYNAMIC FUNDS, LLC | 171847 | 526.85 | HTTP://WWW.ABRFUNDS.COM, HTTP://WWW.ABRDYNAMICFUNDS.COM |
-| 4X4 CAPITAL, LLC | 316647 | 524.32 | https://www.linkedin.com/company/4x4capital/, https://4x4capital.com/ |
-| WASSERSTEIN DEBT OPPORTUNITIES MANAGEMENT, LP | 286158 | 522.28 | HTTP://WWW.WASSERCO.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/WASSERSTEIN-DEBT-OPPORTUNITIES |
+| NORTH ISLAND VENTURES, LLC | 309291 | 544.78 | [https://x.com/northislandvc](https://x.com/northislandvc), [https://www.linkedin.com/company/north-island-ventures/](https://www.linkedin.com/company/north-island-ventures/), [https://www.logosfund.io](https://www.logosfund.io), [https://www.northisland.ventures/](https://www.northisland.ventures/) |
+| SHERBORNE INVESTORS MANAGEMENT LP | 160178 | 541.42 | [http://www.sherborneinvestors.com](http://www.sherborneinvestors.com) |
+| REPUBLIC CAPITAL ADVISER LLC | 316437 | 537.68 | [http://republiccapital.co](http://republiccapital.co), [https://angel.co/republic/syndicate](https://angel.co/republic/syndicate), [https://www.linkedin.com/company/republic-capital/mycompany/](https://www.linkedin.com/company/republic-capital/mycompany/), [https://x.com/_rcapital_](https://x.com/_rcapital_), [https://republiccapital.medium.com/](https://republiccapital.medium.com/) |
+| BAYBERRY CAPITAL PARTNERS LP | 300381 | 533.43 | [https://bayberrycp.com](https://bayberrycp.com), [https://bayberrycapitalpartnerslp.com](https://bayberrycapitalpartnerslp.com), [https://www.linkedin.com/company/bayberry-capital-partners-lp](https://www.linkedin.com/company/bayberry-capital-partners-lp) |
+| AXON CAPITAL LP | 158281 | 533.32 | [http://tpgaxon.com](http://tpgaxon.com), [http://axoncap.com](http://axoncap.com), [https://www.linkedin.com/company/axoncap/about/](https://www.linkedin.com/company/axoncap/about/) |
+| PEMBROOK CAPITAL MANAGEMENT LLC | 161420 | 532.09 | [http://www.pembrookgroup.com](http://www.pembrookgroup.com) |
+| NEW SILK ROUTE ADVISORS, L.P. | 161339 | 528.9 | [https://www.linkedin.com/company/new-silk-route/about/](https://www.linkedin.com/company/new-silk-route/about/), [http://www.nsrpartners.com](http://www.nsrpartners.com) |
+| PARAMOUNT GROUP REAL ESTATE ADVISOR LLC | 161324 | 528.51 | [http://www.pgre.com](http://www.pgre.com) |
+| BEACONLIGHT CAPITAL, LLC | 158390 | 528.47 | [https://www.linkedin.com/company/beaconlight-capital/](https://www.linkedin.com/company/beaconlight-capital/), [https://www.beaconlightcap.com/](https://www.beaconlightcap.com/) |
+| ABR DYNAMIC FUNDS, LLC | 171847 | 526.85 | [http://www.abrfunds.com](http://www.abrfunds.com), [http://www.abrdynamicfunds.com](http://www.abrdynamicfunds.com) |
+| 4X4 CAPITAL, LLC | 316647 | 524.32 | [https://www.linkedin.com/company/4x4capital/](https://www.linkedin.com/company/4x4capital/), [https://4x4capital.com/](https://4x4capital.com/) |
+| WASSERSTEIN DEBT OPPORTUNITIES MANAGEMENT, LP | 286158 | 522.28 | [http://www.wasserco.com](http://www.wasserco.com), [https://www.linkedin.com/company/wasserstein-debt-opportunities](https://www.linkedin.com/company/wasserstein-debt-opportunities) |
 | CM INVESTMENT PARTNERS LLC | 168941 | 520.33 | N/A |
-| PACT CAPITAL LLC | 333871 | 520.0 | https://pactcapitalpartners.com/, https://www.linkedin.com/company/pact-capital-partners/ |
+| PACT CAPITAL LLC | 333871 | 520.0 | [https://pactcapitalpartners.com/](https://pactcapitalpartners.com/), [https://www.linkedin.com/company/pact-capital-partners/](https://www.linkedin.com/company/pact-capital-partners/) |
 | LIONSTONE CAPITAL MANAGEMENT LLC | 157603 | 519.76 | N/A |
-| OFF ROAD CAPITAL MANAGEMENT LLC | 285344 | 518.14 | HTTP://OFFROADCAPITALPARTNERS.COM/ |
-| LINCOLNSHIRE MANAGEMENT, INC. | 157144 | 515.99 | HTTP://WWW.LINCOLNSHIREMGMT.COM, HTTP://WWW.LINKEDIN.COM/COMPANY/LINCOLNSHIRE-MANAGEMENT |
-| VICTOR CAPITAL PARTNERS MANAGEMENT COMPANY, LP | 313929 | 513.22 | https://www.linkedin.com/company/victor-capital-partners/about/, https://www.victorcapitalpartners.com |
-| SYCALE ADVISORS (NY) LLC | 168204 | 512.66 | http://sycale.com/, https://www.linkedin.com/company/sycale-advisors/about/ |
-| TENERE CAPITAL, LLC | 312441 | 512.37 | http://www.tenerecapital.com |
-| PAINSWICK CAPITAL MANAGEMENT LP | 333644 | 511.15 | https://www.painswickcapital.com/, https://www.linkedin.com/company/painswick-capital/ |
-| ANTHEMIS CAPITAL MANAGERS (AMERICAS) LLC | 323376 | 510.45 | HTTPS://WWW.TWITTER.COM/ANTHEMIS, HTTPS://WWW.INSTAGRAM.COM/ANTHEMISGROUP, HTTPS://WWW.YOUTUBE.COM/ANTHEMISGROUP, HTTP://WWW.ANTHEMIS.COM/, HTTPS://WWW.FACEBOOK.COM/ANTHEMISGROUP, HTTPS://WWW.PERISCOPE.TV/ANTHEMISGROUP, HTTPS://WWW.MEDIUM.COM/ANTHEMIS-INSIGHTS, HTTPS://WWW.SLIDESHARE.NET/ANTHEMISGROUP, HTTPS://WWW.LINKEDIN.COM/COMPANY-BETA/1342997/ |
-| HURRICANE CAPITAL ADVISORS LLC | 314749 | 510.39 | https://hurricanecapital.io/, https://www.linkedin.com/company/hurricanecap/ |
-| NINE MASTS CAPITAL ADVISERS LLC | 322775 | 508.74 | HTTP://WWW.NINEMASTS.COM |
-| POLUS CAPITAL MANAGEMENT (US) INC. | 323283 | 508.38 | https://www.linkedin.com/company/polus-capital-management/, http://www.poluscapital.com |
-| MEP CAPITAL MANAGEMENT, LLC | 304299 | 507.3 | https://www.linkedin.com/company/mep-capital, https://www.mepcap.com, https://medium.com/mepcapital |
+| OFF ROAD CAPITAL MANAGEMENT LLC | 285344 | 518.14 | [http://offroadcapitalpartners.com/](http://offroadcapitalpartners.com/) |
+| LINCOLNSHIRE MANAGEMENT, INC. | 157144 | 515.99 | [http://www.lincolnshiremgmt.com](http://www.lincolnshiremgmt.com), [http://www.linkedin.com/company/lincolnshire-management](http://www.linkedin.com/company/lincolnshire-management) |
+| VICTOR CAPITAL PARTNERS MANAGEMENT COMPANY, LP | 313929 | 513.22 | [https://www.linkedin.com/company/victor-capital-partners/about/](https://www.linkedin.com/company/victor-capital-partners/about/), [https://www.victorcapitalpartners.com](https://www.victorcapitalpartners.com) |
+| SYCALE ADVISORS (NY) LLC | 168204 | 512.66 | [http://sycale.com/](http://sycale.com/), [https://www.linkedin.com/company/sycale-advisors/about/](https://www.linkedin.com/company/sycale-advisors/about/) |
+| TENERE CAPITAL, LLC | 312441 | 512.37 | [http://www.tenerecapital.com](http://www.tenerecapital.com) |
+| PAINSWICK CAPITAL MANAGEMENT LP | 333644 | 511.15 | [https://www.painswickcapital.com/](https://www.painswickcapital.com/), [https://www.linkedin.com/company/painswick-capital/](https://www.linkedin.com/company/painswick-capital/) |
+| ANTHEMIS CAPITAL MANAGERS (AMERICAS) LLC | 323376 | 510.45 | [https://www.twitter.com/anthemis](https://www.twitter.com/anthemis), [https://www.instagram.com/anthemisgroup](https://www.instagram.com/anthemisgroup), [https://www.youtube.com/anthemisgroup](https://www.youtube.com/anthemisgroup), [http://www.anthemis.com/](http://www.anthemis.com/), [https://www.facebook.com/anthemisgroup](https://www.facebook.com/anthemisgroup), [https://www.periscope.tv/anthemisgroup](https://www.periscope.tv/anthemisgroup), [https://www.medium.com/anthemis-insights](https://www.medium.com/anthemis-insights), [https://www.slideshare.net/anthemisgroup](https://www.slideshare.net/anthemisgroup), [https://www.linkedin.com/company-beta/1342997/](https://www.linkedin.com/company-beta/1342997/) |
+| HURRICANE CAPITAL ADVISORS LLC | 314749 | 510.39 | [https://hurricanecapital.io/](https://hurricanecapital.io/), [https://www.linkedin.com/company/hurricanecap/](https://www.linkedin.com/company/hurricanecap/) |
+| NINE MASTS CAPITAL ADVISERS LLC | 322775 | 508.74 | [http://www.ninemasts.com](http://www.ninemasts.com) |
+| POLUS CAPITAL MANAGEMENT (US) INC. | 323283 | 508.38 | [https://www.linkedin.com/company/polus-capital-management/](https://www.linkedin.com/company/polus-capital-management/), [http://www.poluscapital.com](http://www.poluscapital.com) |
+| MEP CAPITAL MANAGEMENT, LLC | 304299 | 507.3 | [https://www.linkedin.com/company/mep-capital](https://www.linkedin.com/company/mep-capital), [https://www.mepcap.com](https://www.mepcap.com), [https://medium.com/mepcapital](https://medium.com/mepcapital) |
 | HYPERION CAPITAL ADVISORS LP | 304230 | 505.93 | N/A |
-| LOOM CAPITAL MANAGEMENT LLC | 174093 | 505.76 | https://www.loomcapital.com/ |
-| TURNSPIRE CAPITAL PARTNERS LLC | 311053 | 504.42 | https://www.turnspirecap.com/, https://www.linkedin.com/company/turnspire-capital-partners |
-| SPX CAPITAL MANAGEMENT LLC | 297944 | 500.0 | https://www.linkedin.com/company/spx-capital/, https://www.spxcapital.com/ |
-| EMET CAPITAL MANAGEMENT, LLC | 167047 | 499.25 | HTTP://WWW.EMETCAP.COM |
-| EDGE FOCUS CAPITAL MANAGEMENT, LLC | 309884 | 497.77 | https://www.linkedin.com/company/edge-focus-partners, http://www.edgefocuspartners.com |
+| LOOM CAPITAL MANAGEMENT LLC | 174093 | 505.76 | [https://www.loomcapital.com/](https://www.loomcapital.com/) |
+| TURNSPIRE CAPITAL PARTNERS LLC | 311053 | 504.42 | [https://www.turnspirecap.com/](https://www.turnspirecap.com/), [https://www.linkedin.com/company/turnspire-capital-partners](https://www.linkedin.com/company/turnspire-capital-partners) |
+| SPX CAPITAL MANAGEMENT LLC | 297944 | 500.0 | [https://www.linkedin.com/company/spx-capital/](https://www.linkedin.com/company/spx-capital/), [https://www.spxcapital.com/](https://www.spxcapital.com/) |
+| EMET CAPITAL MANAGEMENT, LLC | 167047 | 499.25 | [http://www.emetcap.com](http://www.emetcap.com) |
+| EDGE FOCUS CAPITAL MANAGEMENT, LLC | 309884 | 497.77 | [https://www.linkedin.com/company/edge-focus-partners](https://www.linkedin.com/company/edge-focus-partners), [http://www.edgefocuspartners.com](http://www.edgefocuspartners.com) |
 | BRANT POINT INVESTMENT MANAGEMENT LLC | 157572 | 495.94 | N/A |
-| MATRIX PRIVATE CAPITAL GROUP LLC | 285531 | 494.91 | HTTP://WWW.MATRIXPCG.COM, https://www.linkedin.com/company/matrixpcg/ |
-| 9YARDS CAPITAL MANAGEMENT LP | 299727 | 494.89 | https://9yards.vc/, https://www.linkedin.com/company/9yards-capital/, https://twitter.com/9yardscapital/, https://medium.com/9yards/ |
-| FIREBIRD MANAGEMENT, LLC | 136559 | 494.66 | HTTP://WWW.FBIRD.COM |
-| RIPOSTE CAPITAL LLC | 322217 | 494.13 | https://ripostecapital.org/, https://ripostecapital.com/ |
-| JONES ROAD CAPITAL MANAGEMENT, L.P. | 296822 | 493.49 | HTTP://WWW.JONESROAD.COM |
-| CH GLOBAL CAPITAL MANAGEMENT, LLC | 283431 | 490.57 | https://www.linkedin.com/company/ch-global-capital/, https://chglobalcapital.com/ |
-| DG CAPITAL MANAGEMENT, LLC | 157258 | 489.38 | https://www.linkedin.com/company/dg-capital-management-llc/about/, HTTP://WWW.DGCAPITALMGMT.COM |
-| A.W. JONES ADVISORS, LLC | 161260 | 487.76 | HTTP://WWW.AWJONES.COM, HTTP://WWW.LINKEDIN.COM/COMPANY/A.W.JONES |
-| TWO ROADS PARTNERS MANAGEMENT, LP | 326470 | 487.59 | https://tworoads.com/, https://www.linkedin.com/company/two-roads-partners/mycompany/ |
-| SETPOINT MANAGEMENT LLC | 328702 | 483.46 | https://setpointcapital.com |
-| PING CAPITAL MANAGEMENT, INC. | 308358 | 482.18 | HTTP://WWW.PINGFINANCIAL.COM, https://www.linkedin.com/company/ping-capital-management-ltd/about/ |
-| ONYXPOINT GLOBAL MANAGEMENT LP | 288356 | 481.28 | HTTPS://WWW.LINKEDIN.COM/COMPANY/ONYXPOINTGLOBAL/, HTTP://WWW.ONYXPOINTGLOBAL.COM |
-| BELLTOWER PARTNERS LLC | 333385 | 477.7 | https://belltowerpartners.com/, https://www.linkedin.com/company/belltower-partnersllc/ |
-| CLOSED LOOP PARTNERS, LLC | 307079 | 477.15 | https://twitter.com/LoopFund, https://www.linkedin.com/company/closed-loop-partners, https://www.closedlooppartners.com |
-| ENDICOTT CAPITAL MANAGEMENT, L.L.C. | 308447 | 476.23 | https://www.endicottgp.com, https://linkedin.com/company/endicott-capital |
-| KAIN CAPITAL LLC | 315669 | 476.01 | https://www.linkedin.com/company/kain-capital-llc, https://www.kaincap.com |
-| HORIKO CAPITAL MANAGEMENT LLC | 126343 | 475.06 | HTTP://WWW.HORIKOCAPITAL.COM/ |
-| HUDSON HILL CAPITAL MANAGEMENT, LLC | 316815 | 474.27 | https://www.hudsonhillcapital.com, https://www.linkedin.com/company/hudsonhillcapital/about/ |
-| BROAD SKY PARTNERS LLC | 317966 | 472.93 | https://www.broadskypartners.com/, https://www.linkedin.com/company/broad-sky-partners/ |
+| MATRIX PRIVATE CAPITAL GROUP LLC | 285531 | 494.91 | [http://www.matrixpcg.com](http://www.matrixpcg.com), [https://www.linkedin.com/company/matrixpcg/](https://www.linkedin.com/company/matrixpcg/) |
+| 9YARDS CAPITAL MANAGEMENT LP | 299727 | 494.89 | [https://9yards.vc/](https://9yards.vc/), [https://www.linkedin.com/company/9yards-capital/](https://www.linkedin.com/company/9yards-capital/), [https://twitter.com/9yardscapital/](https://twitter.com/9yardscapital/), [https://medium.com/9yards/](https://medium.com/9yards/) |
+| FIREBIRD MANAGEMENT, LLC | 136559 | 494.66 | [http://www.fbird.com](http://www.fbird.com) |
+| RIPOSTE CAPITAL LLC | 322217 | 494.13 | [https://ripostecapital.org/](https://ripostecapital.org/), [https://ripostecapital.com/](https://ripostecapital.com/) |
+| JONES ROAD CAPITAL MANAGEMENT, L.P. | 296822 | 493.49 | [http://www.jonesroad.com](http://www.jonesroad.com) |
+| CH GLOBAL CAPITAL MANAGEMENT, LLC | 283431 | 490.57 | [https://www.linkedin.com/company/ch-global-capital/](https://www.linkedin.com/company/ch-global-capital/), [https://chglobalcapital.com/](https://chglobalcapital.com/) |
+| DG CAPITAL MANAGEMENT, LLC | 157258 | 489.38 | [https://www.linkedin.com/company/dg-capital-management-llc/about/](https://www.linkedin.com/company/dg-capital-management-llc/about/), [http://www.dgcapitalmgmt.com](http://www.dgcapitalmgmt.com) |
+| A.W. JONES ADVISORS, LLC | 161260 | 487.76 | [http://www.awjones.com](http://www.awjones.com), [http://www.linkedin.com/company/a.w.jones](http://www.linkedin.com/company/a.w.jones) |
+| TWO ROADS PARTNERS MANAGEMENT, LP | 326470 | 487.59 | [https://tworoads.com/](https://tworoads.com/), [https://www.linkedin.com/company/two-roads-partners/mycompany/](https://www.linkedin.com/company/two-roads-partners/mycompany/) |
+| SETPOINT MANAGEMENT LLC | 328702 | 483.46 | [https://setpointcapital.com](https://setpointcapital.com) |
+| PING CAPITAL MANAGEMENT, INC. | 308358 | 482.18 | [http://www.pingfinancial.com](http://www.pingfinancial.com), [https://www.linkedin.com/company/ping-capital-management-ltd/about/](https://www.linkedin.com/company/ping-capital-management-ltd/about/) |
+| ONYXPOINT GLOBAL MANAGEMENT LP | 288356 | 481.28 | [https://www.linkedin.com/company/onyxpointglobal/](https://www.linkedin.com/company/onyxpointglobal/), [http://www.onyxpointglobal.com](http://www.onyxpointglobal.com) |
+| BELLTOWER PARTNERS LLC | 333385 | 477.7 | [https://belltowerpartners.com/](https://belltowerpartners.com/), [https://www.linkedin.com/company/belltower-partnersllc/](https://www.linkedin.com/company/belltower-partnersllc/) |
+| CLOSED LOOP PARTNERS, LLC | 307079 | 477.15 | [https://twitter.com/loopfund](https://twitter.com/loopfund), [https://www.linkedin.com/company/closed-loop-partners](https://www.linkedin.com/company/closed-loop-partners), [https://www.closedlooppartners.com](https://www.closedlooppartners.com) |
+| ENDICOTT CAPITAL MANAGEMENT, L.L.C. | 308447 | 476.23 | [https://www.endicottgp.com](https://www.endicottgp.com), [https://linkedin.com/company/endicott-capital](https://linkedin.com/company/endicott-capital) |
+| KAIN CAPITAL LLC | 315669 | 476.01 | [https://www.linkedin.com/company/kain-capital-llc](https://www.linkedin.com/company/kain-capital-llc), [https://www.kaincap.com](https://www.kaincap.com) |
+| HORIKO CAPITAL MANAGEMENT LLC | 126343 | 475.06 | [http://www.horikocapital.com/](http://www.horikocapital.com/) |
+| HUDSON HILL CAPITAL MANAGEMENT, LLC | 316815 | 474.27 | [https://www.hudsonhillcapital.com](https://www.hudsonhillcapital.com), [https://www.linkedin.com/company/hudsonhillcapital/about/](https://www.linkedin.com/company/hudsonhillcapital/about/) |
+| BROAD SKY PARTNERS LLC | 317966 | 472.93 | [https://www.broadskypartners.com/](https://www.broadskypartners.com/), [https://www.linkedin.com/company/broad-sky-partners/](https://www.linkedin.com/company/broad-sky-partners/) |
 | PETER KIMMELMAN ASSET MANAGEMENT LP | 133302 | 472.31 | N/A |
-| CASTLE HARLAN, INC. | 158106 | 471.11 | HTTPS://WWW.CASTLEHARLAN.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/CASTLE-HARLAN/, HTTPS://WWW.LINKEDIN.COM/COMPANY/BRANFORD-CASTLE-PARTNERS/, HTTPS://WWW.BRANFORDCASTLE.COM/ |
-| CHESAPEAKE ASSET MANAGEMENT LLC | 108994 | 468.79 | HTTP://WWW.CHESMAN.COM, https://www.linkedin.com/company/11865541 |
-| ROTHSCHILD CAPITAL PARTNERS, LLC | 161688 | 467.8 | https://www.linkedin.com/company/rothschild-capital-partners/about/, https://www.rothcap.com |
-| NEW LEAF VENTURE PARTNERS LLC | 163897 | 465.07 | HTTPS://WWW.LINKEDIN.COM/COMPANY/NEW-LEAF-VENTURE-PARTNERS/, HTTPS://TWITTER.COM/NLVPARTNERS, HTTP://WWW.NLVPARTNERS.COM |
+| CASTLE HARLAN, INC. | 158106 | 471.11 | [https://www.castleharlan.com](https://www.castleharlan.com), [https://www.linkedin.com/company/castle-harlan/](https://www.linkedin.com/company/castle-harlan/), [https://www.linkedin.com/company/branford-castle-partners/](https://www.linkedin.com/company/branford-castle-partners/), [https://www.branfordcastle.com/](https://www.branfordcastle.com/) |
+| CHESAPEAKE ASSET MANAGEMENT LLC | 108994 | 468.79 | [http://www.chesman.com](http://www.chesman.com), [https://www.linkedin.com/company/11865541](https://www.linkedin.com/company/11865541) |
+| ROTHSCHILD CAPITAL PARTNERS, LLC | 161688 | 467.8 | [https://www.linkedin.com/company/rothschild-capital-partners/about/](https://www.linkedin.com/company/rothschild-capital-partners/about/), [https://www.rothcap.com](https://www.rothcap.com) |
+| NEW LEAF VENTURE PARTNERS LLC | 163897 | 465.07 | [https://www.linkedin.com/company/new-leaf-venture-partners/](https://www.linkedin.com/company/new-leaf-venture-partners/), [https://twitter.com/nlvpartners](https://twitter.com/nlvpartners), [http://www.nlvpartners.com](http://www.nlvpartners.com) |
 | CANAM CAPITAL MANAGEMENT, LLC | 298587 | 460.1 | N/A |
-| CYTIUM INVESTMENT MANAGEMENT, LLC | 327890 | 459.92 | https://www.cytiuminv.com, https://www.linkedin.com/company/cytium-investment-management/ |
-| FACT CAPITAL, L.P. | 307860 | 458.24 | https://www.factcapital.info/, https://www.linkedin.com/company/factcapital |
-| GRAFINE CAPITAL HOLDINGS LLC | 309490 | 457.61 | https://www.grafine.com/, https://www.linkedin.com/company/grafine-partners |
-| SICART ASSOCIATES, LLC | 285275 | 455.38 | HTTPS://WWW.LINKEDIN.COM/COMPANY/15210832/, HTTP://WWW.SICARTASSOCIATES.COM |
-| MACHINE INVESTMENT GROUP, LP | 315219 | 455.3 | https://machineinv.com/, https://www.linkedin.com/company/machine-investment-group |
-| HARRADEN CIRCLE INVESTMENTS, LLC | 310227 | 451.85 | http://harradencircle.com, https://www.linkedin.com/company/harraden-circle-investments-llc/ |
-| UNITED AMERICAN SECURITIES, INC. | 21274 | 449.92 | HTTPs://WWW.UASAM.COM |
-| AISLING CAPITAL MANAGEMENT LP | 269994 | 446.17 | HTTPS://WWW.AISLINGCAPITAL.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/AISLING-CAPITAL, HTTPS://TWITTER.COM/AISLINGLP |
-| LDR CAPITAL MANAGEMENT, LLC | 162329 | 444.69 | https://www.linkedin.com/company/ldr-capital-management-llc/about/, HTTP://WWW.LDRCAPITALMGMT.COM, HTTPS://LDRFUNDS.COM/ |
+| CYTIUM INVESTMENT MANAGEMENT, LLC | 327890 | 459.92 | [https://www.cytiuminv.com](https://www.cytiuminv.com), [https://www.linkedin.com/company/cytium-investment-management/](https://www.linkedin.com/company/cytium-investment-management/) |
+| FACT CAPITAL, L.P. | 307860 | 458.24 | [https://www.factcapital.info/](https://www.factcapital.info/), [https://www.linkedin.com/company/factcapital](https://www.linkedin.com/company/factcapital) |
+| GRAFINE CAPITAL HOLDINGS LLC | 309490 | 457.61 | [https://www.grafine.com/](https://www.grafine.com/), [https://www.linkedin.com/company/grafine-partners](https://www.linkedin.com/company/grafine-partners) |
+| SICART ASSOCIATES, LLC | 285275 | 455.38 | [https://www.linkedin.com/company/15210832/](https://www.linkedin.com/company/15210832/), [http://www.sicartassociates.com](http://www.sicartassociates.com) |
+| MACHINE INVESTMENT GROUP, LP | 315219 | 455.3 | [https://machineinv.com/](https://machineinv.com/), [https://www.linkedin.com/company/machine-investment-group](https://www.linkedin.com/company/machine-investment-group) |
+| HARRADEN CIRCLE INVESTMENTS, LLC | 310227 | 451.85 | [http://harradencircle.com](http://harradencircle.com), [https://www.linkedin.com/company/harraden-circle-investments-llc/](https://www.linkedin.com/company/harraden-circle-investments-llc/) |
+| UNITED AMERICAN SECURITIES, INC. | 21274 | 449.92 | [https://www.uasam.com](https://www.uasam.com) |
+| AISLING CAPITAL MANAGEMENT LP | 269994 | 446.17 | [https://www.aislingcapital.com](https://www.aislingcapital.com), [https://www.linkedin.com/company/aisling-capital](https://www.linkedin.com/company/aisling-capital), [https://twitter.com/aislinglp](https://twitter.com/aislinglp) |
+| LDR CAPITAL MANAGEMENT, LLC | 162329 | 444.69 | [https://www.linkedin.com/company/ldr-capital-management-llc/about/](https://www.linkedin.com/company/ldr-capital-management-llc/about/), [http://www.ldrcapitalmgmt.com](http://www.ldrcapitalmgmt.com), [https://ldrfunds.com/](https://ldrfunds.com/) |
 | SAGE ADVISORS, LLC | 148964 | 442.47 | N/A |
-| EAGLE'S VIEW CAPITAL MANAGEMENT LLC | 160494 | 441.62 | HTTP://WWW.EVHEDGE.COM |
-| STONECOURT CAPITAL LP | 286234 | 439.68 | https://www.linkedin.com/company/stonecourt-capital/about/, HTTP://WWW.STONECOURTLP.COM/ |
-| VANTERRA CAPITAL LLC | 167242 | 439.38 | HTTP://WWW.VANTERRA.COM |
+| EAGLE'S VIEW CAPITAL MANAGEMENT LLC | 160494 | 441.62 | [http://www.evhedge.com](http://www.evhedge.com) |
+| STONECOURT CAPITAL LP | 286234 | 439.68 | [https://www.linkedin.com/company/stonecourt-capital/about/](https://www.linkedin.com/company/stonecourt-capital/about/), [http://www.stonecourtlp.com/](http://www.stonecourtlp.com/) |
+| VANTERRA CAPITAL LLC | 167242 | 439.38 | [http://www.vanterra.com](http://www.vanterra.com) |
 | THIRD NORTH CAPITAL LP | 285348 | 439.22 | N/A |
-| STERLING INVESTORS LP | 311318 | 437.35 | https://sterling-investors.com, https://www.linkedin.com/company/sterling-investors-lp/ |
-| RESERVOIR OPERATIONS, L.P. | 156800 | 436.81 | HTTPS://LINKEDIN.COM/COMPANY/RESERVOIR-CAPITAL-GROUP, HTTP://RESERVOIRCAP.COM/ |
-| SPACE CAPITAL MANAGEMENT LLC | 287867 | 435.76 | https://www.instagram.com/thespacetalent/, https://www.linkedin.com/company/space-talent/, https://www.spacecapital.com, https://www.spacetalent.org, https://x.com/SpaceCapital, https://x.com/TheSpaceTalent, https://www.facebook.com/SpaceAngelsHoldings/, https://www.instagram.com/spacecapital/, https://www.instagram.com/spaceangels/, https://www.spaceangels.com/, https://x.com/SpaceAngels, https://www.linkedin.com/company/spaceangels, https://www.linkedin.com/company/spacecapital/, https://bsky.app/profile/spacecapital.com, https://bsky.app/profile/spacetalent.com, https://bsky.app/profile/spaceangels.com |
-| CLEARLIST CAPITAL LLC | 329206 | 434.12 | https://www.linkedin.com/company/clearlist, https://www.clearlist.com/ |
-| VOLTERRA TECHNOLOGIES LP | 306817 | 433.74 | https://www.linkedin.com/company/volterra-technologies/ |
-| DIKER MANAGEMENT LLC | 119786 | 430.0 | HTTP://WWW.DIKERLLC.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/DIKER-MANAGEMENT |
-| HVPF MANAGER II, LLC | 318754 | 429.97 | https://hudsonvalleypropertygroup.com/, https://www.linkedin.com/company/hudson-valley-property-group/, https://twitter.com/HVPGHousing |
-| CIP FUND MANAGEMENT LLC | 160700 | 425.56 | HTTPS://WWW.CIP-CAPITAL.COM |
-| SWS CAPITAL MANAGEMENT, LLC | 119043 | 425.54 | https://www.linkedin.com/company/sws-capital-management/, https://www.swscapitalmanagement.com/ |
-| BRUCKMANN, ROSSER, SHERRILL & CO., MANAGEMENT, L.P. | 156881 | 423.4 | https://brs.com/ |
-| CROSSBEAM VENTURE PARTNERS LLC | 309047 | 423.09 | https://crossbeam.vc/, https://www.linkedin.com/company/crossbeamvc, https://moelisassetmanagement.com/crossbeam/ |
-| ADIT VENTURES MANAGEMENT, LLC | 283262 | 419.85 | https://www.aditventures.com/ |
-| CALIGAN PARTNERS, LP | 289887 | 419.04 | https://www.caliganpartners.com/, https://www.linkedin.com/company/caligan-partners-lp/ |
-| FIO ADVISORS LP | 300903 | 418.57 | https://www.foundationcredit.com/, https://www.linkedin.com/company/foundation-credit/ |
-| ARMOR ADVISORS, L.L.C. | 157238 | 418.36 | HTTP://WWW.ARMORCAPITAL.COM |
-| SPARK INVESTMENT MANAGEMENT LLC | 160815 | 417.69 | https://www.sparkim.com, https://www.linkedin.com/company/spark-investment-management-llc |
-| VENTURE CAPITAL FUND OF AMERICA III, INC. | 160941 | 415.9 | http://www.linkedin.com/company/vcfa-group, HTTP://WWW.VCFA.COM |
-| APAX PARTNERS US, LLC | 157110 | 415.67 | https://x.com/apax_partners?lang=en, HTTP://WWW.FACEBOOK.COM/PAGES/APAX-PARTNERS/552884631539155, HTTP://WWW.LINKEDIN.COM/COMPANY/APAX-PARTNERS, HTTP://WWW.APAX.US.COM |
-| HILLCREST CREDIT AND INCOME FUND II MANAGER, LLC | 288671 | 414.86 | HTTP://WWW.HILLCRESTFINANCELLC.COM, https://www.linkedin.com/company/hillcrest-finance-llc |
-| PHOENICIAN RESOURCES FUND SPONSOR, LLC | 304953 | 413.74 | https://www.phoenicianres.com/, https://www.linkedin.com/company/phoenician-resources/about/ |
+| STERLING INVESTORS LP | 311318 | 437.35 | [https://sterling-investors.com](https://sterling-investors.com), [https://www.linkedin.com/company/sterling-investors-lp/](https://www.linkedin.com/company/sterling-investors-lp/) |
+| RESERVOIR OPERATIONS, L.P. | 156800 | 436.81 | [https://linkedin.com/company/reservoir-capital-group](https://linkedin.com/company/reservoir-capital-group), [http://reservoircap.com/](http://reservoircap.com/) |
+| SPACE CAPITAL MANAGEMENT LLC | 287867 | 435.76 | [https://www.instagram.com/thespacetalent/](https://www.instagram.com/thespacetalent/), [https://www.linkedin.com/company/space-talent/](https://www.linkedin.com/company/space-talent/), [https://www.spacecapital.com](https://www.spacecapital.com), [https://www.spacetalent.org](https://www.spacetalent.org), [https://x.com/spacecapital](https://x.com/spacecapital), [https://x.com/thespacetalent](https://x.com/thespacetalent), [https://www.facebook.com/spaceangelsholdings/](https://www.facebook.com/spaceangelsholdings/), [https://www.instagram.com/spacecapital/](https://www.instagram.com/spacecapital/), [https://www.instagram.com/spaceangels/](https://www.instagram.com/spaceangels/), [https://www.spaceangels.com/](https://www.spaceangels.com/), [https://x.com/spaceangels](https://x.com/spaceangels), [https://www.linkedin.com/company/spaceangels](https://www.linkedin.com/company/spaceangels), [https://www.linkedin.com/company/spacecapital/](https://www.linkedin.com/company/spacecapital/), [https://bsky.app/profile/spacecapital.com](https://bsky.app/profile/spacecapital.com), [https://bsky.app/profile/spacetalent.com](https://bsky.app/profile/spacetalent.com), [https://bsky.app/profile/spaceangels.com](https://bsky.app/profile/spaceangels.com) |
+| CLEARLIST CAPITAL LLC | 329206 | 434.12 | [https://www.linkedin.com/company/clearlist](https://www.linkedin.com/company/clearlist), [https://www.clearlist.com/](https://www.clearlist.com/) |
+| VOLTERRA TECHNOLOGIES LP | 306817 | 433.74 | [https://www.linkedin.com/company/volterra-technologies/](https://www.linkedin.com/company/volterra-technologies/) |
+| DIKER MANAGEMENT LLC | 119786 | 430.0 | [http://www.dikerllc.com](http://www.dikerllc.com), [https://www.linkedin.com/company/diker-management](https://www.linkedin.com/company/diker-management) |
+| HVPF MANAGER II, LLC | 318754 | 429.97 | [https://hudsonvalleypropertygroup.com/](https://hudsonvalleypropertygroup.com/), [https://www.linkedin.com/company/hudson-valley-property-group/](https://www.linkedin.com/company/hudson-valley-property-group/), [https://twitter.com/hvpghousing](https://twitter.com/hvpghousing) |
+| CIP FUND MANAGEMENT LLC | 160700 | 425.56 | [https://www.cip-capital.com](https://www.cip-capital.com) |
+| SWS CAPITAL MANAGEMENT, LLC | 119043 | 425.54 | [https://www.linkedin.com/company/sws-capital-management/](https://www.linkedin.com/company/sws-capital-management/), [https://www.swscapitalmanagement.com/](https://www.swscapitalmanagement.com/) |
+| BRUCKMANN, ROSSER, SHERRILL & CO., MANAGEMENT, L.P. | 156881 | 423.4 | [https://brs.com/](https://brs.com/) |
+| CROSSBEAM VENTURE PARTNERS LLC | 309047 | 423.09 | [https://crossbeam.vc/](https://crossbeam.vc/), [https://www.linkedin.com/company/crossbeamvc](https://www.linkedin.com/company/crossbeamvc), [https://moelisassetmanagement.com/crossbeam/](https://moelisassetmanagement.com/crossbeam/) |
+| ADIT VENTURES MANAGEMENT, LLC | 283262 | 419.85 | [https://www.aditventures.com/](https://www.aditventures.com/) |
+| CALIGAN PARTNERS, LP | 289887 | 419.04 | [https://www.caliganpartners.com/](https://www.caliganpartners.com/), [https://www.linkedin.com/company/caligan-partners-lp/](https://www.linkedin.com/company/caligan-partners-lp/) |
+| FIO ADVISORS LP | 300903 | 418.57 | [https://www.foundationcredit.com/](https://www.foundationcredit.com/), [https://www.linkedin.com/company/foundation-credit/](https://www.linkedin.com/company/foundation-credit/) |
+| ARMOR ADVISORS, L.L.C. | 157238 | 418.36 | [http://www.armorcapital.com](http://www.armorcapital.com) |
+| SPARK INVESTMENT MANAGEMENT LLC | 160815 | 417.69 | [https://www.sparkim.com](https://www.sparkim.com), [https://www.linkedin.com/company/spark-investment-management-llc](https://www.linkedin.com/company/spark-investment-management-llc) |
+| VENTURE CAPITAL FUND OF AMERICA III, INC. | 160941 | 415.9 | [http://www.linkedin.com/company/vcfa-group](http://www.linkedin.com/company/vcfa-group), [http://www.vcfa.com](http://www.vcfa.com) |
+| APAX PARTNERS US, LLC | 157110 | 415.67 | [https://x.com/apax_partners?lang=en](https://x.com/apax_partners?lang=en), [http://www.facebook.com/pages/apax-partners/552884631539155](http://www.facebook.com/pages/apax-partners/552884631539155), [http://www.linkedin.com/company/apax-partners](http://www.linkedin.com/company/apax-partners), [http://www.apax.us.com](http://www.apax.us.com) |
+| HILLCREST CREDIT AND INCOME FUND II MANAGER, LLC | 288671 | 414.86 | [http://www.hillcrestfinancellc.com](http://www.hillcrestfinancellc.com), [https://www.linkedin.com/company/hillcrest-finance-llc](https://www.linkedin.com/company/hillcrest-finance-llc) |
+| PHOENICIAN RESOURCES FUND SPONSOR, LLC | 304953 | 413.74 | [https://www.phoenicianres.com/](https://www.phoenicianres.com/), [https://www.linkedin.com/company/phoenician-resources/about/](https://www.linkedin.com/company/phoenician-resources/about/) |
 | RIVERMONT CAPITAL MANAGEMENT LP | 311888 | 413.48 | N/A |
-| APPOMATTOX ADVISORY, INC | 153731 | 410.82 | HTTPS://WWW.APPOMATTOX.COM, https://www.linkedin.com/company/appomattox-advisory-inc. |
-| INTERMARKET CORPORATION | 161833 | 410.3 | HTTP://WWW.INTERMARKET.US/ |
-| LION POINT CAPITAL, LP | 174322 | 410.26 | HTTP://WWW.LIONPOINT.COM |
-| CCS PARTNERS LLC | 329876 | 409.15 | https://www.ccs-partners.com/ |
-| MANIKAY PARTNERS, LLC | 157272 | 408.59 | HTTP://WWW.MANIKAYPARTNERS.COM |
-| FOCUSGROWTH ASSET MANAGEMENT, LP | 309245 | 407.35 | https://focusgrowth.com/, https://www.linkedin.com/company/focusgrowth-asset-management-lp/about/ |
-| ALPHA PARTNERS MANAGEMENT, LLC | 286141 | 404.7 | HTTP://WWW.ALPHAPARTNERS.COM |
-| BRIDGE GROWTH PARTNERS, LLC | 168682 | 403.91 | HTTP://WWW.BRIDGEGROWTHPARTNERS.COM, https://www.linkedin.com/company/bridge-growth-partners-llc |
-| MFG PARTNERS LLC | 330388 | 402.87 | https://mfgpartners.com/, https://www.linkedin.com/company/mfg-partners/ |
+| APPOMATTOX ADVISORY, INC | 153731 | 410.82 | [https://www.appomattox.com](https://www.appomattox.com), [https://www.linkedin.com/company/appomattox-advisory-inc.](https://www.linkedin.com/company/appomattox-advisory-inc.) |
+| INTERMARKET CORPORATION | 161833 | 410.3 | [http://www.intermarket.us/](http://www.intermarket.us/) |
+| LION POINT CAPITAL, LP | 174322 | 410.26 | [http://www.lionpoint.com](http://www.lionpoint.com) |
+| CCS PARTNERS LLC | 329876 | 409.15 | [https://www.ccs-partners.com/](https://www.ccs-partners.com/) |
+| MANIKAY PARTNERS, LLC | 157272 | 408.59 | [http://www.manikaypartners.com](http://www.manikaypartners.com) |
+| FOCUSGROWTH ASSET MANAGEMENT, LP | 309245 | 407.35 | [https://focusgrowth.com/](https://focusgrowth.com/), [https://www.linkedin.com/company/focusgrowth-asset-management-lp/about/](https://www.linkedin.com/company/focusgrowth-asset-management-lp/about/) |
+| ALPHA PARTNERS MANAGEMENT, LLC | 286141 | 404.7 | [http://www.alphapartners.com](http://www.alphapartners.com) |
+| BRIDGE GROWTH PARTNERS, LLC | 168682 | 403.91 | [http://www.bridgegrowthpartners.com](http://www.bridgegrowthpartners.com), [https://www.linkedin.com/company/bridge-growth-partners-llc](https://www.linkedin.com/company/bridge-growth-partners-llc) |
+| MFG PARTNERS LLC | 330388 | 402.87 | [https://mfgpartners.com/](https://mfgpartners.com/), [https://www.linkedin.com/company/mfg-partners/](https://www.linkedin.com/company/mfg-partners/) |
 | OCO CAPITAL PARTNERS LP | 299461 | 402.81 | N/A |
-| HUMBLE MANAGEMENT, LLC | 322006 | 402.45 | https://www.humblegrowth.com, https://www.linkedin.com/company/humblegrowth.com |
-| COVARA CAPITAL, LLC | 337515 | 402.0 | https://www.linkedin.com/company/covaracapital/, https://www.covaracapital.com/ |
-| WELLSPRING CAPITAL MANAGEMENT LLC | 161184 | 401.7 | https://revelarcapital.com/, https://www.linkedin.com/company/wellspring-capital-management-llc/, https://www.linkedin.com/company/revelar-capital-llc |
+| HUMBLE MANAGEMENT, LLC | 322006 | 402.45 | [https://www.humblegrowth.com](https://www.humblegrowth.com), [https://www.linkedin.com/company/humblegrowth.com](https://www.linkedin.com/company/humblegrowth.com) |
+| COVARA CAPITAL, LLC | 337515 | 402.0 | [https://www.linkedin.com/company/covaracapital/](https://www.linkedin.com/company/covaracapital/), [https://www.covaracapital.com/](https://www.covaracapital.com/) |
+| WELLSPRING CAPITAL MANAGEMENT LLC | 161184 | 401.7 | [https://revelarcapital.com/](https://revelarcapital.com/), [https://www.linkedin.com/company/wellspring-capital-management-llc/](https://www.linkedin.com/company/wellspring-capital-management-llc/), [https://www.linkedin.com/company/revelar-capital-llc](https://www.linkedin.com/company/revelar-capital-llc) |
 | VALUEQUEST ADVISERS, LLC | 337781 | 400.83 | N/A |
-| DERBY COPELAND MANAGEMENT GROUP, LLC | 321102 | 400.46 | https://linkedin.com/company/derby-copeland-capital/, https://www.derbycopeland.com/, https://www.instagram.com/derbycopelandcapital/ |
-| MOMENTUM ADVISORS, LLC | 159574 | 400.14 | https://TWITTER.COM/MOMENTUMADVICE, HTTP://WWW.MOMENTUM-ADVISORS.COM, https://www.instagram.com/themomentumadvisors |
-| SEAPORT CAPITAL, LLC | 160734 | 395.65 | HTTP://WWW.SEAPORTCAPITAL.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/SEAPORT-CAPITAL/ |
-| DYNASTY EQUITY PARTNERS MANAGEMENT, LLC | 327607 | 391.53 | https://www.linkedin.com/company/dynasty-equity, https://www.dynastyequity.com |
-| CARL MARKS MANAGEMENT COMPANY, LLC | 107695 | 391.06 | HTTP://WWW.CARLMARKS.COM |
-| 16TH AMENDMENT ADVISORS LLC | 150575 | 390.23 | https://16rock.com/ |
-| SOUNDCORE CAPITAL PARTNERS, LLC | 288749 | 388.7 | https://www.linkedin.com/company/soundcore-capital-partners/, https://www.soundcorecap.com/ |
-| COLLABORATIVE CAPITAL ADVISORS LLC | 337588 | 387.84 | https://www.collaborativecapitaladvisors.com |
-| TOLIS ADVISORS, LP | 163345 | 387.32 | HTTPS://WWW.LINKEDIN.COM/COMPANY/TOLIS-ADVISORS-LP/, HTTP://WWW.TOLISADVISORS.COM |
-| NEBARI PARTNERS, LLC | 295859 | 386.96 | http://NEBARI.com |
-| VANTAGE INFRASTRUCTURE (USA) INC. | 157458 | 385.49 | HTTPS://WWW.LINKEDIN.COM/COMPANY/VANTAGE-INFRASTRUCTURE, HTTPS://WWW.VANTAGEINFRA.COM |
-| NOMURA CAPITAL MANAGEMENT LLC | 324417 | 384.12 | https://www.linkedin.com/company/nomura-capital-management/, https://nomuracapitalmanagement.com/ |
-| ATLANTIC INVESTMENT MANAGEMENT, INC | 137698 | 383.99 | HTTP://WWW.ATLANTICINVESTMENT.NET, HTTPS://WWW.LINKEDIN.COM |
-| CP CAPITAL (US) PARTNERS LP | 158979 | 382.34 | https://www.linkedin.com/company/cp-capital-us/, https://cpcapitalus.com/ |
-| JUNIPER INVESTMENT COMPANY, LLC | 170814 | 382.32 | HTTP://WWW.JUNIPERFUNDS.COM, https://www.linkedin.com/company/juniper-investment-company |
-| CAMBER PARTNERS MANAGEMENT LLC | 309328 | 378.75 | http://www.camber.io, https://www.linkedin.com/company/camberpartners/ |
-| PALM DRIVE CAPITAL LLC | 284014 | 376.39 | https://x.com/PalmDriveVC, https://www.linkedin.com/company/palmdriveventures, http://www.palmdrive.vc |
+| DERBY COPELAND MANAGEMENT GROUP, LLC | 321102 | 400.46 | [https://linkedin.com/company/derby-copeland-capital/](https://linkedin.com/company/derby-copeland-capital/), [https://www.derbycopeland.com/](https://www.derbycopeland.com/), [https://www.instagram.com/derbycopelandcapital/](https://www.instagram.com/derbycopelandcapital/) |
+| MOMENTUM ADVISORS, LLC | 159574 | 400.14 | [https://twitter.com/momentumadvice](https://twitter.com/momentumadvice), [http://www.momentum-advisors.com](http://www.momentum-advisors.com), [https://www.instagram.com/themomentumadvisors](https://www.instagram.com/themomentumadvisors) |
+| SEAPORT CAPITAL, LLC | 160734 | 395.65 | [http://www.seaportcapital.com](http://www.seaportcapital.com), [https://www.linkedin.com/company/seaport-capital/](https://www.linkedin.com/company/seaport-capital/) |
+| DYNASTY EQUITY PARTNERS MANAGEMENT, LLC | 327607 | 391.53 | [https://www.linkedin.com/company/dynasty-equity](https://www.linkedin.com/company/dynasty-equity), [https://www.dynastyequity.com](https://www.dynastyequity.com) |
+| CARL MARKS MANAGEMENT COMPANY, LLC | 107695 | 391.06 | [http://www.carlmarks.com](http://www.carlmarks.com) |
+| 16TH AMENDMENT ADVISORS LLC | 150575 | 390.23 | [https://16rock.com/](https://16rock.com/) |
+| SOUNDCORE CAPITAL PARTNERS, LLC | 288749 | 388.7 | [https://www.linkedin.com/company/soundcore-capital-partners/](https://www.linkedin.com/company/soundcore-capital-partners/), [https://www.soundcorecap.com/](https://www.soundcorecap.com/) |
+| COLLABORATIVE CAPITAL ADVISORS LLC | 337588 | 387.84 | [https://www.collaborativecapitaladvisors.com](https://www.collaborativecapitaladvisors.com) |
+| TOLIS ADVISORS, LP | 163345 | 387.32 | [https://www.linkedin.com/company/tolis-advisors-lp/](https://www.linkedin.com/company/tolis-advisors-lp/), [http://www.tolisadvisors.com](http://www.tolisadvisors.com) |
+| NEBARI PARTNERS, LLC | 295859 | 386.96 | [http://nebari.com](http://nebari.com) |
+| VANTAGE INFRASTRUCTURE (USA) INC. | 157458 | 385.49 | [https://www.linkedin.com/company/vantage-infrastructure](https://www.linkedin.com/company/vantage-infrastructure), [https://www.vantageinfra.com](https://www.vantageinfra.com) |
+| NOMURA CAPITAL MANAGEMENT LLC | 324417 | 384.12 | [https://www.linkedin.com/company/nomura-capital-management/](https://www.linkedin.com/company/nomura-capital-management/), [https://nomuracapitalmanagement.com/](https://nomuracapitalmanagement.com/) |
+| ATLANTIC INVESTMENT MANAGEMENT, INC | 137698 | 383.99 | [http://www.atlanticinvestment.net](http://www.atlanticinvestment.net), [https://www.linkedin.com](https://www.linkedin.com) |
+| CP CAPITAL (US) PARTNERS LP | 158979 | 382.34 | [https://www.linkedin.com/company/cp-capital-us/](https://www.linkedin.com/company/cp-capital-us/), [https://cpcapitalus.com/](https://cpcapitalus.com/) |
+| JUNIPER INVESTMENT COMPANY, LLC | 170814 | 382.32 | [http://www.juniperfunds.com](http://www.juniperfunds.com), [https://www.linkedin.com/company/juniper-investment-company](https://www.linkedin.com/company/juniper-investment-company) |
+| CAMBER PARTNERS MANAGEMENT LLC | 309328 | 378.75 | [http://www.camber.io](http://www.camber.io), [https://www.linkedin.com/company/camberpartners/](https://www.linkedin.com/company/camberpartners/) |
+| PALM DRIVE CAPITAL LLC | 284014 | 376.39 | [https://x.com/palmdrivevc](https://x.com/palmdrivevc), [https://www.linkedin.com/company/palmdriveventures](https://www.linkedin.com/company/palmdriveventures), [http://www.palmdrive.vc](http://www.palmdrive.vc) |
 | ALPHA LEONIS PARTNERS, LLC | 314560 | 373.28 | N/A |
-| BIRNAM OAK ADVISORS, LP | 328180 | 372.45 | http://www.birnam-oak.com, https://www.linkedin.com/company/birnam-oak-advisors-lp/ |
-| OPTO INVESTMENT MANAGEMENT, LLC | 316847 | 370.98 | https://www.linkedin.com/company/optoinvest, https://www.optoinvest.com/, https://twitter.com/optoinvest |
-| LIONHEART STRATEGIC MANAGEMENT, LLC | 314990 | 370.93 | HTTPS://WWW.LIONHEARTSTRATEGIC.COM/, HTTPS://WWW.LINKEDIN.COM/COMPANY/LIONHEARTSTRATEGIC/ |
-| BVP MANAGEMENT COMPANY, LLC | 307029 | 369.76 | https://www.brandvelocitygroup.com |
-| FORMULA GROWTH MANAGEMENT CORP | 285005 | 369.24 | HTTP://WWW.FORMULAGROWTH.CA, HTTP://WWW.FORMULAGROWTH.COM |
+| BIRNAM OAK ADVISORS, LP | 328180 | 372.45 | [http://www.birnam-oak.com](http://www.birnam-oak.com), [https://www.linkedin.com/company/birnam-oak-advisors-lp/](https://www.linkedin.com/company/birnam-oak-advisors-lp/) |
+| OPTO INVESTMENT MANAGEMENT, LLC | 316847 | 370.98 | [https://www.linkedin.com/company/optoinvest](https://www.linkedin.com/company/optoinvest), [https://www.optoinvest.com/](https://www.optoinvest.com/), [https://twitter.com/optoinvest](https://twitter.com/optoinvest) |
+| LIONHEART STRATEGIC MANAGEMENT, LLC | 314990 | 370.93 | [https://www.lionheartstrategic.com/](https://www.lionheartstrategic.com/), [https://www.linkedin.com/company/lionheartstrategic/](https://www.linkedin.com/company/lionheartstrategic/) |
+| BVP MANAGEMENT COMPANY, LLC | 307029 | 369.76 | [https://www.brandvelocitygroup.com](https://www.brandvelocitygroup.com) |
+| FORMULA GROWTH MANAGEMENT CORP | 285005 | 369.24 | [http://www.formulagrowth.ca](http://www.formulagrowth.ca), [http://www.formulagrowth.com](http://www.formulagrowth.com) |
 | HIDDEN LAKE ASSET MANAGEMENT LP | 298209 | 367.92 | N/A |
-| SAVANNA INVESTMENT MANAGEMENT LLC | 158770 | 366.69 | HTTP://WWW.SAVANNAFUND.COM, https://www.instagram.com/savannarealestate/?hl=en, https://www.linkedin.com/company/savanna-real-estate-fund |
+| SAVANNA INVESTMENT MANAGEMENT LLC | 158770 | 366.69 | [http://www.savannafund.com](http://www.savannafund.com), [https://www.instagram.com/savannarealestate/?hl=en](https://www.instagram.com/savannarealestate/?hl=en), [https://www.linkedin.com/company/savanna-real-estate-fund](https://www.linkedin.com/company/savanna-real-estate-fund) |
 | EPOCH CAPITAL, US, LLC | 315254 | 366.07 | N/A |
 | MORGAN RIO CAPITAL MANAGEMENT, LLC | 162500 | 361.76 | N/A |
-| UNIVERSITY VENTURES FUNDS MANAGEMENT, LLC | 163575 | 360.34 | HTTPS://WWW.LINKEDIN.COM/COMPANY/UNIVERSITY-VENTURES/, HTTP://WWW.UNIVERSITYVENTURES.COM, HTTPS://WWW.FACEBOOK.COM/PG/UNIVERSITYVENTURESFUND/ABOUT/?REF=PAGE_INTERNAL, HTTPS://TWITTER.COM/UNIVENTURESFUND?LANG=EN |
-| EDEN CAPITAL MANAGEMENT LLC | 290418 | 359.6 | https://www.linkedin.com/company/eden-capital/, HTTP://WWW.EDENCP.COM/ |
-| VEDANTA MANAGEMENT, L.P. | 160685 | 358.64 | HTTP://WWW.VEDANTACAPITAL.COM, https://www.linkedin.com/company/vedacap |
-| BLUE SQUARE ASSET MANAGEMENT, LLC | 296802 | 357.72 | https://www.linkedin.com/company/bluesquarewealth/, HTTPS://WWW.BLUESQUAREWEALTH.COM |
-| 22V ASSET MANAGEMENT LLC | 323898 | 357.3 | https://www.linkedin.com/company/22v-asset-management/about/, http://www.22VAM.com |
-| PAPAMARKOU WELLNER ASSET MANAGEMENT, INC. | 131796 | 357.02 | HTTP://WWW.PAPAMARKOU.COM, https://www.linkedin.com/company/papamarkou-wellner-perkin/ |
-| TENCORE PARTNERS, LP | 299327 | 355.9 | http://www.tencorepartners.com, https://www.linkedin.com/company/tencore-partners-l-p/ |
-| BRIDGEPORT MANAGEMENT COMPANY LLC | 322871 | 355.77 | https://bgptpartners.com, https://www.linkedin.com/company/bridgeportpartners/ |
-| ACORN CAPITAL ADVISORS, LLC | 304164 | 355.3 | https://www.acornbioventures.com |
-| NIGHT SQUARED LP | 333933 | 355.18 | https://nightsquared.com/ |
-| HARKNESS CAPITAL MANAGEMENT LLC | 289882 | 353.95 | HTTP://WWW.HARKNESSCAPITAL.COM/ |
-| MAKARORA MANAGEMENT LP | 329275 | 353.34 | https://makarora-lp.com/, https://www.linkedin.com/company/makarora-lp |
-| GUMSHOE CAPITAL MANAGEMENT LLC | 328451 | 352.05 | https://gumshoecap.com, https://www.linkedin.com/company/gumshoe-capital-management/about/ |
+| UNIVERSITY VENTURES FUNDS MANAGEMENT, LLC | 163575 | 360.34 | [https://www.linkedin.com/company/university-ventures/](https://www.linkedin.com/company/university-ventures/), [http://www.universityventures.com](http://www.universityventures.com), [https://www.facebook.com/pg/universityventuresfund/about/?ref=page_internal](https://www.facebook.com/pg/universityventuresfund/about/?ref=page_internal), [https://twitter.com/univenturesfund?lang=en](https://twitter.com/univenturesfund?lang=en) |
+| EDEN CAPITAL MANAGEMENT LLC | 290418 | 359.6 | [https://www.linkedin.com/company/eden-capital/](https://www.linkedin.com/company/eden-capital/), [http://www.edencp.com/](http://www.edencp.com/) |
+| VEDANTA MANAGEMENT, L.P. | 160685 | 358.64 | [http://www.vedantacapital.com](http://www.vedantacapital.com), [https://www.linkedin.com/company/vedacap](https://www.linkedin.com/company/vedacap) |
+| BLUE SQUARE ASSET MANAGEMENT, LLC | 296802 | 357.72 | [https://www.linkedin.com/company/bluesquarewealth/](https://www.linkedin.com/company/bluesquarewealth/), [https://www.bluesquarewealth.com](https://www.bluesquarewealth.com) |
+| 22V ASSET MANAGEMENT LLC | 323898 | 357.3 | [https://www.linkedin.com/company/22v-asset-management/about/](https://www.linkedin.com/company/22v-asset-management/about/), [http://www.22vam.com](http://www.22vam.com) |
+| PAPAMARKOU WELLNER ASSET MANAGEMENT, INC. | 131796 | 357.02 | [http://www.papamarkou.com](http://www.papamarkou.com), [https://www.linkedin.com/company/papamarkou-wellner-perkin/](https://www.linkedin.com/company/papamarkou-wellner-perkin/) |
+| TENCORE PARTNERS, LP | 299327 | 355.9 | [http://www.tencorepartners.com](http://www.tencorepartners.com), [https://www.linkedin.com/company/tencore-partners-l-p/](https://www.linkedin.com/company/tencore-partners-l-p/) |
+| BRIDGEPORT MANAGEMENT COMPANY LLC | 322871 | 355.77 | [https://bgptpartners.com](https://bgptpartners.com), [https://www.linkedin.com/company/bridgeportpartners/](https://www.linkedin.com/company/bridgeportpartners/) |
+| ACORN CAPITAL ADVISORS, LLC | 304164 | 355.3 | [https://www.acornbioventures.com](https://www.acornbioventures.com) |
+| NIGHT SQUARED LP | 333933 | 355.18 | [https://nightsquared.com/](https://nightsquared.com/) |
+| HARKNESS CAPITAL MANAGEMENT LLC | 289882 | 353.95 | [http://www.harknesscapital.com/](http://www.harknesscapital.com/) |
+| MAKARORA MANAGEMENT LP | 329275 | 353.34 | [https://makarora-lp.com/](https://makarora-lp.com/), [https://www.linkedin.com/company/makarora-lp](https://www.linkedin.com/company/makarora-lp) |
+| GUMSHOE CAPITAL MANAGEMENT LLC | 328451 | 352.05 | [https://gumshoecap.com](https://gumshoecap.com), [https://www.linkedin.com/company/gumshoe-capital-management/about/](https://www.linkedin.com/company/gumshoe-capital-management/about/) |
 | PERELLA WEINBERG PARTNERS CAPITAL MANAGEMENT LP | 143598 | 351.29 | N/A |
 | SCOGGIN MANAGEMENT LP | 157587 | 350.08 | N/A |
-| AULDBRASS PARTNERS, LP | 161360 | 348.93 | HTTP://WWW.AULDBRASSPARTNERS.COM/, HTTPS://WWW.LINKEDIN.COM/COMPANY/AULDBRASS-PARTNERS |
-| HEALTH CATALYST CAPITAL MANAGEMENT, LLC | 282602 | 348.01 | HTTPS://WWW.LINKEDIN.COM/COMPANY/HEALTH-CATALYST-CAPITAL-MANAGEMENT-LLC/, HTTP://WWW.HEALTHCATALYSTCAPITAL.COM/ |
-| BLUESTONE EQUITY PARTNERS, L.P. | 323332 | 347.83 | https://www.facebook.com/bluestoneequity, https://www.instagram.com/bluestoneequity/, http://bluestoneequity.com/, https://www.linkedin.com/company/bluestoneequity/about/, https://twitter.com/bluestoneequity |
-| MELKONIAN CAPITAL MANAGEMENT, LLC | 162543 | 347.75 | https://www.linkedin.com/company/melkonian-capital-management-llc/, HTTP://WWW.MELKONIANCAPITAL.COM |
+| AULDBRASS PARTNERS, LP | 161360 | 348.93 | [http://www.auldbrasspartners.com/](http://www.auldbrasspartners.com/), [https://www.linkedin.com/company/auldbrass-partners](https://www.linkedin.com/company/auldbrass-partners) |
+| HEALTH CATALYST CAPITAL MANAGEMENT, LLC | 282602 | 348.01 | [https://www.linkedin.com/company/health-catalyst-capital-management-llc/](https://www.linkedin.com/company/health-catalyst-capital-management-llc/), [http://www.healthcatalystcapital.com/](http://www.healthcatalystcapital.com/) |
+| BLUESTONE EQUITY PARTNERS, L.P. | 323332 | 347.83 | [https://www.facebook.com/bluestoneequity](https://www.facebook.com/bluestoneequity), [https://www.instagram.com/bluestoneequity/](https://www.instagram.com/bluestoneequity/), [http://bluestoneequity.com/](http://bluestoneequity.com/), [https://www.linkedin.com/company/bluestoneequity/about/](https://www.linkedin.com/company/bluestoneequity/about/), [https://twitter.com/bluestoneequity](https://twitter.com/bluestoneequity) |
+| MELKONIAN CAPITAL MANAGEMENT, LLC | 162543 | 347.75 | [https://www.linkedin.com/company/melkonian-capital-management-llc/](https://www.linkedin.com/company/melkonian-capital-management-llc/), [http://www.melkoniancapital.com](http://www.melkoniancapital.com) |
 | SAMJO MANAGEMENT, LLC | 326808 | 347.1 | N/A |
-| PLACEHOLDER MANAGEMENT, LLC | 292362 | 345.43 | https://twitter.com/placeholdervc?lang=en, HTTPS://PLACEHOLDER.VC |
-| NEXT MANAGEMENT ADVISORS, LLC | 324644 | 345.37 | http://www.next-investors.com, https://www.linkedin.com/company/next-investors/ |
-| EYRE STREET CAPITAL, LLC | 333970 | 344.92 | http://www.eyrestreet.com |
-| HIVEMIND CAPITAL PARTNERS LLC | 319077 | 340.98 | https://www.hivemindcapital.co/, https://www.linkedin.com/company/hivemindcapital, https://x.com/HivemindCap |
-| DURATIONAL CAPITAL MANAGEMENT LP | 291371 | 340.06 | https://www.linkedin.com/company/durational-capital-management/, HTTP://WWW.DURATIONAL.COM |
+| PLACEHOLDER MANAGEMENT, LLC | 292362 | 345.43 | [https://twitter.com/placeholdervc?lang=en](https://twitter.com/placeholdervc?lang=en), [https://placeholder.vc](https://placeholder.vc) |
+| NEXT MANAGEMENT ADVISORS, LLC | 324644 | 345.37 | [http://www.next-investors.com](http://www.next-investors.com), [https://www.linkedin.com/company/next-investors/](https://www.linkedin.com/company/next-investors/) |
+| EYRE STREET CAPITAL, LLC | 333970 | 344.92 | [http://www.eyrestreet.com](http://www.eyrestreet.com) |
+| HIVEMIND CAPITAL PARTNERS LLC | 319077 | 340.98 | [https://www.hivemindcapital.co/](https://www.hivemindcapital.co/), [https://www.linkedin.com/company/hivemindcapital](https://www.linkedin.com/company/hivemindcapital), [https://x.com/hivemindcap](https://x.com/hivemindcap) |
+| DURATIONAL CAPITAL MANAGEMENT LP | 291371 | 340.06 | [https://www.linkedin.com/company/durational-capital-management/](https://www.linkedin.com/company/durational-capital-management/), [http://www.durational.com](http://www.durational.com) |
 | GARNET EQUITY CAPITAL HOLDINGS, INC. | 161948 | 339.47 | N/A |
-| TWIN POINT CAPITAL LLC | 281731 | 335.43 | HTTP://WWW.TWINPOINTCAP.COM |
-| SECOND ALPHA PARTNERS, LLC | 282418 | 334.87 | HTTP://SECONDALPHA.COM, https://www.linkedin.com/company/second-alpha/about/ |
+| TWIN POINT CAPITAL LLC | 281731 | 335.43 | [http://www.twinpointcap.com](http://www.twinpointcap.com) |
+| SECOND ALPHA PARTNERS, LLC | 282418 | 334.87 | [http://secondalpha.com](http://secondalpha.com), [https://www.linkedin.com/company/second-alpha/about/](https://www.linkedin.com/company/second-alpha/about/) |
 | NOKOTA MANAGEMENT, LP | 159004 | 332.02 | N/A |
-| MASTERTON CAPITAL MANAGEMENT, LP | 308917 | 330.64 | https://www.linkedin.com/company/masterton-capital-management-lp, https://www.mastertoncapital.com |
-| JACOBS ASSET MANAGEMENT, LLC | 156563 | 329.83 | HTTPS://JAMPARTNERS.COM, https://www.linkedin.com/company/jacobs-asset-management/about/ |
+| MASTERTON CAPITAL MANAGEMENT, LP | 308917 | 330.64 | [https://www.linkedin.com/company/masterton-capital-management-lp](https://www.linkedin.com/company/masterton-capital-management-lp), [https://www.mastertoncapital.com](https://www.mastertoncapital.com) |
+| JACOBS ASSET MANAGEMENT, LLC | 156563 | 329.83 | [https://jampartners.com](https://jampartners.com), [https://www.linkedin.com/company/jacobs-asset-management/about/](https://www.linkedin.com/company/jacobs-asset-management/about/) |
 | MACQUARIE CAPITAL PARTNERS, LLC | 293250 | 329.68 | N/A |
 | RPM CAPITAL PARTNERS, LLC | 160913 | 327.02 | N/A |
-| CHALKSTREAM CAPITAL GROUP, L.P. | 153734 | 327.01 | HTTPS://WWW.LINKEDIN.COM/COMPANY/CHALKSTREAMCAPITALGROUP, HTTPS://WWW.CHALKSTREAMCAPITAL.COM |
-| COALESCENCE PARTNERS INVESTMENT MANAGEMENT LP | 285361 | 326.56 | HTTP://WWW.CP-IM.COM |
-| VENOR CAPITAL MANAGEMENT LP | 158327 | 326.16 | https://www.linkedin.com/company/venor-capital-management/about/, HTTP://WWW.VENORCAPITAL.COM |
-| SILVERPEAK REAL ESTATE PARTNERS L.P. | 156018 | 325.0 | HTTP://WWW.SILVERPEAK.COM/, https://www.linkedin.com/company/11232294 |
-| HERONETTA MANAGEMENT, L.P. | 157307 | 324.06 | HTTP://WWW.HERONMGMT.COM |
-| BLUE OPAL CAPITAL, LLC | 315680 | 321.92 | https://www.blueopalcapital.com/, https://www.linkedin.com/company/blueopalcapital/ |
-| OPTIMIST VENTURES LLC | 337808 | 319.12 | https://www.linkedin.com/company/optimist-ventures, https://www.optimist.vc |
-| TRIBUNE INVESTMENT GROUP LP | 329330 | 318.1 | https://tribunelp.com/, https://www.linkedin.com/company/tribune-investment-group-lp |
-| HEARTWOOD FUNDS, LLC | 136940 | 317.6 | https://HEARTWOODFUNDS.COM |
-| CHARTER OAK ADVISORS LP | 328387 | 315.01 | https://www.charteroakadvisors.com/ |
-| RIVERPARK CAPITAL MANAGEMENT LLC | 150798 | 315.0 | https://www.riverparkfunds.com, https://riverparkvc.com |
-| OPUS INVESTMENT MANAGEMENT LLC | 163262 | 314.54 | https://opusfund.com |
-| REPUBLIC DIGITAL FUND MANAGER LLC | 330536 | 314.0 | https://fpam.com/ |
-| DAVENTRY GROUP LP | 306533 | 313.01 | https://www.daventrygroup.com/, https://www.linkedin.com/company/daventry-group-lp/ |
-| FOOTPATH VENTURES LP | 306142 | 311.46 | https://www.linkedin.com/company/footpath-ventures/about/ |
-| BLUE OWL STRATEGIC EQUITY ADVISORS LLC | 325958 | 310.05 | https://www.linkedin.com/company/blue-owl-capital, https://www.blueowl.com/, https://twitter.com/BlueOwlCapital |
-| S SQUARED TECHNOLOGY, LLC | 124441 | 306.47 | HTTP://WWW.SSQUARED.COM |
-| LIVELLO CAPITAL MANAGEMENT LP | 305403 | 305.46 | https://livellocap.com/, https://www.linkedin.com/company/livello-capital-management/ |
-| DECAGON ASSET MANAGEMENT (US) LP | 322135 | 304.35 | http://www.decagonam.com |
-| TABOR ASSET MANAGEMENT, LP | 304666 | 303.18 | https://www.linkedin.com/company/tabor-asset-management, https://taborasset.com/ |
-| OAKCLIFF PARTNERS LLC | 162325 | 302.04 | https://www.linkedin.com/company/oakcliff-capital, http://www.oakcliffcapital.com/ |
-| PLUM ISLAND PARTNERS LLC | 337695 | 300.0 | https://www.linkedin.com/company/plum-island-partners-llc/about/?viewAsMember=true |
-| FULL IN PARTNERS MANAGEMENT, LLC | 309967 | 299.59 | https://www.fullin.com, https://www.linkedin.com/company/full-in-partners/ |
-| ONCE CAPITAL MANAGEMENT, LLC | 289714 | 296.65 | HTTP://ONCECAPITAL.COM/ |
-| SUPERSTATE ADVISERS LLC | 336188 | 295.31 | https://superstate.co, https://twitter.com/superstatefunds, https://www.linkedin.com/company/superstate |
-| JRE ADVISORS LLC | 318777 | 294.51 | https://www.linkedin.com/company/jre-partners, https://www.jre-partners.com/, https://www.instagram.com/jre_partners/ |
-| CRESTWOOD CAPITAL MANAGEMENT, L.P. | 160807 | 293.1 | http://www.Crestwood.Fund, HTTP://WWW.CRESTWOODCLIENT.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/CRESTWOOD-CAPITAL-MANAGEMENT-L.P./, HTTP://WWW.CRESTWOODFUNDS.COM, HTTP://WWW.CRESTWOODCAP.COM, HTTP://WWW.CRESTWOODCAPITALPARTNERS.COM |
-| GF CAPITAL ASSET ADVISORS, LLC | 160144 | 290.65 | HTTP://WWW.GFCAP.COM, https://www.linkedin.com/company/gf-capital-management/about/ |
-| INDAGO CAPITAL LLC | 330343 | 289.41 | https://www.linkedin.com/company/indago-capital/, https://www.indagocap.com/ |
-| STELLA POINT CAPITAL, LP | 290013 | 288.95 | HTTP://WWW.STELLAPOINT.COM/, https://www.linkedin.com/company/stella-point-capital/ |
-| PALISADE AMERICAS MANAGEMENT LLC | 322412 | 288.4 | https://palisadeinfrastructure.com/, https://www.linkedin.com/company/palisade-investment-partners/ |
-| LUMOS CAPITAL GROUP LLC | 306528 | 286.3 | https://www.linkedin.com/company/lumos-capital-group/, http://lumoscapitalgroup.com/ |
-| CLEARFIELD CAPITAL MANAGEMENT LP | 174981 | 280.51 | HTTP://WWW.CLEARFIELDCAP.COM/, https://www.linkedin.com/company/clearfield-capital-management/about/ |
-| EDEN GLOBAL ADVISORS LLC | 317761 | 279.18 | https://www.linkedin.com/company/eden-global-partners/about/, https://www.edengp.com/ |
+| CHALKSTREAM CAPITAL GROUP, L.P. | 153734 | 327.01 | [https://www.linkedin.com/company/chalkstreamcapitalgroup](https://www.linkedin.com/company/chalkstreamcapitalgroup), [https://www.chalkstreamcapital.com](https://www.chalkstreamcapital.com) |
+| COALESCENCE PARTNERS INVESTMENT MANAGEMENT LP | 285361 | 326.56 | [http://www.cp-im.com](http://www.cp-im.com) |
+| VENOR CAPITAL MANAGEMENT LP | 158327 | 326.16 | [https://www.linkedin.com/company/venor-capital-management/about/](https://www.linkedin.com/company/venor-capital-management/about/), [http://www.venorcapital.com](http://www.venorcapital.com) |
+| SILVERPEAK REAL ESTATE PARTNERS L.P. | 156018 | 325.0 | [http://www.silverpeak.com/](http://www.silverpeak.com/), [https://www.linkedin.com/company/11232294](https://www.linkedin.com/company/11232294) |
+| HERONETTA MANAGEMENT, L.P. | 157307 | 324.06 | [http://www.heronmgmt.com](http://www.heronmgmt.com) |
+| BLUE OPAL CAPITAL, LLC | 315680 | 321.92 | [https://www.blueopalcapital.com/](https://www.blueopalcapital.com/), [https://www.linkedin.com/company/blueopalcapital/](https://www.linkedin.com/company/blueopalcapital/) |
+| OPTIMIST VENTURES LLC | 337808 | 319.12 | [https://www.linkedin.com/company/optimist-ventures](https://www.linkedin.com/company/optimist-ventures), [https://www.optimist.vc](https://www.optimist.vc) |
+| TRIBUNE INVESTMENT GROUP LP | 329330 | 318.1 | [https://tribunelp.com/](https://tribunelp.com/), [https://www.linkedin.com/company/tribune-investment-group-lp](https://www.linkedin.com/company/tribune-investment-group-lp) |
+| HEARTWOOD FUNDS, LLC | 136940 | 317.6 | [https://heartwoodfunds.com](https://heartwoodfunds.com) |
+| CHARTER OAK ADVISORS LP | 328387 | 315.01 | [https://www.charteroakadvisors.com/](https://www.charteroakadvisors.com/) |
+| RIVERPARK CAPITAL MANAGEMENT LLC | 150798 | 315.0 | [https://www.riverparkfunds.com](https://www.riverparkfunds.com), [https://riverparkvc.com](https://riverparkvc.com) |
+| OPUS INVESTMENT MANAGEMENT LLC | 163262 | 314.54 | [https://opusfund.com](https://opusfund.com) |
+| REPUBLIC DIGITAL FUND MANAGER LLC | 330536 | 314.0 | [https://fpam.com/](https://fpam.com/) |
+| DAVENTRY GROUP LP | 306533 | 313.01 | [https://www.daventrygroup.com/](https://www.daventrygroup.com/), [https://www.linkedin.com/company/daventry-group-lp/](https://www.linkedin.com/company/daventry-group-lp/) |
+| FOOTPATH VENTURES LP | 306142 | 311.46 | [https://www.linkedin.com/company/footpath-ventures/about/](https://www.linkedin.com/company/footpath-ventures/about/) |
+| BLUE OWL STRATEGIC EQUITY ADVISORS LLC | 325958 | 310.05 | [https://www.linkedin.com/company/blue-owl-capital](https://www.linkedin.com/company/blue-owl-capital), [https://www.blueowl.com/](https://www.blueowl.com/), [https://twitter.com/blueowlcapital](https://twitter.com/blueowlcapital) |
+| S SQUARED TECHNOLOGY, LLC | 124441 | 306.47 | [http://www.ssquared.com](http://www.ssquared.com) |
+| LIVELLO CAPITAL MANAGEMENT LP | 305403 | 305.46 | [https://livellocap.com/](https://livellocap.com/), [https://www.linkedin.com/company/livello-capital-management/](https://www.linkedin.com/company/livello-capital-management/) |
+| DECAGON ASSET MANAGEMENT (US) LP | 322135 | 304.35 | [http://www.decagonam.com](http://www.decagonam.com) |
+| TABOR ASSET MANAGEMENT, LP | 304666 | 303.18 | [https://www.linkedin.com/company/tabor-asset-management](https://www.linkedin.com/company/tabor-asset-management), [https://taborasset.com/](https://taborasset.com/) |
+| OAKCLIFF PARTNERS LLC | 162325 | 302.04 | [https://www.linkedin.com/company/oakcliff-capital](https://www.linkedin.com/company/oakcliff-capital), [http://www.oakcliffcapital.com/](http://www.oakcliffcapital.com/) |
+| PLUM ISLAND PARTNERS LLC | 337695 | 300.0 | [https://www.linkedin.com/company/plum-island-partners-llc/about/?viewasmember=true](https://www.linkedin.com/company/plum-island-partners-llc/about/?viewasmember=true) |
+| FULL IN PARTNERS MANAGEMENT, LLC | 309967 | 299.59 | [https://www.fullin.com](https://www.fullin.com), [https://www.linkedin.com/company/full-in-partners/](https://www.linkedin.com/company/full-in-partners/) |
+| ONCE CAPITAL MANAGEMENT, LLC | 289714 | 296.65 | [http://oncecapital.com/](http://oncecapital.com/) |
+| SUPERSTATE ADVISERS LLC | 336188 | 295.31 | [https://superstate.co](https://superstate.co), [https://twitter.com/superstatefunds](https://twitter.com/superstatefunds), [https://www.linkedin.com/company/superstate](https://www.linkedin.com/company/superstate) |
+| JRE ADVISORS LLC | 318777 | 294.51 | [https://www.linkedin.com/company/jre-partners](https://www.linkedin.com/company/jre-partners), [https://www.jre-partners.com/](https://www.jre-partners.com/), [https://www.instagram.com/jre_partners/](https://www.instagram.com/jre_partners/) |
+| CRESTWOOD CAPITAL MANAGEMENT, L.P. | 160807 | 293.1 | [http://www.crestwood.fund](http://www.crestwood.fund), [http://www.crestwoodclient.com](http://www.crestwoodclient.com), [https://www.linkedin.com/company/crestwood-capital-management-l.p./](https://www.linkedin.com/company/crestwood-capital-management-l.p./), [http://www.crestwoodfunds.com](http://www.crestwoodfunds.com), [http://www.crestwoodcap.com](http://www.crestwoodcap.com), [http://www.crestwoodcapitalpartners.com](http://www.crestwoodcapitalpartners.com) |
+| GF CAPITAL ASSET ADVISORS, LLC | 160144 | 290.65 | [http://www.gfcap.com](http://www.gfcap.com), [https://www.linkedin.com/company/gf-capital-management/about/](https://www.linkedin.com/company/gf-capital-management/about/) |
+| INDAGO CAPITAL LLC | 330343 | 289.41 | [https://www.linkedin.com/company/indago-capital/](https://www.linkedin.com/company/indago-capital/), [https://www.indagocap.com/](https://www.indagocap.com/) |
+| STELLA POINT CAPITAL, LP | 290013 | 288.95 | [http://www.stellapoint.com/](http://www.stellapoint.com/), [https://www.linkedin.com/company/stella-point-capital/](https://www.linkedin.com/company/stella-point-capital/) |
+| PALISADE AMERICAS MANAGEMENT LLC | 322412 | 288.4 | [https://palisadeinfrastructure.com/](https://palisadeinfrastructure.com/), [https://www.linkedin.com/company/palisade-investment-partners/](https://www.linkedin.com/company/palisade-investment-partners/) |
+| LUMOS CAPITAL GROUP LLC | 306528 | 286.3 | [https://www.linkedin.com/company/lumos-capital-group/](https://www.linkedin.com/company/lumos-capital-group/), [http://lumoscapitalgroup.com/](http://lumoscapitalgroup.com/) |
+| CLEARFIELD CAPITAL MANAGEMENT LP | 174981 | 280.51 | [http://www.clearfieldcap.com/](http://www.clearfieldcap.com/), [https://www.linkedin.com/company/clearfield-capital-management/about/](https://www.linkedin.com/company/clearfield-capital-management/about/) |
+| EDEN GLOBAL ADVISORS LLC | 317761 | 279.18 | [https://www.linkedin.com/company/eden-global-partners/about/](https://www.linkedin.com/company/eden-global-partners/about/), [https://www.edengp.com/](https://www.edengp.com/) |
 | ADVANTAGE ADVISERS MANAGEMENT, LLC | 108180 | 277.67 | N/A |
-| HALE CAPITAL MANAGEMENT, LP | 157220 | 275.96 | HTTP://WWW.HALECAPITAL.COM, HTTP://WWW.HALECAPITALMANAGMENT.COM, HTTP://WWW.HALEFUNDMANAGEMENT.COM, https://twitter.com/HaleFunds, HTTPS://WWW.LINKEDIN.COM/COMPANY/HALE-CAPITAL-PARTNERS/, HTTP://WWW.HALEFUNDS.COM, HTTP://WWW.HALECAPITALPARTNERS.COM, HTTP://WWW.HALECAP.COM |
+| HALE CAPITAL MANAGEMENT, LP | 157220 | 275.96 | [http://www.halecapital.com](http://www.halecapital.com), [http://www.halecapitalmanagment.com](http://www.halecapitalmanagment.com), [http://www.halefundmanagement.com](http://www.halefundmanagement.com), [https://twitter.com/halefunds](https://twitter.com/halefunds), [https://www.linkedin.com/company/hale-capital-partners/](https://www.linkedin.com/company/hale-capital-partners/), [http://www.halefunds.com](http://www.halefunds.com), [http://www.halecapitalpartners.com](http://www.halecapitalpartners.com), [http://www.halecap.com](http://www.halecap.com) |
 | STILWELL VALUE LLC | 160697 | 274.94 | N/A |
-| RITHM CAPITAL ADVISORS LLC | 334244 | 274.12 | https://www.linkedin.com/company/rithm-capital-corp/, https://www.rithmcap.com |
-| ADALTA CAPITAL MANAGEMENT LLC | 283771 | 273.93 | HTTP://WWW.ADALTACAP.COM |
-| A.R.T. ADVISORS, LLC | 161643 | 273.79 | https://www.linkedin.com/company/a-r-t-advisors-llc |
-| SELLARONDA GLOBAL MANAGEMENT LP | 325400 | 273.2 | https://www.linkedin.com/company/sellarondaglobal/, https://www.sellarondaglobal.com/ |
-| PHOENIX REALTY GROUP LLC | 160249 | 272.51 | HTTP://WWW.PHOENIXRG.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/PHOENIX-REALTY-GROUP/ |
-| TWIN SECURITIES, INC. | 158318 | 271.43 | HTTPS://WWW.TWINCAP.COM, https://www.linkedin.com/company/twin-capital-management-llc/about/ |
-| GOODE PARTNERS LLC | 161816 | 270.81 | HTTP://WWW.GOODEPARTNERS.COM |
-| AC INVESTMENT MANAGEMENT, LLC | 140443 | 270.6 | HTTP://WWW.ACIMFUNDS.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/AC-ENERGY/ |
-| 325 CAPITAL LLC | 310762 | 270.54 | https://325capital.com/, https://www.linkedin.com/company/325-capital/ |
-| INNOVAHEALTH PARTNERS, LP | 297788 | 269.02 | HTTP://WWW.INNOVAHEALTHPARTNERS.COM/, https://www.youtube.com/channel/UCONnr0g7-GW2ls2RQztxfvg, https://www.linkedin.com/company/innovahealthpartnerslp, HTTP://WWW.TWITTER.COM/INNOVAHP |
-| THE VISUALIZE GROUP LP | 327531 | 262.24 | https://www.linkedin.com/company/the-visualize-group/about/, https://www.thevisualizegroup.com |
-| KINTAYL CAPITAL LP | 331471 | 261.97 | https://www.linkedin.com/company/kintayl-capital/, https://kintayl.com/ |
-| CORINTHIA MANAGEMENT (US) LLC | 332982 | 261.4 | http://www.corinthiagm.com |
-| CONSELLO MANAGEMENT LP | 317399 | 261.07 | https://consello.com/, https://www.linkedin.com/company/consello-group, https://www.youtube.com/channel/UC4VFhD3zgNnZbWU6SceBBKQ |
-| CROSS RAPIDS CAPITAL LP | 313143 | 260.59 | https://www.linkedin.com/company/cross-rapids-capital, https://crossrapids.com/ |
-| MW ADVISOR, LLC | 332429 | 260.19 | http://www.marathonfund.com, https://www.linkedin.com/company/marathon-asset-management/ |
-| SCALEBUILDER, LLC | 313276 | 258.89 | https://scalebuilder.net/ |
-| J.H. LANE PARTNERS, LP | 282383 | 258.3 | HTTP://WWW.JHLANEPARTNERS.COM, HTTP://WWW.JHLANE.COM |
-| KINEO CAPITAL LLC | 315019 | 258.0 | https://www.kineocapital.com |
-| MAN CAPITAL MANAGEMENT LLC | 146110 | 256.62 | HTTPS://WWW.MAN.COM |
-| VELOCITY CAPITAL MANAGEMENT LLC | 321641 | 256.39 | https://twitter.com/VelocityVCM, http://www.velocitycm.com, https://www.linkedin.com/company/velocity-capital-management/ |
-| ZEPHYR MANAGEMENT, L.P. | 129683 | 256.3 | https://www.linkedin.com/company/zephyr-peacock-india/, https://in.pinterest.com/zephyr_management/, https://www.zephyrpeacock.com, https://www.linkedin.com/company/zephyr-wealth-management, HTTP://WWW.ZMLP.COM, https://www.tumblr.com/zephyrmanagement/808141237920088064/zephyr-management, https://medium.com/@zmlp, https://www.linkedin.com/company/zephyr-acorn/, https://www.youtube.com/@zephyrpeacockindia9895, https://twitter.com/ZephyrPeacock, https://www.linkedin.com/company/zephyr-management-l.p./ |
+| RITHM CAPITAL ADVISORS LLC | 334244 | 274.12 | [https://www.linkedin.com/company/rithm-capital-corp/](https://www.linkedin.com/company/rithm-capital-corp/), [https://www.rithmcap.com](https://www.rithmcap.com) |
+| ADALTA CAPITAL MANAGEMENT LLC | 283771 | 273.93 | [http://www.adaltacap.com](http://www.adaltacap.com) |
+| A.R.T. ADVISORS, LLC | 161643 | 273.79 | [https://www.linkedin.com/company/a-r-t-advisors-llc](https://www.linkedin.com/company/a-r-t-advisors-llc) |
+| SELLARONDA GLOBAL MANAGEMENT LP | 325400 | 273.2 | [https://www.linkedin.com/company/sellarondaglobal/](https://www.linkedin.com/company/sellarondaglobal/), [https://www.sellarondaglobal.com/](https://www.sellarondaglobal.com/) |
+| PHOENIX REALTY GROUP LLC | 160249 | 272.51 | [http://www.phoenixrg.com](http://www.phoenixrg.com), [https://www.linkedin.com/company/phoenix-realty-group/](https://www.linkedin.com/company/phoenix-realty-group/) |
+| TWIN SECURITIES, INC. | 158318 | 271.43 | [https://www.twincap.com](https://www.twincap.com), [https://www.linkedin.com/company/twin-capital-management-llc/about/](https://www.linkedin.com/company/twin-capital-management-llc/about/) |
+| GOODE PARTNERS LLC | 161816 | 270.81 | [http://www.goodepartners.com](http://www.goodepartners.com) |
+| AC INVESTMENT MANAGEMENT, LLC | 140443 | 270.6 | [http://www.acimfunds.com](http://www.acimfunds.com), [https://www.linkedin.com/company/ac-energy/](https://www.linkedin.com/company/ac-energy/) |
+| 325 CAPITAL LLC | 310762 | 270.54 | [https://325capital.com/](https://325capital.com/), [https://www.linkedin.com/company/325-capital/](https://www.linkedin.com/company/325-capital/) |
+| INNOVAHEALTH PARTNERS, LP | 297788 | 269.02 | [http://www.innovahealthpartners.com/](http://www.innovahealthpartners.com/), [https://www.youtube.com/channel/uconnr0g7-gw2ls2rqztxfvg](https://www.youtube.com/channel/uconnr0g7-gw2ls2rqztxfvg), [https://www.linkedin.com/company/innovahealthpartnerslp](https://www.linkedin.com/company/innovahealthpartnerslp), [http://www.twitter.com/innovahp](http://www.twitter.com/innovahp) |
+| THE VISUALIZE GROUP LP | 327531 | 262.24 | [https://www.linkedin.com/company/the-visualize-group/about/](https://www.linkedin.com/company/the-visualize-group/about/), [https://www.thevisualizegroup.com](https://www.thevisualizegroup.com) |
+| KINTAYL CAPITAL LP | 331471 | 261.97 | [https://www.linkedin.com/company/kintayl-capital/](https://www.linkedin.com/company/kintayl-capital/), [https://kintayl.com/](https://kintayl.com/) |
+| CORINTHIA MANAGEMENT (US) LLC | 332982 | 261.4 | [http://www.corinthiagm.com](http://www.corinthiagm.com) |
+| CONSELLO MANAGEMENT LP | 317399 | 261.07 | [https://consello.com/](https://consello.com/), [https://www.linkedin.com/company/consello-group](https://www.linkedin.com/company/consello-group), [https://www.youtube.com/channel/uc4vfhd3zgnnzbwu6scebbkq](https://www.youtube.com/channel/uc4vfhd3zgnnzbwu6scebbkq) |
+| CROSS RAPIDS CAPITAL LP | 313143 | 260.59 | [https://www.linkedin.com/company/cross-rapids-capital](https://www.linkedin.com/company/cross-rapids-capital), [https://crossrapids.com/](https://crossrapids.com/) |
+| MW ADVISOR, LLC | 332429 | 260.19 | [http://www.marathonfund.com](http://www.marathonfund.com), [https://www.linkedin.com/company/marathon-asset-management/](https://www.linkedin.com/company/marathon-asset-management/) |
+| SCALEBUILDER, LLC | 313276 | 258.89 | [https://scalebuilder.net/](https://scalebuilder.net/) |
+| J.H. LANE PARTNERS, LP | 282383 | 258.3 | [http://www.jhlanepartners.com](http://www.jhlanepartners.com), [http://www.jhlane.com](http://www.jhlane.com) |
+| KINEO CAPITAL LLC | 315019 | 258.0 | [https://www.kineocapital.com](https://www.kineocapital.com) |
+| MAN CAPITAL MANAGEMENT LLC | 146110 | 256.62 | [https://www.man.com](https://www.man.com) |
+| VELOCITY CAPITAL MANAGEMENT LLC | 321641 | 256.39 | [https://twitter.com/velocityvcm](https://twitter.com/velocityvcm), [http://www.velocitycm.com](http://www.velocitycm.com), [https://www.linkedin.com/company/velocity-capital-management/](https://www.linkedin.com/company/velocity-capital-management/) |
+| ZEPHYR MANAGEMENT, L.P. | 129683 | 256.3 | [https://www.linkedin.com/company/zephyr-peacock-india/](https://www.linkedin.com/company/zephyr-peacock-india/), [https://in.pinterest.com/zephyr_management/](https://in.pinterest.com/zephyr_management/), [https://www.zephyrpeacock.com](https://www.zephyrpeacock.com), [https://www.linkedin.com/company/zephyr-wealth-management](https://www.linkedin.com/company/zephyr-wealth-management), [http://www.zmlp.com](http://www.zmlp.com), [https://www.tumblr.com/zephyrmanagement/808141237920088064/zephyr-management](https://www.tumblr.com/zephyrmanagement/808141237920088064/zephyr-management), [https://medium.com/@zmlp](https://medium.com/@zmlp), [https://www.linkedin.com/company/zephyr-acorn/](https://www.linkedin.com/company/zephyr-acorn/), [https://www.youtube.com/@zephyrpeacockindia9895](https://www.youtube.com/@zephyrpeacockindia9895), [https://twitter.com/zephyrpeacock](https://twitter.com/zephyrpeacock), [https://www.linkedin.com/company/zephyr-management-l.p./](https://www.linkedin.com/company/zephyr-management-l.p./) |
 | DONALD SMITH, L.P. | 285701 | 255.95 | N/A |
-| FUTURE POSITIVE MANAGEMENT, L.L.C. | 309644 | 255.67 | https://www.futurepositive.com/, https://twitter.com/futurepositive |
-| STABILIS CAPITAL MANAGEMENT, LP | 161553 | 255.26 | https://www.linkedin.com/company/stabilis-capital-management-lp/, HTTP://WWW.STABILISCAP.COM |
+| FUTURE POSITIVE MANAGEMENT, L.L.C. | 309644 | 255.67 | [https://www.futurepositive.com/](https://www.futurepositive.com/), [https://twitter.com/futurepositive](https://twitter.com/futurepositive) |
+| STABILIS CAPITAL MANAGEMENT, LP | 161553 | 255.26 | [https://www.linkedin.com/company/stabilis-capital-management-lp/](https://www.linkedin.com/company/stabilis-capital-management-lp/), [http://www.stabiliscap.com](http://www.stabiliscap.com) |
 | OPPENHEIMERFUNDS INC | 104983 | 253.93 | N/A |
-| TRILL IMPACT ADVISORY INC. | 328179 | 253.83 | https://www.trillimpact.com/, https://www.linkedin.com/company/trill-impact/ |
-| 10 EAST PARTNERS LLC | 322360 | 253.42 | https://app.10east.co/, https://www.linkedin.com/company/10east/, https://twitter.com/invest10east, https://www.instagram.com/invest10east/, https://www.facebook.com/invest10east |
-| ELCO MANAGEMENT COMPANY, LLC | 137036 | 252.16 | HTTP://WWW.ELCOMANAGEMENT.COM |
+| TRILL IMPACT ADVISORY INC. | 328179 | 253.83 | [https://www.trillimpact.com/](https://www.trillimpact.com/), [https://www.linkedin.com/company/trill-impact/](https://www.linkedin.com/company/trill-impact/) |
+| 10 EAST PARTNERS LLC | 322360 | 253.42 | [https://app.10east.co/](https://app.10east.co/), [https://www.linkedin.com/company/10east/](https://www.linkedin.com/company/10east/), [https://twitter.com/invest10east](https://twitter.com/invest10east), [https://www.instagram.com/invest10east/](https://www.instagram.com/invest10east/), [https://www.facebook.com/invest10east](https://www.facebook.com/invest10east) |
+| ELCO MANAGEMENT COMPANY, LLC | 137036 | 252.16 | [http://www.elcomanagement.com](http://www.elcomanagement.com) |
 | CANDELO CAPITAL MANAGEMENT LP | 307389 | 251.83 | N/A |
-| LBB HOLDING COMPANY LLC | 282285 | 250.33 | HTTP://WWW.LBB-INDUSTRIES.COM |
-| COLTRANE ASSET MANAGEMENT, L.P. | 165131 | 249.66 | HTTP://COLTRANEAM.COM/, HTTPS://WWW.LINKEDIN.COM/COMPANY/COLTRANE-ASSET-MANAGEMENT-LP |
-| ARIA GROWTH PARTNERS LP | 315978 | 247.61 | https://www.linkedin.com/company/aria-growth/, https://www.ariagrowth.com/ |
-| ANANYM CAPITAL MANAGEMENT, LP | 332320 | 246.94 | https://ananymcapital.com, https://www.linkedin.com/company/ananym-capital-management |
+| LBB HOLDING COMPANY LLC | 282285 | 250.33 | [http://www.lbb-industries.com](http://www.lbb-industries.com) |
+| COLTRANE ASSET MANAGEMENT, L.P. | 165131 | 249.66 | [http://coltraneam.com/](http://coltraneam.com/), [https://www.linkedin.com/company/coltrane-asset-management-lp](https://www.linkedin.com/company/coltrane-asset-management-lp) |
+| ARIA GROWTH PARTNERS LP | 315978 | 247.61 | [https://www.linkedin.com/company/aria-growth/](https://www.linkedin.com/company/aria-growth/), [https://www.ariagrowth.com/](https://www.ariagrowth.com/) |
+| ANANYM CAPITAL MANAGEMENT, LP | 332320 | 246.94 | [https://ananymcapital.com](https://ananymcapital.com), [https://www.linkedin.com/company/ananym-capital-management](https://www.linkedin.com/company/ananym-capital-management) |
 | REYNOLDS CHANNEL MANAGEMENT, L.P. | 296292 | 241.87 | N/A |
-| FORSYTH STREET ASSET MANAGEMENT LLC | 310545 | 240.98 | https://www.baltimoreniif.org/, https://www.nashvillecatalyst.org/, https://www.newgenerationfund.com/, https://www.nycacquisitionfund.com/, http://www.forsythstreet.com, https://www.nycdownpaymentfund.com/ |
-| BRIZO CAPITAL, LP | 298102 | 240.61 | https://www.linkedin.com/company/brizo-capital, https://www.brizocapital.com |
+| FORSYTH STREET ASSET MANAGEMENT LLC | 310545 | 240.98 | [https://www.baltimoreniif.org/](https://www.baltimoreniif.org/), [https://www.nashvillecatalyst.org/](https://www.nashvillecatalyst.org/), [https://www.newgenerationfund.com/](https://www.newgenerationfund.com/), [https://www.nycacquisitionfund.com/](https://www.nycacquisitionfund.com/), [http://www.forsythstreet.com](http://www.forsythstreet.com), [https://www.nycdownpaymentfund.com/](https://www.nycdownpaymentfund.com/) |
+| BRIZO CAPITAL, LP | 298102 | 240.61 | [https://www.linkedin.com/company/brizo-capital](https://www.linkedin.com/company/brizo-capital), [https://www.brizocapital.com](https://www.brizocapital.com) |
 | AACP INVESTMENTS, LLC | 314568 | 239.58 | N/A |
-| FINDELL CAPITAL MANAGEMENT LLC | 307394 | 237.26 | https://www.fincap.us/, http://twitter.com/@fin_capital, https://findell.us/ |
-| KIZE CAPITAL LP | 305608 | 237.1 | https://www.kizecapital.com/ |
-| HAZELVIEW SECURITIES (US) LLC | 174811 | 236.78 | HTTPS://WWW.HAZELVIEW.COM |
-| STROBE VENTURES L.P. | 334227 | 235.32 | https://www.strobe.fund/, https://x.com/strobefund |
+| FINDELL CAPITAL MANAGEMENT LLC | 307394 | 237.26 | [https://www.fincap.us/](https://www.fincap.us/), [http://twitter.com/@fin_capital](http://twitter.com/@fin_capital), [https://findell.us/](https://findell.us/) |
+| KIZE CAPITAL LP | 305608 | 237.1 | [https://www.kizecapital.com/](https://www.kizecapital.com/) |
+| HAZELVIEW SECURITIES (US) LLC | 174811 | 236.78 | [https://www.hazelview.com](https://www.hazelview.com) |
+| STROBE VENTURES L.P. | 334227 | 235.32 | [https://www.strobe.fund/](https://www.strobe.fund/), [https://x.com/strobefund](https://x.com/strobefund) |
 | DILATION CAPITAL MANAGEMENT LP | 307862 | 228.83 | N/A |
-| POWER INNOVATION PARTNERS, L.P. | 312100 | 228.75 | https://www.linkedin.com/company/power-innovation-partners, https://www.powerinnovationpartners.com/ |
-| WYNNEFIELD CAPITAL, INC. | 157604 | 228.11 | HTTP://WWW.WYNNEFIELDCAPITAL.COM, https://www.linkedin.com/company/wynnefield-capital-management/about/, https://www.facebook.com/wynnecap/ |
-| BOYAR ASSET MANAGEMENT INC | 105255 | 225.83 | HTTPS://TWITTER.COM/BOYARVALUE, HTTPS://WWW.LINKEDIN.COM/COMPANY/BOYAR-INTRINSIC-VALUE-RESEARC/, HTTPS://WWW.BOYARASSETMANAGEMENT.COM, https://www.facebook.com/boyarvalue/, https://www.boyarvaluegroup.com/, https://boyarresearch.substack.com/, https://www.youtube.com/@theworldaccordingtoboyar1437, https://www.youtube.com/@boyarvaluegroup3082 |
+| POWER INNOVATION PARTNERS, L.P. | 312100 | 228.75 | [https://www.linkedin.com/company/power-innovation-partners](https://www.linkedin.com/company/power-innovation-partners), [https://www.powerinnovationpartners.com/](https://www.powerinnovationpartners.com/) |
+| WYNNEFIELD CAPITAL, INC. | 157604 | 228.11 | [http://www.wynnefieldcapital.com](http://www.wynnefieldcapital.com), [https://www.linkedin.com/company/wynnefield-capital-management/about/](https://www.linkedin.com/company/wynnefield-capital-management/about/), [https://www.facebook.com/wynnecap/](https://www.facebook.com/wynnecap/) |
+| BOYAR ASSET MANAGEMENT INC | 105255 | 225.83 | [https://twitter.com/boyarvalue](https://twitter.com/boyarvalue), [https://www.linkedin.com/company/boyar-intrinsic-value-researc/](https://www.linkedin.com/company/boyar-intrinsic-value-researc/), [https://www.boyarassetmanagement.com](https://www.boyarassetmanagement.com), [https://www.facebook.com/boyarvalue/](https://www.facebook.com/boyarvalue/), [https://www.boyarvaluegroup.com/](https://www.boyarvaluegroup.com/), [https://boyarresearch.substack.com/](https://boyarresearch.substack.com/), [https://www.youtube.com/@theworldaccordingtoboyar1437](https://www.youtube.com/@theworldaccordingtoboyar1437), [https://www.youtube.com/@boyarvaluegroup3082](https://www.youtube.com/@boyarvaluegroup3082) |
 | NEWPOINT REAL ESTATE INVESTMENT MANAGEMENT LLC | 321208 | 225.8 | N/A |
-| CORINTHIAN CAPITAL GROUP, LLC | 160346 | 225.31 | HTTP://WWW.CORINTHIANCAP.COM, https://www.facebook.com/pages/category/Financial-Service/Corinthian-Capital-Group-175726575880833/, https://www.linkedin.com/company/corinthian-capital-group/about/, https://twitter.com/corinthiancap |
-| TWO SIGMA REAL ESTATE, LP | 324210 | 225.0 | https://www.twosigma.com/businesses/real-estate/, https://x.com/twosigma, https://www.linkedin.com/company/two-sigma-investments |
-| SPRING MOUNTAIN CAPITAL, LP | 119126 | 219.45 | https://www.linkedin.com/company/west-harlem-innovation-network/about/, https://westharleminnovationnetwork.com/, https://www.springmountaincapital.com/, https://twitter.com/harlem_network, https://www.facebook.com/WestHarlemInnovationNetwork, https://whin.nyc, https://www.instagram.com/westharleminnovationnetwork/ |
-| LONG POINT CAPITAL, INC | 163061 | 218.7 | HTTP://WWW.LPCFUND.COM, HTTP://WWW.LONGPOINTCAPITAL.COM |
-| SUPERSTRING CAPITAL MANAGEMENT LP | 305743 | 218.3 | http://superstringcap.com/ |
-| SOUNDCORE CAPITAL PARTNERS, LP | 331288 | 216.3 | https://www.linkedin.com/company/soundcore-capital-partners/, https://www.soundcorecap.com/ |
-| SENDER COMPANY & PARTNERS, INC. | 282319 | 216.3 | https://www.linkedin.com/company/sender-company-&-partners, HTTP://WWW.SENDERCOMPANY.COM/ |
-| GUGGENHEIM PRIVATE INVESTMENTS, LLC | 331479 | 216.21 | https://www.guggenheiminvestments.com |
-| CT INVESTMENT MANAGEMENT CO., LLC | 160080 | 215.67 | https://www.instagram.com/blackstone, https://open.spotify.com/artist/52Eom8vQxM8Lk75ZZlf2hJ, https://blackstone.podbean.com/, https://www.youtube.com/user/blackstonegroup, https://apple.co/31Pe1Gg, https://x.com/blackstone, https://www.blackstone.com, https://mp.weixin.qq.com/s/FtddoP2F9zDZ1QFBgOQAAA, https://soundcloud.com/blackstone-300250613, https://www.linkedin.com/company/blackstonegroup, https://www.facebook.com/blackstone, https://spoti.fi/2LJ1tHG, https://www.pandora.com/artist/blackstone/ARvlPz9Plblrlmg |
-| LONETREE CAPITAL, LLC | 321784 | 215.15 | https://www.linkedin.com/company/lonetree-capital, https://www.lonetreecap.com |
-| GATEMORE CAPITAL MANAGEMENT LP | 332864 | 213.73 | https://uk.linkedin.com/company/gvp-climate, https://www.linkedin.com/company/2086357, https://gatemore.com/, https://gvpclimate.com/, https://twitter.com/gatemore |
-| PATRICOF CO. LLC | 320902 | 212.63 | http://www.pco.com, https://www.linkedin.com/company/patricof-co, https://www.instagram.com/patricofco |
-| EXOME ASSET MANAGEMENT LLC | 304585 | 210.76 | https://www.linkedin.com/company/exome-asset-management, https://www.exomeasset.com/ |
-| GS GAMMA ADVISORS, LLC | 135424 | 209.65 | HTTP://WWW.GUGGENHEIMINVESTMENTS.COM, HTTP://WWW.GSGAMMA.COM, HTTP://WWW.GUGGENHEIMPARTNERS.COM |
-| LATTIS MANAGEMENT LP | 333629 | 209.31 | https://www.lattis.com, https://www.linkedin.com/company/lattislp/ |
-| ROOM40 CAPITAL LLC | 322436 | 209.01 | https://www.linkedin.com/company/room40cap, https://x.com/room40xyz, https://www.room40.capital/, https://www.room40.xyz/ |
-| YIELDPOINT, L.P. | 311859 | 206.19 | https://www.linkedin.com/company/yieldpoint/, https://www.yieldpointlp.com/ |
-| LC VERO MANAGER LLC | 338361 | 205.62 | https://www.verocapital.com/, https://lcvero.com/ |
+| CORINTHIAN CAPITAL GROUP, LLC | 160346 | 225.31 | [http://www.corinthiancap.com](http://www.corinthiancap.com), [https://www.facebook.com/pages/category/financial-service/corinthian-capital-group-175726575880833/](https://www.facebook.com/pages/category/financial-service/corinthian-capital-group-175726575880833/), [https://www.linkedin.com/company/corinthian-capital-group/about/](https://www.linkedin.com/company/corinthian-capital-group/about/), [https://twitter.com/corinthiancap](https://twitter.com/corinthiancap) |
+| TWO SIGMA REAL ESTATE, LP | 324210 | 225.0 | [https://www.twosigma.com/businesses/real-estate/](https://www.twosigma.com/businesses/real-estate/), [https://x.com/twosigma](https://x.com/twosigma), [https://www.linkedin.com/company/two-sigma-investments](https://www.linkedin.com/company/two-sigma-investments) |
+| SPRING MOUNTAIN CAPITAL, LP | 119126 | 219.45 | [https://www.linkedin.com/company/west-harlem-innovation-network/about/](https://www.linkedin.com/company/west-harlem-innovation-network/about/), [https://westharleminnovationnetwork.com/](https://westharleminnovationnetwork.com/), [https://www.springmountaincapital.com/](https://www.springmountaincapital.com/), [https://twitter.com/harlem_network](https://twitter.com/harlem_network), [https://www.facebook.com/westharleminnovationnetwork](https://www.facebook.com/westharleminnovationnetwork), [https://whin.nyc](https://whin.nyc), [https://www.instagram.com/westharleminnovationnetwork/](https://www.instagram.com/westharleminnovationnetwork/) |
+| LONG POINT CAPITAL, INC | 163061 | 218.7 | [http://www.lpcfund.com](http://www.lpcfund.com), [http://www.longpointcapital.com](http://www.longpointcapital.com) |
+| SUPERSTRING CAPITAL MANAGEMENT LP | 305743 | 218.3 | [http://superstringcap.com/](http://superstringcap.com/) |
+| SOUNDCORE CAPITAL PARTNERS, LP | 331288 | 216.3 | [https://www.linkedin.com/company/soundcore-capital-partners/](https://www.linkedin.com/company/soundcore-capital-partners/), [https://www.soundcorecap.com/](https://www.soundcorecap.com/) |
+| SENDER COMPANY & PARTNERS, INC. | 282319 | 216.3 | [https://www.linkedin.com/company/sender-company-&-partners](https://www.linkedin.com/company/sender-company-&-partners), [http://www.sendercompany.com/](http://www.sendercompany.com/) |
+| GUGGENHEIM PRIVATE INVESTMENTS, LLC | 331479 | 216.21 | [https://www.guggenheiminvestments.com](https://www.guggenheiminvestments.com) |
+| CT INVESTMENT MANAGEMENT CO., LLC | 160080 | 215.67 | [https://www.instagram.com/blackstone](https://www.instagram.com/blackstone), [https://open.spotify.com/artist/52eom8vqxm8lk75zzlf2hj](https://open.spotify.com/artist/52eom8vqxm8lk75zzlf2hj), [https://blackstone.podbean.com/](https://blackstone.podbean.com/), [https://www.youtube.com/user/blackstonegroup](https://www.youtube.com/user/blackstonegroup), [https://apple.co/31pe1gg](https://apple.co/31pe1gg), [https://x.com/blackstone](https://x.com/blackstone), [https://www.blackstone.com](https://www.blackstone.com), [https://mp.weixin.qq.com/s/ftddop2f9zdz1qfbgoqaaa](https://mp.weixin.qq.com/s/ftddop2f9zdz1qfbgoqaaa), [https://soundcloud.com/blackstone-300250613](https://soundcloud.com/blackstone-300250613), [https://www.linkedin.com/company/blackstonegroup](https://www.linkedin.com/company/blackstonegroup), [https://www.facebook.com/blackstone](https://www.facebook.com/blackstone), [https://spoti.fi/2lj1thg](https://spoti.fi/2lj1thg), [https://www.pandora.com/artist/blackstone/arvlpz9plblrlmg](https://www.pandora.com/artist/blackstone/arvlpz9plblrlmg) |
+| LONETREE CAPITAL, LLC | 321784 | 215.15 | [https://www.linkedin.com/company/lonetree-capital](https://www.linkedin.com/company/lonetree-capital), [https://www.lonetreecap.com](https://www.lonetreecap.com) |
+| GATEMORE CAPITAL MANAGEMENT LP | 332864 | 213.73 | [https://uk.linkedin.com/company/gvp-climate](https://uk.linkedin.com/company/gvp-climate), [https://www.linkedin.com/company/2086357](https://www.linkedin.com/company/2086357), [https://gatemore.com/](https://gatemore.com/), [https://gvpclimate.com/](https://gvpclimate.com/), [https://twitter.com/gatemore](https://twitter.com/gatemore) |
+| PATRICOF CO. LLC | 320902 | 212.63 | [http://www.pco.com](http://www.pco.com), [https://www.linkedin.com/company/patricof-co](https://www.linkedin.com/company/patricof-co), [https://www.instagram.com/patricofco](https://www.instagram.com/patricofco) |
+| EXOME ASSET MANAGEMENT LLC | 304585 | 210.76 | [https://www.linkedin.com/company/exome-asset-management](https://www.linkedin.com/company/exome-asset-management), [https://www.exomeasset.com/](https://www.exomeasset.com/) |
+| GS GAMMA ADVISORS, LLC | 135424 | 209.65 | [http://www.guggenheiminvestments.com](http://www.guggenheiminvestments.com), [http://www.gsgamma.com](http://www.gsgamma.com), [http://www.guggenheimpartners.com](http://www.guggenheimpartners.com) |
+| LATTIS MANAGEMENT LP | 333629 | 209.31 | [https://www.lattis.com](https://www.lattis.com), [https://www.linkedin.com/company/lattislp/](https://www.linkedin.com/company/lattislp/) |
+| ROOM40 CAPITAL LLC | 322436 | 209.01 | [https://www.linkedin.com/company/room40cap](https://www.linkedin.com/company/room40cap), [https://x.com/room40xyz](https://x.com/room40xyz), [https://www.room40.capital/](https://www.room40.capital/), [https://www.room40.xyz/](https://www.room40.xyz/) |
+| YIELDPOINT, L.P. | 311859 | 206.19 | [https://www.linkedin.com/company/yieldpoint/](https://www.linkedin.com/company/yieldpoint/), [https://www.yieldpointlp.com/](https://www.yieldpointlp.com/) |
+| LC VERO MANAGER LLC | 338361 | 205.62 | [https://www.verocapital.com/](https://www.verocapital.com/), [https://lcvero.com/](https://lcvero.com/) |
 | MB FAMILY ADVISORS, LLC | 166324 | 204.07 | N/A |
-| NORTHSANDS CAPITAL, L.P. | 331698 | 203.75 | https://www.northsands.com/, https://www.linkedin.com/company/northsands/ |
-| KRENSAVAGE ASSET MANAGEMENT, LLC | 168976 | 203.27 | https://www.linkedin.com/company/krensavage-asset-management-llc/about/, HTTP://WWW.KRENSAVAGE.COM |
+| NORTHSANDS CAPITAL, L.P. | 331698 | 203.75 | [https://www.northsands.com/](https://www.northsands.com/), [https://www.linkedin.com/company/northsands/](https://www.linkedin.com/company/northsands/) |
+| KRENSAVAGE ASSET MANAGEMENT, LLC | 168976 | 203.27 | [https://www.linkedin.com/company/krensavage-asset-management-llc/about/](https://www.linkedin.com/company/krensavage-asset-management-llc/about/), [http://www.krensavage.com](http://www.krensavage.com) |
 | TWO PARKS CAPITAL LLC | 333142 | 202.25 | N/A |
-| NIHON GLOBAL GROWTH PARTNERS MANAGEMENT, INC. | 311890 | 201.83 | http://www.nhggp.com, https://www.x.com/nhggpmi |
-| RECIPROCAL VENTURE MANAGEMENT, L.L.C. | 288520 | 201.14 | https://www.linkedin.com/company/reciprocal-ventures/, https://www.recvc.com/, https://scalingup.substack.com/about, https://twitter.com/recvcx |
+| NIHON GLOBAL GROWTH PARTNERS MANAGEMENT, INC. | 311890 | 201.83 | [http://www.nhggp.com](http://www.nhggp.com), [https://www.x.com/nhggpmi](https://www.x.com/nhggpmi) |
+| RECIPROCAL VENTURE MANAGEMENT, L.L.C. | 288520 | 201.14 | [https://www.linkedin.com/company/reciprocal-ventures/](https://www.linkedin.com/company/reciprocal-ventures/), [https://www.recvc.com/](https://www.recvc.com/), [https://scalingup.substack.com/about](https://scalingup.substack.com/about), [https://twitter.com/recvcx](https://twitter.com/recvcx) |
 | CITIGROUP ALTERNATIVE INVESTMENTS LLC | 119537 | 200.23 | N/A |
-| GENERAL INNOVATION CAPITAL, LLC | 331306 | 200.0 | https://www.linkedin.com/company/general-innovation-capital/, https://www.generalinnovation.com/ |
-| LOCK 8 PARTNERS LLC | 319731 | 196.44 | https://www.linkedin.com/company/lock-8-partners/, https://www.lock8partners.com, https://twitter.com/lock8partners?lang=en |
-| ARTIST CAPITAL MANAGEMENT LLC | 296835 | 195.12 | HTTPS://ARTISTCAPITAL.COM/, HTTPS://WWW.LINKEDIN.COM/COMPANY/ARTIST-CAPITAL/ |
-| MORGENS, WATERFALL, VINTIADIS & COMPANY, INC. | 108692 | 193.63 | http://morgenswaterfall.com, https://www.linkedin.com/company/morgens-waterfall-vintiadis/ |
-| VARIADIC LLC | 332389 | 191.41 | http://www.variadic.com |
-| ALCOVA CAPITAL MANAGEMENT LP | 298021 | 189.5 | http://www.alcovacap.com, https://www.linkedin.com/company/alcovacap/ |
-| INCLINE GLOBAL MANAGEMENT, LLC | 162607 | 187.71 | HTTP://INCLINEGLOBAL.NET/ |
-| IRTH CAPITAL MANAGEMENT LP | 330696 | 187.4 | http://www.irth.capital, https://www.linkedin.com/company/irth-capital-management/ |
-| MOUNTAINEER PARTNERS MANAGEMENT, LLC | 163089 | 187.37 | HTTP://WWW.MOUNTAINEERPARTNERS.COM |
+| GENERAL INNOVATION CAPITAL, LLC | 331306 | 200.0 | [https://www.linkedin.com/company/general-innovation-capital/](https://www.linkedin.com/company/general-innovation-capital/), [https://www.generalinnovation.com/](https://www.generalinnovation.com/) |
+| LOCK 8 PARTNERS LLC | 319731 | 196.44 | [https://www.linkedin.com/company/lock-8-partners/](https://www.linkedin.com/company/lock-8-partners/), [https://www.lock8partners.com](https://www.lock8partners.com), [https://twitter.com/lock8partners?lang=en](https://twitter.com/lock8partners?lang=en) |
+| ARTIST CAPITAL MANAGEMENT LLC | 296835 | 195.12 | [https://artistcapital.com/](https://artistcapital.com/), [https://www.linkedin.com/company/artist-capital/](https://www.linkedin.com/company/artist-capital/) |
+| MORGENS, WATERFALL, VINTIADIS & COMPANY, INC. | 108692 | 193.63 | [http://morgenswaterfall.com](http://morgenswaterfall.com), [https://www.linkedin.com/company/morgens-waterfall-vintiadis/](https://www.linkedin.com/company/morgens-waterfall-vintiadis/) |
+| VARIADIC LLC | 332389 | 191.41 | [http://www.variadic.com](http://www.variadic.com) |
+| ALCOVA CAPITAL MANAGEMENT LP | 298021 | 189.5 | [http://www.alcovacap.com](http://www.alcovacap.com), [https://www.linkedin.com/company/alcovacap/](https://www.linkedin.com/company/alcovacap/) |
+| INCLINE GLOBAL MANAGEMENT, LLC | 162607 | 187.71 | [http://inclineglobal.net/](http://inclineglobal.net/) |
+| IRTH CAPITAL MANAGEMENT LP | 330696 | 187.4 | [http://www.irth.capital](http://www.irth.capital), [https://www.linkedin.com/company/irth-capital-management/](https://www.linkedin.com/company/irth-capital-management/) |
+| MOUNTAINEER PARTNERS MANAGEMENT, LLC | 163089 | 187.37 | [http://www.mountaineerpartners.com](http://www.mountaineerpartners.com) |
 | GAGNON ADVISORS, LLC | 161697 | 187.31 | N/A |
-| DELOS CAPITAL MANAGEMENT, LP | 170010 | 186.68 | HTTP://WWW.DELOSCAP.COM/, https://www.linkedin.com/company/delos-capital |
+| DELOS CAPITAL MANAGEMENT, LP | 170010 | 186.68 | [http://www.deloscap.com/](http://www.deloscap.com/), [https://www.linkedin.com/company/delos-capital](https://www.linkedin.com/company/delos-capital) |
 | LONE PEAK PARTNERS MANAGEMENT LP | 156546 | 186.26 | N/A |
-| KELLY PARK INVESTMENT LLC | 299882 | 186.2 | http://kellyparkcapital.com, https://www.linkedin.com/company/kellyparkcapital/, http://www.knowyouralts.com |
+| KELLY PARK INVESTMENT LLC | 299882 | 186.2 | [http://kellyparkcapital.com](http://kellyparkcapital.com), [https://www.linkedin.com/company/kellyparkcapital/](https://www.linkedin.com/company/kellyparkcapital/), [http://www.knowyouralts.com](http://www.knowyouralts.com) |
 | OWLHOUSE CAPITAL LP | 328210 | 184.92 | N/A |
-| SEVEN SIX CAPITAL MANAGEMENT, LLC | 299257 | 182.8 | http://www.sevensixcapital.com |
-| OPPVEST, LLC | 296317 | 182.66 | HTTP://WWW.OPPVEST.COM |
-| TACTICAL INFRASTRUCTURE PARTNERS, LP | 318315 | 182.35 | https://tacticalinfra.com/, https://www.linkedin.com/company/tactical-infrastructure-partners |
-| EMMETT INVESTMENT MANAGEMENT, LP | 299543 | 181.64 | https://www.emmettpartners.com/ |
-| SUNSTONE ASSET MANAGEMENT, LP | 328895 | 181.23 | https://www.sunstoneam.com/ |
-| RAFFLES CAPITAL MANAGEMENT, LLC | 161565 | 179.6 | HTTP://WWW.RAFFLESLP.COM |
-| SOVIERO ASSET MANAGEMENT, LP | 298418 | 179.07 | https://sovieroassetmanagement.com/, https://www.linkedin.com/company/soviero-asset-management/ |
+| SEVEN SIX CAPITAL MANAGEMENT, LLC | 299257 | 182.8 | [http://www.sevensixcapital.com](http://www.sevensixcapital.com) |
+| OPPVEST, LLC | 296317 | 182.66 | [http://www.oppvest.com](http://www.oppvest.com) |
+| TACTICAL INFRASTRUCTURE PARTNERS, LP | 318315 | 182.35 | [https://tacticalinfra.com/](https://tacticalinfra.com/), [https://www.linkedin.com/company/tactical-infrastructure-partners](https://www.linkedin.com/company/tactical-infrastructure-partners) |
+| EMMETT INVESTMENT MANAGEMENT, LP | 299543 | 181.64 | [https://www.emmettpartners.com/](https://www.emmettpartners.com/) |
+| SUNSTONE ASSET MANAGEMENT, LP | 328895 | 181.23 | [https://www.sunstoneam.com/](https://www.sunstoneam.com/) |
+| RAFFLES CAPITAL MANAGEMENT, LLC | 161565 | 179.6 | [http://www.raffleslp.com](http://www.raffleslp.com) |
+| SOVIERO ASSET MANAGEMENT, LP | 298418 | 179.07 | [https://sovieroassetmanagement.com/](https://sovieroassetmanagement.com/), [https://www.linkedin.com/company/soviero-asset-management/](https://www.linkedin.com/company/soviero-asset-management/) |
 | SABA LT, LP | 334114 | 178.37 | N/A |
-| LANSING MANAGEMENT, LP | 285921 | 178.12 | https://lansingmanagement.com/ |
+| LANSING MANAGEMENT, LP | 285921 | 178.12 | [https://lansingmanagement.com/](https://lansingmanagement.com/) |
 | CICC ALPHA INVESTMENT MANAGEMENT (USA), LLC | 289848 | 177.62 | N/A |
-| POST CAPITAL MANAGEMENT LLC | 161892 | 176.56 | HTTPS://X.COM/POSTCAPITAL, HTTP://WWW.POSTCP.COM/, https://www.linkedin.com/groups/8620342/, HTTPS://WWW.LINKEDIN.COM/COMPANY/POST-CAPITAL-PARTNERS-LLC/ |
-| PENBROOK MANAGEMENT LLC | 127269 | 175.39 | https://www.penbrookllc.com/ |
-| FEENIX VENTURE PARTNERS, LLC | 304152 | 174.76 | https://www.feenixpartners.com, https://www.linkedin.com/company/feenix-venture-partners-llc/ |
-| OBERON ASSET MANAGEMENT, LLC | 123494 | 174.7 | HTTPS://WWW.OBERONASSET.COM |
-| SECFI ADVISORY LIMITED | 306961 | 174.02 | https://linkedin.com/company/secfiinc, http://www.secfi.com, https://twitter.com/asksecfi |
-| MOELIS CAPITAL PARTNERS LLC | 154219 | 173.31 | HTTP://WWW.MOELISASSETMANAGEMENT.COM |
-| HUDSON EXECUTIVE CAPITAL LP | 175032 | 172.54 | https://www.linkedin.com/company/hudson-executive-capital/about/ |
+| POST CAPITAL MANAGEMENT LLC | 161892 | 176.56 | [https://x.com/postcapital](https://x.com/postcapital), [http://www.postcp.com/](http://www.postcp.com/), [https://www.linkedin.com/groups/8620342/](https://www.linkedin.com/groups/8620342/), [https://www.linkedin.com/company/post-capital-partners-llc/](https://www.linkedin.com/company/post-capital-partners-llc/) |
+| PENBROOK MANAGEMENT LLC | 127269 | 175.39 | [https://www.penbrookllc.com/](https://www.penbrookllc.com/) |
+| FEENIX VENTURE PARTNERS, LLC | 304152 | 174.76 | [https://www.feenixpartners.com](https://www.feenixpartners.com), [https://www.linkedin.com/company/feenix-venture-partners-llc/](https://www.linkedin.com/company/feenix-venture-partners-llc/) |
+| OBERON ASSET MANAGEMENT, LLC | 123494 | 174.7 | [https://www.oberonasset.com](https://www.oberonasset.com) |
+| SECFI ADVISORY LIMITED | 306961 | 174.02 | [https://linkedin.com/company/secfiinc](https://linkedin.com/company/secfiinc), [http://www.secfi.com](http://www.secfi.com), [https://twitter.com/asksecfi](https://twitter.com/asksecfi) |
+| MOELIS CAPITAL PARTNERS LLC | 154219 | 173.31 | [http://www.moelisassetmanagement.com](http://www.moelisassetmanagement.com) |
+| HUDSON EXECUTIVE CAPITAL LP | 175032 | 172.54 | [https://www.linkedin.com/company/hudson-executive-capital/about/](https://www.linkedin.com/company/hudson-executive-capital/about/) |
 | TRIANGLE INVESTMENT MANAGEMENT, LLC | 329567 | 171.78 | N/A |
-| RHO ACCELERATION, LLC | 313160 | 171.52 | http://www.rhoacceleration.com |
-| MUTIMA CAPITAL MANAGEMENT LLC | 284629 | 170.62 | HTTP://WWW.MUTIMACAPITAL.COM |
-| AP CAPITAL DELAWARE LLC | 315796 | 170.49 | https://www.apcapitalinvestment.com |
-| PERIPHAS CAPITAL, LP | 291980 | 170.41 | https://www.linkedin.com/company/periphas-capital/, https://www.periphascapital.com |
-| STILLPOINT INVESTMENTS LP | 318718 | 169.85 | https://www.linkedin.com/company/70952409/admin/, https://www.stillpointinvestments.com |
-| TOTEM POINT MANAGEMENT, LLC | 169824 | 169.16 | https://www.totempoint.com/, http://www.linkedin.com/company/totem-point-management-llc |
-| ALLY BRIDGE GROUP (NY) LLC | 291072 | 167.92 | HTTPS://WWW.LINKEDIN.COM/COMPANY/ALLY-BRIDGE, HTTP://WWW.ALLY-BRIDGE.COM/ |
-| THE LIND PARTNERS, LLC | 290338 | 165.4 | HTTP://WWW.THELINDPARTNERS.COM, https://www.linkedin.com/company/the-lind-partners/ |
-| LIGHTSMITH CLIMATE RESILIENCE MANAGEMENT LLC | 307933 | 165.01 | https://lightsmithgp.com/, https://www.linkedin.com/company/the-lightsmith-group/, https://twitter.com/lightsmithgroup |
-| ALPINE PEAKS CAPITAL, LP | 290241 | 164.25 | https://www.alpinepeakscapital.com, https://www.linkedin.com/company/alpine-peaks-capital/ |
-| RIPPLE EFFECT ASSET MANAGEMENT LP | 331250 | 164.05 | https://rippleeffectasset.com/, https://www.linkedin.com/company/ripple-effect-asset-management |
-| BOARDMAN BAY CAPITAL MANAGEMENT LLC | 164577 | 163.74 | HTTP://WWW.BOARDMANBAY.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/BOARDMAN-BAY-CAPITAL-MANAGEMENT/ |
-| HGI CAPITAL MANAGEMENT, LLC. | 168303 | 163.42 | https://www.linkedin.com/company/harborgroupinternational, https://www.hgicapitalmanagement.com |
-| OPEN FIELD CAPITAL LLC | 136313 | 162.82 | https://x.com/OpenFieldCap, https://www.linkedin.com/company/open-field-capital-limited, HTTP://WWW.OFCAP.COM |
-| SUMMATION CAPITAL MANAGEMENT, L.P. | 331645 | 160.56 | https://www.linkedin.com/company/summation-capital/, https://www.summationcapital.com/ |
-| WHITE HAT CAPITAL PARTNERS LP | 288059 | 158.91 | HTTP://WWW.WHITEHATCP.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/WHITE-HAT-CAPITAL-PARTNERS/ |
-| PHOENICIAN CAPITAL LLC | 286033 | 158.76 | HTTP://PHOENICIANCAPITAL.COM/, https://www.linkedin.com/company/phoenician-capital/ |
-| UNION SQUARE PARK CAPITAL MANAGEMENT, LLC | 175471 | 158.73 | HTTP://USPCM.COM/, https://www.linkedin.com/company/unionsquareparkcapital/ |
-| RAVEN CAPITAL MANAGEMENT LLC | 164755 | 157.95 | HTTPS://WWW.LINKEDIN.COM/COMPANY/RAVEN-CAPITAL-MANAGEMENT/, HTTP://WWW.RAVENCM.COM |
-| SADDLEROCK CAPITAL MANAGEMENT LLC | 330801 | 155.89 | https://saddlerockcap.com/ |
-| ELTURA CAPITAL MANAGEMENT, LLC | 318320 | 154.8 | http://www.eltura.com, http://www.linkedin.com/company/eltura-capital-management |
-| ALPACA VC INVESTMENT MANAGEMENT LLC | 317262 | 153.72 | https://www.linkedin.com/company/alpacavc/, https://alpaca.vc/, https://www.instagram.com/alpacavc/, https://campsite.bio/alpacavc, https://medium.com/alpaca-vc, https://www.facebook.com/profile.php?id=100068865744165, https://www.alpacarealestate.com, https://www.linkedin.com/company/alpaca-real-estate/, https://x.com/alpacavc/ |
-| EM ADVISOR, LLC | 314402 | 153.54 | https://www.linkedin.com/company/equity-multiple/mycompany/, https://www.facebook.com/equitymultiple, https://www.equitymultiple.com, https://www.instagram.com/equitymultiple_com/?hl=en, https://www.amiaccredited.com, https://www.pinterest.com/equitymultiple, https://medium.com/@equitymultiple, https://vimeo.com/equitymultiple, https://www.youtube.com/c/EQUITYMULTIPLE, https://soundcloud.com/equity-multiple, https://www.tiktok.com/@equitymultiple_com, https://twitter.com/EquityMultiple |
-| TRIDENT MANAGEMENT LLC | 319632 | 150.42 | https://www.trident.co/, https://www.linkedin.com/company/tridentco/, https://twitter.com/investtrident, https://medium.com/@investtrident |
+| RHO ACCELERATION, LLC | 313160 | 171.52 | [http://www.rhoacceleration.com](http://www.rhoacceleration.com) |
+| MUTIMA CAPITAL MANAGEMENT LLC | 284629 | 170.62 | [http://www.mutimacapital.com](http://www.mutimacapital.com) |
+| AP CAPITAL DELAWARE LLC | 315796 | 170.49 | [https://www.apcapitalinvestment.com](https://www.apcapitalinvestment.com) |
+| PERIPHAS CAPITAL, LP | 291980 | 170.41 | [https://www.linkedin.com/company/periphas-capital/](https://www.linkedin.com/company/periphas-capital/), [https://www.periphascapital.com](https://www.periphascapital.com) |
+| STILLPOINT INVESTMENTS LP | 318718 | 169.85 | [https://www.linkedin.com/company/70952409/admin/](https://www.linkedin.com/company/70952409/admin/), [https://www.stillpointinvestments.com](https://www.stillpointinvestments.com) |
+| TOTEM POINT MANAGEMENT, LLC | 169824 | 169.16 | [https://www.totempoint.com/](https://www.totempoint.com/), [http://www.linkedin.com/company/totem-point-management-llc](http://www.linkedin.com/company/totem-point-management-llc) |
+| ALLY BRIDGE GROUP (NY) LLC | 291072 | 167.92 | [https://www.linkedin.com/company/ally-bridge](https://www.linkedin.com/company/ally-bridge), [http://www.ally-bridge.com/](http://www.ally-bridge.com/) |
+| THE LIND PARTNERS, LLC | 290338 | 165.4 | [http://www.thelindpartners.com](http://www.thelindpartners.com), [https://www.linkedin.com/company/the-lind-partners/](https://www.linkedin.com/company/the-lind-partners/) |
+| LIGHTSMITH CLIMATE RESILIENCE MANAGEMENT LLC | 307933 | 165.01 | [https://lightsmithgp.com/](https://lightsmithgp.com/), [https://www.linkedin.com/company/the-lightsmith-group/](https://www.linkedin.com/company/the-lightsmith-group/), [https://twitter.com/lightsmithgroup](https://twitter.com/lightsmithgroup) |
+| ALPINE PEAKS CAPITAL, LP | 290241 | 164.25 | [https://www.alpinepeakscapital.com](https://www.alpinepeakscapital.com), [https://www.linkedin.com/company/alpine-peaks-capital/](https://www.linkedin.com/company/alpine-peaks-capital/) |
+| RIPPLE EFFECT ASSET MANAGEMENT LP | 331250 | 164.05 | [https://rippleeffectasset.com/](https://rippleeffectasset.com/), [https://www.linkedin.com/company/ripple-effect-asset-management](https://www.linkedin.com/company/ripple-effect-asset-management) |
+| BOARDMAN BAY CAPITAL MANAGEMENT LLC | 164577 | 163.74 | [http://www.boardmanbay.com](http://www.boardmanbay.com), [https://www.linkedin.com/company/boardman-bay-capital-management/](https://www.linkedin.com/company/boardman-bay-capital-management/) |
+| HGI CAPITAL MANAGEMENT, LLC. | 168303 | 163.42 | [https://www.linkedin.com/company/harborgroupinternational](https://www.linkedin.com/company/harborgroupinternational), [https://www.hgicapitalmanagement.com](https://www.hgicapitalmanagement.com) |
+| OPEN FIELD CAPITAL LLC | 136313 | 162.82 | [https://x.com/openfieldcap](https://x.com/openfieldcap), [https://www.linkedin.com/company/open-field-capital-limited](https://www.linkedin.com/company/open-field-capital-limited), [http://www.ofcap.com](http://www.ofcap.com) |
+| SUMMATION CAPITAL MANAGEMENT, L.P. | 331645 | 160.56 | [https://www.linkedin.com/company/summation-capital/](https://www.linkedin.com/company/summation-capital/), [https://www.summationcapital.com/](https://www.summationcapital.com/) |
+| WHITE HAT CAPITAL PARTNERS LP | 288059 | 158.91 | [http://www.whitehatcp.com](http://www.whitehatcp.com), [https://www.linkedin.com/company/white-hat-capital-partners/](https://www.linkedin.com/company/white-hat-capital-partners/) |
+| PHOENICIAN CAPITAL LLC | 286033 | 158.76 | [http://phoeniciancapital.com/](http://phoeniciancapital.com/), [https://www.linkedin.com/company/phoenician-capital/](https://www.linkedin.com/company/phoenician-capital/) |
+| UNION SQUARE PARK CAPITAL MANAGEMENT, LLC | 175471 | 158.73 | [http://uspcm.com/](http://uspcm.com/), [https://www.linkedin.com/company/unionsquareparkcapital/](https://www.linkedin.com/company/unionsquareparkcapital/) |
+| RAVEN CAPITAL MANAGEMENT LLC | 164755 | 157.95 | [https://www.linkedin.com/company/raven-capital-management/](https://www.linkedin.com/company/raven-capital-management/), [http://www.ravencm.com](http://www.ravencm.com) |
+| SADDLEROCK CAPITAL MANAGEMENT LLC | 330801 | 155.89 | [https://saddlerockcap.com/](https://saddlerockcap.com/) |
+| ELTURA CAPITAL MANAGEMENT, LLC | 318320 | 154.8 | [http://www.eltura.com](http://www.eltura.com), [http://www.linkedin.com/company/eltura-capital-management](http://www.linkedin.com/company/eltura-capital-management) |
+| ALPACA VC INVESTMENT MANAGEMENT LLC | 317262 | 153.72 | [https://www.linkedin.com/company/alpacavc/](https://www.linkedin.com/company/alpacavc/), [https://alpaca.vc/](https://alpaca.vc/), [https://www.instagram.com/alpacavc/](https://www.instagram.com/alpacavc/), [https://campsite.bio/alpacavc](https://campsite.bio/alpacavc), [https://medium.com/alpaca-vc](https://medium.com/alpaca-vc), [https://www.facebook.com/profile.php?id=100068865744165](https://www.facebook.com/profile.php?id=100068865744165), [https://www.alpacarealestate.com](https://www.alpacarealestate.com), [https://www.linkedin.com/company/alpaca-real-estate/](https://www.linkedin.com/company/alpaca-real-estate/), [https://x.com/alpacavc/](https://x.com/alpacavc/) |
+| EM ADVISOR, LLC | 314402 | 153.54 | [https://www.linkedin.com/company/equity-multiple/mycompany/](https://www.linkedin.com/company/equity-multiple/mycompany/), [https://www.facebook.com/equitymultiple](https://www.facebook.com/equitymultiple), [https://www.equitymultiple.com](https://www.equitymultiple.com), [https://www.instagram.com/equitymultiple_com/?hl=en](https://www.instagram.com/equitymultiple_com/?hl=en), [https://www.amiaccredited.com](https://www.amiaccredited.com), [https://www.pinterest.com/equitymultiple](https://www.pinterest.com/equitymultiple), [https://medium.com/@equitymultiple](https://medium.com/@equitymultiple), [https://vimeo.com/equitymultiple](https://vimeo.com/equitymultiple), [https://www.youtube.com/c/equitymultiple](https://www.youtube.com/c/equitymultiple), [https://soundcloud.com/equity-multiple](https://soundcloud.com/equity-multiple), [https://www.tiktok.com/@equitymultiple_com](https://www.tiktok.com/@equitymultiple_com), [https://twitter.com/equitymultiple](https://twitter.com/equitymultiple) |
+| TRIDENT MANAGEMENT LLC | 319632 | 150.42 | [https://www.trident.co/](https://www.trident.co/), [https://www.linkedin.com/company/tridentco/](https://www.linkedin.com/company/tridentco/), [https://twitter.com/investtrident](https://twitter.com/investtrident), [https://medium.com/@investtrident](https://medium.com/@investtrident) |
 | MIURA GLOBAL MANAGEMENT, LLC | 161017 | 150.16 | N/A |
-| VIS ADVISORS, LP | 240786 | 148.85 | HTTP://WWW.TAKUMIFUND.COM |
-| CATCHMENT CAPITAL, L.P. | 335631 | 147.71 | https://www.catchmentcapital.com/, https://www.linkedin.com/company/catchmentcapital/ |
-| BARINGTON COMPANIES INVESTORS, LLC | 161305 | 146.98 | https://www.linkedin.com/company/barington-capital-group-l-p, HTTP://WWW.BARINGTON.COM |
-| ORTELIUS CAPITAL PARTNERS, LLC | 138284 | 143.75 | HTTP://WWW.ORTELIUSINVESTMENTS.COM |
-| LIVIAN & CO., LLC | 153771 | 143.67 | HTTP://WWW.LIVIANCO.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/LIVIAN-&-CO.---INVESTMENT-AND-WEALTH-MANAGEMENT/, HTTPS://X.COM/LIVIANCO, https://www.instagram.com/livian_co/, HTTPS://FACEBOOK.COM/LIVIANANDCO, HTTPS://TIKTOK.COM/@LIVIAN_CO |
-| ARAVALLI CAPITAL MANAGEMENT LP | 327861 | 143.41 | https://www.aravallicap.com/ |
-| FOUR LION CAPITAL, LP | 333602 | 143.25 | https://www.linkedin.com/company/fourlion-capital/, https://fourlioncapital.com/ |
-| ARGOSY-LIONBRIDGE MANAGEMENT, LLC | 325413 | 142.43 | https://argosylbm.com/ |
+| VIS ADVISORS, LP | 240786 | 148.85 | [http://www.takumifund.com](http://www.takumifund.com) |
+| CATCHMENT CAPITAL, L.P. | 335631 | 147.71 | [https://www.catchmentcapital.com/](https://www.catchmentcapital.com/), [https://www.linkedin.com/company/catchmentcapital/](https://www.linkedin.com/company/catchmentcapital/) |
+| BARINGTON COMPANIES INVESTORS, LLC | 161305 | 146.98 | [https://www.linkedin.com/company/barington-capital-group-l-p](https://www.linkedin.com/company/barington-capital-group-l-p), [http://www.barington.com](http://www.barington.com) |
+| ORTELIUS CAPITAL PARTNERS, LLC | 138284 | 143.75 | [http://www.orteliusinvestments.com](http://www.orteliusinvestments.com) |
+| LIVIAN & CO., LLC | 153771 | 143.67 | [http://www.livianco.com](http://www.livianco.com), [https://www.linkedin.com/company/livian-&-co.---investment-and-wealth-management/](https://www.linkedin.com/company/livian-&-co.---investment-and-wealth-management/), [https://x.com/livianco](https://x.com/livianco), [https://www.instagram.com/livian_co/](https://www.instagram.com/livian_co/), [https://facebook.com/livianandco](https://facebook.com/livianandco), [https://tiktok.com/@livian_co](https://tiktok.com/@livian_co) |
+| ARAVALLI CAPITAL MANAGEMENT LP | 327861 | 143.41 | [https://www.aravallicap.com/](https://www.aravallicap.com/) |
+| FOUR LION CAPITAL, LP | 333602 | 143.25 | [https://www.linkedin.com/company/fourlion-capital/](https://www.linkedin.com/company/fourlion-capital/), [https://fourlioncapital.com/](https://fourlioncapital.com/) |
+| ARGOSY-LIONBRIDGE MANAGEMENT, LLC | 325413 | 142.43 | [https://argosylbm.com/](https://argosylbm.com/) |
 | TOTEM MACRO ASSET MANAGEMENT LP | 328044 | 142.06 | N/A |
-| SECONDMARKET FINANCIAL, LLC | 333332 | 140.62 | https://www.secondmarket.com, https://www.youtube.com/@NasdaqPrivateMarketOfficial, https://x.com/NPM, https://vimeo.com/nasdaqprivatemarket, https://www.facebook.com/NasdaqPrivateMarket, https://www.instagram.com/nasdaqprivatemarketofficial/, https://www.linkedin.com/company/nasdaq-private-market/, https://www.nasdaqprivatemarket.com, https://www.npm.com |
-| JLL PARTNERS FCH, INC. | 285184 | 140.08 | https://www.linkedin.com/company/jll-partners/about/, HTTPS://WWW.JLLPARTNERS.COM |
-| AREX CAPITAL MANAGEMENT, LP | 289595 | 139.08 | https://www.arexcapital.com |
-| RUSHMONT CAPITAL MANAGEMENT, LP | 333041 | 138.96 | https://www.linkedin.com/company/rushmont, https://www.rushmont.com/ |
-| 13D MANAGEMENT LLC | 154009 | 138.83 | http://13dmanagement.com, https://www.linkedin.com/company/13d-management/about/, https://www.13dactivistfund.com/ |
-| HIDDENITE CAPITAL PARTNERS LP | 309942 | 137.8 | https://www.hiddenitecap.com/ |
-| EQUILIBRIUM VENTURES, LLC | 309164 | 137.31 | https://www.linkedin.com/company/joinequi, https://www.equi.com/, https://twitter.com/Join_Equi, https://www.facebook.com/profile.php?id=100065213164524, https://www.youtube.com/channel/UCFSg6LR84oZVVyTiFO566Ag |
-| RIDGELINE PRODUCTIONS LLC | 315118 | 137.09 | https://www.broadwaystrategicreturnfund.com, https://www.linkedin.com/companybroadway-strategic-return-fund/about/ |
-| HARBINGER CAPITAL PARTNERS LLC | 160538 | 134.2 | HTTP://WWW.HARBINGERCAPITAL.COM |
-| LIONTREE PARTNERS LLC | 289817 | 134.06 | https://liontree.com/ |
-| CORNWALL CAPITAL MANAGEMENT LP | 161451 | 132.66 | HTTP://WWW.CORNWALLCAPITAL.COM |
-| UNLIMITED FUNDS, INC. | 322644 | 132.27 | https://www.unlimitedetfs.com, https://twitter.com/UnlimitedFnds, https://www.unlimitedfunds.com/, https://www.linkedin.com/company/unlimitedfunds/?viewAsMember=true |
-| MQS MANAGEMENT, LLC | 161238 | 130.04 | HTTP://WWW.MQSMANAGEMENT.COM, https://www.linkedin.com/company/mqs-management-llc/about/ |
+| SECONDMARKET FINANCIAL, LLC | 333332 | 140.62 | [https://www.secondmarket.com](https://www.secondmarket.com), [https://www.youtube.com/@nasdaqprivatemarketofficial](https://www.youtube.com/@nasdaqprivatemarketofficial), [https://x.com/npm](https://x.com/npm), [https://vimeo.com/nasdaqprivatemarket](https://vimeo.com/nasdaqprivatemarket), [https://www.facebook.com/nasdaqprivatemarket](https://www.facebook.com/nasdaqprivatemarket), [https://www.instagram.com/nasdaqprivatemarketofficial/](https://www.instagram.com/nasdaqprivatemarketofficial/), [https://www.linkedin.com/company/nasdaq-private-market/](https://www.linkedin.com/company/nasdaq-private-market/), [https://www.nasdaqprivatemarket.com](https://www.nasdaqprivatemarket.com), [https://www.npm.com](https://www.npm.com) |
+| JLL PARTNERS FCH, INC. | 285184 | 140.08 | [https://www.linkedin.com/company/jll-partners/about/](https://www.linkedin.com/company/jll-partners/about/), [https://www.jllpartners.com](https://www.jllpartners.com) |
+| AREX CAPITAL MANAGEMENT, LP | 289595 | 139.08 | [https://www.arexcapital.com](https://www.arexcapital.com) |
+| RUSHMONT CAPITAL MANAGEMENT, LP | 333041 | 138.96 | [https://www.linkedin.com/company/rushmont](https://www.linkedin.com/company/rushmont), [https://www.rushmont.com/](https://www.rushmont.com/) |
+| 13D MANAGEMENT LLC | 154009 | 138.83 | [http://13dmanagement.com](http://13dmanagement.com), [https://www.linkedin.com/company/13d-management/about/](https://www.linkedin.com/company/13d-management/about/), [https://www.13dactivistfund.com/](https://www.13dactivistfund.com/) |
+| HIDDENITE CAPITAL PARTNERS LP | 309942 | 137.8 | [https://www.hiddenitecap.com/](https://www.hiddenitecap.com/) |
+| EQUILIBRIUM VENTURES, LLC | 309164 | 137.31 | [https://www.linkedin.com/company/joinequi](https://www.linkedin.com/company/joinequi), [https://www.equi.com/](https://www.equi.com/), [https://twitter.com/join_equi](https://twitter.com/join_equi), [https://www.facebook.com/profile.php?id=100065213164524](https://www.facebook.com/profile.php?id=100065213164524), [https://www.youtube.com/channel/ucfsg6lr84ozvvytifo566ag](https://www.youtube.com/channel/ucfsg6lr84ozvvytifo566ag) |
+| RIDGELINE PRODUCTIONS LLC | 315118 | 137.09 | [https://www.broadwaystrategicreturnfund.com](https://www.broadwaystrategicreturnfund.com), [https://www.linkedin.com/companybroadway-strategic-return-fund/about/](https://www.linkedin.com/companybroadway-strategic-return-fund/about/) |
+| HARBINGER CAPITAL PARTNERS LLC | 160538 | 134.2 | [http://www.harbingercapital.com](http://www.harbingercapital.com) |
+| LIONTREE PARTNERS LLC | 289817 | 134.06 | [https://liontree.com/](https://liontree.com/) |
+| CORNWALL CAPITAL MANAGEMENT LP | 161451 | 132.66 | [http://www.cornwallcapital.com](http://www.cornwallcapital.com) |
+| UNLIMITED FUNDS, INC. | 322644 | 132.27 | [https://www.unlimitedetfs.com](https://www.unlimitedetfs.com), [https://twitter.com/unlimitedfnds](https://twitter.com/unlimitedfnds), [https://www.unlimitedfunds.com/](https://www.unlimitedfunds.com/), [https://www.linkedin.com/company/unlimitedfunds/?viewasmember=true](https://www.linkedin.com/company/unlimitedfunds/?viewasmember=true) |
+| MQS MANAGEMENT, LLC | 161238 | 130.04 | [http://www.mqsmanagement.com](http://www.mqsmanagement.com), [https://www.linkedin.com/company/mqs-management-llc/about/](https://www.linkedin.com/company/mqs-management-llc/about/) |
 | HUNT INVESTMENT MANAGEMENT, LLC | 151744 | 129.01 | N/A |
-| NINE LEFT CAPITAL LP | 332838 | 125.79 | https://www.nineleftcapital.com/, https://www.linkedin.com/company/nineleft/ |
-| SQ CAPITAL LLC | 334301 | 125.74 | http://www.sqcapital.com |
-| CAIS ADVISORS LLC | 317466 | 125.05 | https://www.caisgroup.com/ |
-| PURA VIDA INVESTMENTS, LLC | 166703 | 124.76 | HTTP://WWW.PURAVIDAINVESTMENTS.COM/ |
-| GALILEO INVESTMENT MANAGEMENT LLC | 169201 | 124.58 | HTTP://WWW.GALILEOINVESTMENT.COM |
-| P&A CAPITAL ADVISORS, INC. | 111731 | 124.49 | HTTP://WWW.PACAPADVISORS.COM/ |
-| COAST CAPITAL MANAGEMENT, LP | 289883 | 124.37 | HTTP://WWW.COASTCAPITALLLC.COM |
-| MARATHON PARTNERS EQUITY MANAGEMENT, LLC | 161095 | 120.07 | https://x.com/MPEMLLC, HTTP://WWW.MARATHONPARTNERS.COM |
-| SEABURY CAPITAL MANAGEMENT LLC | 334999 | 120.0 | https://www.seaburycapital.com/, https://www.linkedin.com/company/seabury-capital |
-| SEAPORT GLOBAL ASSET MANAGEMENT LLC | 298944 | 118.55 | HTTPS://SEAPORTGLOBAL.COM/CAPABILITIES/ASSET-MANAGEMENT/, HTTP://WWW.ARMORYFUNDS.COM/, HTTPS://WWW.LINKEDIN.COM/COMPANY/ARMORY-ADVISORS-LLC |
-| GREENWOOD INVESTORS LLC | 155088 | 116.49 | HTTPS://WWW.GWINVESTORS.COM, https://twitter.com/GWInvestors |
+| NINE LEFT CAPITAL LP | 332838 | 125.79 | [https://www.nineleftcapital.com/](https://www.nineleftcapital.com/), [https://www.linkedin.com/company/nineleft/](https://www.linkedin.com/company/nineleft/) |
+| SQ CAPITAL LLC | 334301 | 125.74 | [http://www.sqcapital.com](http://www.sqcapital.com) |
+| CAIS ADVISORS LLC | 317466 | 125.05 | [https://www.caisgroup.com/](https://www.caisgroup.com/) |
+| PURA VIDA INVESTMENTS, LLC | 166703 | 124.76 | [http://www.puravidainvestments.com/](http://www.puravidainvestments.com/) |
+| GALILEO INVESTMENT MANAGEMENT LLC | 169201 | 124.58 | [http://www.galileoinvestment.com](http://www.galileoinvestment.com) |
+| P&A CAPITAL ADVISORS, INC. | 111731 | 124.49 | [http://www.pacapadvisors.com/](http://www.pacapadvisors.com/) |
+| COAST CAPITAL MANAGEMENT, LP | 289883 | 124.37 | [http://www.coastcapitalllc.com](http://www.coastcapitalllc.com) |
+| MARATHON PARTNERS EQUITY MANAGEMENT, LLC | 161095 | 120.07 | [https://x.com/mpemllc](https://x.com/mpemllc), [http://www.marathonpartners.com](http://www.marathonpartners.com) |
+| SEABURY CAPITAL MANAGEMENT LLC | 334999 | 120.0 | [https://www.seaburycapital.com/](https://www.seaburycapital.com/), [https://www.linkedin.com/company/seabury-capital](https://www.linkedin.com/company/seabury-capital) |
+| SEAPORT GLOBAL ASSET MANAGEMENT LLC | 298944 | 118.55 | [https://seaportglobal.com/capabilities/asset-management/](https://seaportglobal.com/capabilities/asset-management/), [http://www.armoryfunds.com/](http://www.armoryfunds.com/), [https://www.linkedin.com/company/armory-advisors-llc](https://www.linkedin.com/company/armory-advisors-llc) |
+| GREENWOOD INVESTORS LLC | 155088 | 116.49 | [https://www.gwinvestors.com](https://www.gwinvestors.com), [https://twitter.com/gwinvestors](https://twitter.com/gwinvestors) |
 | AEREF MANAGEMENT, LLC | 322495 | 115.97 | N/A |
-| WINGSPAN CAPITAL, LLC | 307759 | 114.92 | https://www.wingspanfund.com/, https://www.linkedin.com/company/wingspancapital/about/ |
+| WINGSPAN CAPITAL, LLC | 307759 | 114.92 | [https://www.wingspanfund.com/](https://www.wingspanfund.com/), [https://www.linkedin.com/company/wingspancapital/about/](https://www.linkedin.com/company/wingspancapital/about/) |
 | BOUSSARD & GAVAUDAN AMERICA LLC | 322621 | 111.33 | N/A |
-| DUMONT GLOBAL LP | 305883 | 111.0 | http://www.dumontglobal.com, https://www.linkedin.com/company/dumont-global/?viewAsMember=true |
-| ISLET MANAGEMENT, LP | 290576 | 108.81 | https://isletcapital.com, https://www.linkedin.com/company/islet-capital-managemet/ |
-| 50T HOLDINGS, LLC | 326720 | 103.15 | https://50tfunds.com/ |
-| INVIDIA CAPITAL MANAGEMENT LP | 331334 | 102.4 | https://invidiacap.com/, https://www.linkedin.com/company/invidia-capital-management/ |
-| 2E CAPITAL PARTNERS LP | 334821 | 102.0 | https://www.linkedin.com/company/2e-capital-partners/ |
-| BLANTYRE CAPITAL US LLC | 336308 | 101.57 | https://blantyrecapital.com/, https://www.linkedin.com/company/blantyre-capital-limited/ |
+| DUMONT GLOBAL LP | 305883 | 111.0 | [http://www.dumontglobal.com](http://www.dumontglobal.com), [https://www.linkedin.com/company/dumont-global/?viewasmember=true](https://www.linkedin.com/company/dumont-global/?viewasmember=true) |
+| ISLET MANAGEMENT, LP | 290576 | 108.81 | [https://isletcapital.com](https://isletcapital.com), [https://www.linkedin.com/company/islet-capital-managemet/](https://www.linkedin.com/company/islet-capital-managemet/) |
+| 50T HOLDINGS, LLC | 326720 | 103.15 | [https://50tfunds.com/](https://50tfunds.com/) |
+| INVIDIA CAPITAL MANAGEMENT LP | 331334 | 102.4 | [https://invidiacap.com/](https://invidiacap.com/), [https://www.linkedin.com/company/invidia-capital-management/](https://www.linkedin.com/company/invidia-capital-management/) |
+| 2E CAPITAL PARTNERS LP | 334821 | 102.0 | [https://www.linkedin.com/company/2e-capital-partners/](https://www.linkedin.com/company/2e-capital-partners/) |
+| BLANTYRE CAPITAL US LLC | 336308 | 101.57 | [https://blantyrecapital.com/](https://blantyrecapital.com/), [https://www.linkedin.com/company/blantyre-capital-limited/](https://www.linkedin.com/company/blantyre-capital-limited/) |
 | SLG CAPITAL MANAGEMENT LLC | 331370 | 100.35 | N/A |
 | HUNT CAPITAL MANAGEMENT, LLC | 308017 | 99.97 | N/A |
-| THREE BRIDGES CAPITAL, LP | 160021 | 97.46 | HTTP://WWW.THREEBRIDGESCAP.COM, HTTPS://WWW.LINKEDIN.COM/COMPANY/THREE-BRIDGES-CAPITAL |
-| BLACKSTONE REAL ESTATE ADVISORS V L.P. | 138208 | 94.94 | https://www.facebook.com/blackstone, https://mp.weixin.qq.com/s/FtddoP2F9zDZ1QFBgOQAAA, https://www.instagram.com/blackstone, https://soundcloud.com/blackstone-300250613, https://www.linkedin.com/company/blackstonegroup, https://www.blackstone.com, https://www.pandora.com/artist/blackstone/ARvlPz9Plblrlmg, https://open.spotify.com/artist/52Eom8vQxM8Lk75ZZlf2hJ, https://spoti.fi/2LJ1tHG, https://blackstone.podbean.com/, https://www.youtube.com/user/blackstonegroup, https://x.com/blackstone, https://apple.co/31Pe1Gg |
-| HEIGHTS POINT MANAGEMENT, LP | 313849 | 94.0 | https://www.linkedin.com/company/heights-point-management-lp/, https://heightspoint.com/ |
-| PRIVATE EQUITY INVESTORS, INC | 160559 | 93.93 | HTTP://WWW.PEIFUNDS.COM/ |
-| SOCIAL INVESTMENT MANAGERS AND ADVISORS, LLC | 309110 | 93.03 | http://simafunds.com, https://www.linkedin.com/company/10592647/admin/dashboard/, https://www.facebook.com/SIMAFunds, https://x.com/i/flow/login?redirect_after_login=%2Fsima_funds |
-| GSA CAPITAL PARTNERS (NEW YORK) LP | 286369 | 88.88 | HTTP://WWW.GSACAPITAL.COM, https://www.linkedin.com/company/gsacapital |
-| UOB GLOBAL CAPITAL LLC | 160659 | 88.62 | HTTP://WWW.UOBGLOBAL.COM |
-| ARETEX CAPITAL MANAGEMENT, LP | 296753 | 88.6 | HTTPS://WWW.ARETEXCAPITAL.COM |
+| THREE BRIDGES CAPITAL, LP | 160021 | 97.46 | [http://www.threebridgescap.com](http://www.threebridgescap.com), [https://www.linkedin.com/company/three-bridges-capital](https://www.linkedin.com/company/three-bridges-capital) |
+| BLACKSTONE REAL ESTATE ADVISORS V L.P. | 138208 | 94.94 | [https://www.facebook.com/blackstone](https://www.facebook.com/blackstone), [https://mp.weixin.qq.com/s/ftddop2f9zdz1qfbgoqaaa](https://mp.weixin.qq.com/s/ftddop2f9zdz1qfbgoqaaa), [https://www.instagram.com/blackstone](https://www.instagram.com/blackstone), [https://soundcloud.com/blackstone-300250613](https://soundcloud.com/blackstone-300250613), [https://www.linkedin.com/company/blackstonegroup](https://www.linkedin.com/company/blackstonegroup), [https://www.blackstone.com](https://www.blackstone.com), [https://www.pandora.com/artist/blackstone/arvlpz9plblrlmg](https://www.pandora.com/artist/blackstone/arvlpz9plblrlmg), [https://open.spotify.com/artist/52eom8vqxm8lk75zzlf2hj](https://open.spotify.com/artist/52eom8vqxm8lk75zzlf2hj), [https://spoti.fi/2lj1thg](https://spoti.fi/2lj1thg), [https://blackstone.podbean.com/](https://blackstone.podbean.com/), [https://www.youtube.com/user/blackstonegroup](https://www.youtube.com/user/blackstonegroup), [https://x.com/blackstone](https://x.com/blackstone), [https://apple.co/31pe1gg](https://apple.co/31pe1gg) |
+| HEIGHTS POINT MANAGEMENT, LP | 313849 | 94.0 | [https://www.linkedin.com/company/heights-point-management-lp/](https://www.linkedin.com/company/heights-point-management-lp/), [https://heightspoint.com/](https://heightspoint.com/) |
+| PRIVATE EQUITY INVESTORS, INC | 160559 | 93.93 | [http://www.peifunds.com/](http://www.peifunds.com/) |
+| SOCIAL INVESTMENT MANAGERS AND ADVISORS, LLC | 309110 | 93.03 | [http://simafunds.com](http://simafunds.com), [https://www.linkedin.com/company/10592647/admin/dashboard/](https://www.linkedin.com/company/10592647/admin/dashboard/), [https://www.facebook.com/simafunds](https://www.facebook.com/simafunds), [https://x.com/i/flow/login?redirect_after_login=%2fsima_funds](https://x.com/i/flow/login?redirect_after_login=%2fsima_funds) |
+| GSA CAPITAL PARTNERS (NEW YORK) LP | 286369 | 88.88 | [http://www.gsacapital.com](http://www.gsacapital.com), [https://www.linkedin.com/company/gsacapital](https://www.linkedin.com/company/gsacapital) |
+| UOB GLOBAL CAPITAL LLC | 160659 | 88.62 | [http://www.uobglobal.com](http://www.uobglobal.com) |
+| ARETEX CAPITAL MANAGEMENT, LP | 296753 | 88.6 | [https://www.aretexcapital.com](https://www.aretexcapital.com) |
 | GRAVITY CAPITAL MANAGEMENT LLC | 137083 | 88.0 | N/A |
 | ATW SPAC MANAGEMENT LLC | 283737 | 86.73 | N/A |
 | ONEWELTH INC | 325277 | 85.66 | N/A |
-| LEXION CAPITAL MANAGEMENT LP | 153273 | 84.7 | HTTPS://WWW.LEXIONCAPITAL.COM, HTTPS://TWITTER.COM/LEXIONCAPITAL, HTTPS://WWW.LINKEDIN.COMPANY/LEXION-CAPITAL-MANAGEMENT, HTTPS://WWW.FACEBOOK.COM/LEXIONCAPITAL |
+| LEXION CAPITAL MANAGEMENT LP | 153273 | 84.7 | [https://www.lexioncapital.com](https://www.lexioncapital.com), [https://twitter.com/lexioncapital](https://twitter.com/lexioncapital), [https://www.linkedin.company/lexion-capital-management](https://www.linkedin.company/lexion-capital-management), [https://www.facebook.com/lexioncapital](https://www.facebook.com/lexioncapital) |
 | PEARL LANE ADVISORS, LLC | 172681 | 83.98 | N/A |
-| S. MUOIO & CO. LLC | 155549 | 82.84 | HTTP://SMINVESTORS.COM |
-| ABERNATHY GROUP II LLC | 152401 | 80.2 | HTTP://WWW.ABERNATHYGROUPFAMILYOFFICE.COM, HTTP://WWW.PHYSICANFAMILYOFFICE.ORG, https://www.abernathydaley401k.com |
-| CORDOBA CAPITAL PARTNERS, LLC | 329644 | 78.9 | http://www.cordobacapital.co |
+| S. MUOIO & CO. LLC | 155549 | 82.84 | [http://sminvestors.com](http://sminvestors.com) |
+| ABERNATHY GROUP II LLC | 152401 | 80.2 | [http://www.abernathygroupfamilyoffice.com](http://www.abernathygroupfamilyoffice.com), [http://www.physicanfamilyoffice.org](http://www.physicanfamilyoffice.org), [https://www.abernathydaley401k.com](https://www.abernathydaley401k.com) |
+| CORDOBA CAPITAL PARTNERS, LLC | 329644 | 78.9 | [http://www.cordobacapital.co](http://www.cordobacapital.co) |
 | DRYDEN CAPITAL, LLC | 172648 | 76.17 | N/A |
-| GREENBROOK MANAGEMENT, LLC | 313632 | 76.16 | https://www.greenbrookre.com, https://www.linkedin.com/company/greenbrookpartners/about/ |
-| SQN CAPITAL MANAGEMENT, LLC | 158704 | 75.4 | HTTPS://WWW.SQNCAPITAL.COM |
-| NORTHSTAR CAPITAL FUNDS, LLC | 138526 | 71.83 | HTTP://WWW.NORTHSTARCAPITALFUNDS.COM |
-| E. MAGNUS OPPENHEIM & CO. INC. | 14268 | 70.38 | HTTP://WWW.EMAGNUS.COM |
-| CATHAY CAPITAL NA, LLC | 268816 | 68.5 | https://www.cathaycapital.com/ |
-| VAZIRANI ASSET MANAGEMENT LLC | 289186 | 65.0 | HTTPS://WWW.VAZIRANIFUND.COM |
-| BEATRICE ADVISORS LP | 332668 | 64.62 | https://www.linkedin.com/company/beatrice-advisors/, https://www.beatriceadvisors.com/ |
+| GREENBROOK MANAGEMENT, LLC | 313632 | 76.16 | [https://www.greenbrookre.com](https://www.greenbrookre.com), [https://www.linkedin.com/company/greenbrookpartners/about/](https://www.linkedin.com/company/greenbrookpartners/about/) |
+| SQN CAPITAL MANAGEMENT, LLC | 158704 | 75.4 | [https://www.sqncapital.com](https://www.sqncapital.com) |
+| NORTHSTAR CAPITAL FUNDS, LLC | 138526 | 71.83 | [http://www.northstarcapitalfunds.com](http://www.northstarcapitalfunds.com) |
+| E. MAGNUS OPPENHEIM & CO. INC. | 14268 | 70.38 | [http://www.emagnus.com](http://www.emagnus.com) |
+| CATHAY CAPITAL NA, LLC | 268816 | 68.5 | [https://www.cathaycapital.com/](https://www.cathaycapital.com/) |
+| VAZIRANI ASSET MANAGEMENT LLC | 289186 | 65.0 | [https://www.vaziranifund.com](https://www.vaziranifund.com) |
+| BEATRICE ADVISORS LP | 332668 | 64.62 | [https://www.linkedin.com/company/beatrice-advisors/](https://www.linkedin.com/company/beatrice-advisors/), [https://www.beatriceadvisors.com/](https://www.beatriceadvisors.com/) |
 | GOLDIRON GP LLC | 285239 | 60.16 | N/A |
-| MILLENNIAL ADVISERS, LLC. | 170847 | 58.66 | https://www.linkedin.com/company/millennial-advisers-llc, HTTP://WWW.OURADVISERS.COM/, https://www.facebook.com/ouradvisersnyc/, https://twitter.com/OurAdvisersNYC |
-| TRUCK CAPITAL MANAGEMENT LLC | 164329 | 58.27 | https://www.linkedin.com/company/truck-capital-management-llc, HTTP://WWW.TRUCK-CAPITAL.COM |
-| SPP CREDIT ADVISORS II LLC | 323725 | 57.84 | HTTPS://www.sppcreditpartners.com |
-| DAVERN CAPITAL PARTNERS, LP | 323018 | 57.52 | https://daverncapital.com/, https://www.linkedin.com/company/davern-capital-partners/ |
-| PRINCETON VALUE PARTNERS LLC | 313153 | 57.44 | http://www.princetonvp.com |
-| KB & PARTNERS MANAGEMENT CO LLC | 108105 | 57.18 | HTTP://WWW.KAHNBROTHERS.COM |
-| ARC24 MANAGEMENT, LP | 331983 | 56.89 | https://arc24cap.com/ |
-| ARKHOUSE MANAGEMENT CO. LP | 325180 | 53.09 | https://arkhousefund.com/, https://www.linkedin.com/company/arkhouse, https://x.com/arkhouse_ |
-| SIDUS INVESTMENT MANAGEMENT, LLC | 160406 | 52.22 | HTTP://SIDUSFUNDS.COM/, HTTPS://WWW.LINKEDIN.COM/COMPANY/SIDUS-INVESTMENT-MANAGEMENT/ |
-| ACE & COMPANY NEW YORK, INC. | 304442 | 52.03 | HTTPS://ACEANDCOMPANY.COM/ |
-| FOXPATH CAPITAL PARTNERS LP | 331708 | 50.0 | https://foxpath.com/, https://www.linkedin.com/company/foxpath |
-| ONE68 GLOBAL CAPITAL, LLC | 284585 | 50.0 | https://www.linkedin.com/company/one68-global-capital/about/, https://www.one68global.com |
+| MILLENNIAL ADVISERS, LLC. | 170847 | 58.66 | [https://www.linkedin.com/company/millennial-advisers-llc](https://www.linkedin.com/company/millennial-advisers-llc), [http://www.ouradvisers.com/](http://www.ouradvisers.com/), [https://www.facebook.com/ouradvisersnyc/](https://www.facebook.com/ouradvisersnyc/), [https://twitter.com/ouradvisersnyc](https://twitter.com/ouradvisersnyc) |
+| TRUCK CAPITAL MANAGEMENT LLC | 164329 | 58.27 | [https://www.linkedin.com/company/truck-capital-management-llc](https://www.linkedin.com/company/truck-capital-management-llc), [http://www.truck-capital.com](http://www.truck-capital.com) |
+| SPP CREDIT ADVISORS II LLC | 323725 | 57.84 | [https://www.sppcreditpartners.com](https://www.sppcreditpartners.com) |
+| DAVERN CAPITAL PARTNERS, LP | 323018 | 57.52 | [https://daverncapital.com/](https://daverncapital.com/), [https://www.linkedin.com/company/davern-capital-partners/](https://www.linkedin.com/company/davern-capital-partners/) |
+| PRINCETON VALUE PARTNERS LLC | 313153 | 57.44 | [http://www.princetonvp.com](http://www.princetonvp.com) |
+| KB & PARTNERS MANAGEMENT CO LLC | 108105 | 57.18 | [http://www.kahnbrothers.com](http://www.kahnbrothers.com) |
+| ARC24 MANAGEMENT, LP | 331983 | 56.89 | [https://arc24cap.com/](https://arc24cap.com/) |
+| ARKHOUSE MANAGEMENT CO. LP | 325180 | 53.09 | [https://arkhousefund.com/](https://arkhousefund.com/), [https://www.linkedin.com/company/arkhouse](https://www.linkedin.com/company/arkhouse), [https://x.com/arkhouse_](https://x.com/arkhouse_) |
+| SIDUS INVESTMENT MANAGEMENT, LLC | 160406 | 52.22 | [http://sidusfunds.com/](http://sidusfunds.com/), [https://www.linkedin.com/company/sidus-investment-management/](https://www.linkedin.com/company/sidus-investment-management/) |
+| ACE & COMPANY NEW YORK, INC. | 304442 | 52.03 | [https://aceandcompany.com/](https://aceandcompany.com/) |
+| FOXPATH CAPITAL PARTNERS LP | 331708 | 50.0 | [https://foxpath.com/](https://foxpath.com/), [https://www.linkedin.com/company/foxpath](https://www.linkedin.com/company/foxpath) |
+| ONE68 GLOBAL CAPITAL, LLC | 284585 | 50.0 | [https://www.linkedin.com/company/one68-global-capital/about/](https://www.linkedin.com/company/one68-global-capital/about/), [https://www.one68global.com](https://www.one68global.com) |
 | OPPENHEIMER ALTERNATIVE INVESTMENT MANAGEMENT, LLC | 140485 | 49.04 | N/A |
-| ENDICOTT MANAGEMENT COMPANY | 157119 | 48.74 | https://Linkedin.com/company/the-endicott-group, https://Endicottgp.com |
-| OUTERLANDS CAPITAL MANAGEMENT, LLC | 327602 | 48.56 | https://twitter.com/OuterlandsCap, https://www.linkedin.com/company/outerlands-capital/, https://www.outerlands.io/ |
-| HILBERT 8, LLC | 284577 | 47.19 | https://www.linkedin.com/company/hilbert8/, HTTPS://WWW.HILBERT8.COM |
-| GROUP RMC INVESTMENT ADVISOR LLC | 318504 | 46.7 | http://www.grouprmc.com |
-| CBF ADVISORS, LLC | 134079 | 46.63 | HTTP://WWW.CLEARBROOKGLOBAL.COM |
+| ENDICOTT MANAGEMENT COMPANY | 157119 | 48.74 | [https://linkedin.com/company/the-endicott-group](https://linkedin.com/company/the-endicott-group), [https://endicottgp.com](https://endicottgp.com) |
+| OUTERLANDS CAPITAL MANAGEMENT, LLC | 327602 | 48.56 | [https://twitter.com/outerlandscap](https://twitter.com/outerlandscap), [https://www.linkedin.com/company/outerlands-capital/](https://www.linkedin.com/company/outerlands-capital/), [https://www.outerlands.io/](https://www.outerlands.io/) |
+| HILBERT 8, LLC | 284577 | 47.19 | [https://www.linkedin.com/company/hilbert8/](https://www.linkedin.com/company/hilbert8/), [https://www.hilbert8.com](https://www.hilbert8.com) |
+| GROUP RMC INVESTMENT ADVISOR LLC | 318504 | 46.7 | [http://www.grouprmc.com](http://www.grouprmc.com) |
+| CBF ADVISORS, LLC | 134079 | 46.63 | [http://www.clearbrookglobal.com](http://www.clearbrookglobal.com) |
 | SZOP MULTISTRAT MANAGEMENT LLC | 317689 | 44.05 | N/A |
-| ACME CREDIT PARTNERS LLC | 328087 | 43.81 | https://www.linkedin.com/company/acme-credit-partners/, https://www.acmecreditpartners.com/ |
-| MARLOWE PARTNERS LP | 170091 | 43.4 | HTTP://WWW.MARLOWEPARTNERS.COM, https://www.marlowepartners.com |
-| DAVIS CAPITAL ADVISORS, LLC | 153496 | 41.78 | HTTP://WWW.DAVISCAPITALADVISORS.COM |
-| ATLA CAPITAL MANAGEMENT LLC | 312501 | 41.67 | http://www.atlacap.com, https://www.linkedin.com/company/74891263 |
+| ACME CREDIT PARTNERS LLC | 328087 | 43.81 | [https://www.linkedin.com/company/acme-credit-partners/](https://www.linkedin.com/company/acme-credit-partners/), [https://www.acmecreditpartners.com/](https://www.acmecreditpartners.com/) |
+| MARLOWE PARTNERS LP | 170091 | 43.4 | [http://www.marlowepartners.com](http://www.marlowepartners.com), [https://www.marlowepartners.com](https://www.marlowepartners.com) |
+| DAVIS CAPITAL ADVISORS, LLC | 153496 | 41.78 | [http://www.daviscapitaladvisors.com](http://www.daviscapitaladvisors.com) |
+| ATLA CAPITAL MANAGEMENT LLC | 312501 | 41.67 | [http://www.atlacap.com](http://www.atlacap.com), [https://www.linkedin.com/company/74891263](https://www.linkedin.com/company/74891263) |
 | ASA ASSET MANAGEMENT LLC | 335177 | 41.66 | N/A |
 | TELSEY CONSUMER FUND MANAGEMENT LP | 312514 | 41.5 | N/A |
-| MSRESS III MANAGER, L.L.C. | 138602 | 40.68 | http://www.morganstanley.com/im/en-us/institutional-investor/strategies/real-assets/private-real-estate.html |
-| PALLADIUM HERITAGE MANAGEMENT, LLC | 321623 | 39.53 | http://www.palladiumequity.com |
-| GRIZZLY CAPITAL MANAGEMENT LP | 324228 | 38.56 | https://x.com/ResearchGrizzly, https://www.linkedin.com/company/grizzly-research-llc, https://stocktwits.com/Grizzly_Research, https://investorshub.advfn.com/boards/profilea.aspx?user=853714, https://grizzlyreports.com/ |
-| ARDINALL INVESTMENT MANAGEMENT LP | 298114 | 36.16 | https://www.ardinall.com/, https://www.linkedin.com/company/ardinall-investment-management/, https://www.bloomberg.com/profile/company/1648200D:US |
-| CANNON HILL INVESTMENT MANAGEMENT, LLC | 166750 | 36.05 | https://www.cannonhillcap.com/, https://www.linkedin.com/company/cannon-hill-capital-partners-llc/mycompany/?viewAsMember=true |
-| SPP CREDIT ADVISORS LLC | 314442 | 34.47 | HTTPS://www.sppcreditpartners.com |
-| ELKWATER CAPITAL MANAGEMENT, LLC | 333963 | 32.9 | https://www.elkwatercapital.com/, https://www.linkedin.com/company/elkwater-capital-management-llc/ |
+| MSRESS III MANAGER, L.L.C. | 138602 | 40.68 | [http://www.morganstanley.com/im/en-us/institutional-investor/strategies/real-assets/private-real-estate.html](http://www.morganstanley.com/im/en-us/institutional-investor/strategies/real-assets/private-real-estate.html) |
+| PALLADIUM HERITAGE MANAGEMENT, LLC | 321623 | 39.53 | [http://www.palladiumequity.com](http://www.palladiumequity.com) |
+| GRIZZLY CAPITAL MANAGEMENT LP | 324228 | 38.56 | [https://x.com/researchgrizzly](https://x.com/researchgrizzly), [https://www.linkedin.com/company/grizzly-research-llc](https://www.linkedin.com/company/grizzly-research-llc), [https://stocktwits.com/grizzly_research](https://stocktwits.com/grizzly_research), [https://investorshub.advfn.com/boards/profilea.aspx?user=853714](https://investorshub.advfn.com/boards/profilea.aspx?user=853714), [https://grizzlyreports.com/](https://grizzlyreports.com/) |
+| ARDINALL INVESTMENT MANAGEMENT LP | 298114 | 36.16 | [https://www.ardinall.com/](https://www.ardinall.com/), [https://www.linkedin.com/company/ardinall-investment-management/](https://www.linkedin.com/company/ardinall-investment-management/), [https://www.bloomberg.com/profile/company/1648200d:us](https://www.bloomberg.com/profile/company/1648200d:us) |
+| CANNON HILL INVESTMENT MANAGEMENT, LLC | 166750 | 36.05 | [https://www.cannonhillcap.com/](https://www.cannonhillcap.com/), [https://www.linkedin.com/company/cannon-hill-capital-partners-llc/mycompany/?viewasmember=true](https://www.linkedin.com/company/cannon-hill-capital-partners-llc/mycompany/?viewasmember=true) |
+| SPP CREDIT ADVISORS LLC | 314442 | 34.47 | [https://www.sppcreditpartners.com](https://www.sppcreditpartners.com) |
+| ELKWATER CAPITAL MANAGEMENT, LLC | 333963 | 32.9 | [https://www.elkwatercapital.com/](https://www.elkwatercapital.com/), [https://www.linkedin.com/company/elkwater-capital-management-llc/](https://www.linkedin.com/company/elkwater-capital-management-llc/) |
 | OLD BELLOWS PARTNERS L.P. | 157569 | 31.9 | N/A |
 | QUARTUS INVESTMENT ADVISORS LLC | 287597 | 31.21 | N/A |
 | STOCKWELL VENTURES, LLC | 323092 | 30.0 | N/A |
-| GILEAD CAPITAL LP | 282023 | 28.41 | https://www.linkedin.com/company/gilead-capital-lp/about/, https://www.gileadcapital.com |
-| AXEL CAPITAL MANAGEMENT, LLC | 151246 | 26.51 | HTTP://WWW.AXELCAPITAL.COM |
-| ARTESIAN CAPITAL MANAGEMENT (DELAWARE) LP | 325768 | 26.0 | https://www.linkedin.com/company/artesian-capital-management/, https://www.artesianinvest.com/, https://twitter.com/artesianvc |
+| GILEAD CAPITAL LP | 282023 | 28.41 | [https://www.linkedin.com/company/gilead-capital-lp/about/](https://www.linkedin.com/company/gilead-capital-lp/about/), [https://www.gileadcapital.com](https://www.gileadcapital.com) |
+| AXEL CAPITAL MANAGEMENT, LLC | 151246 | 26.51 | [http://www.axelcapital.com](http://www.axelcapital.com) |
+| ARTESIAN CAPITAL MANAGEMENT (DELAWARE) LP | 325768 | 26.0 | [https://www.linkedin.com/company/artesian-capital-management/](https://www.linkedin.com/company/artesian-capital-management/), [https://www.artesianinvest.com/](https://www.artesianinvest.com/), [https://twitter.com/artesianvc](https://twitter.com/artesianvc) |
 | DJA CAPITAL MANAGEMENT, LP | 332825 | 25.92 | N/A |
-| 5C INVESTMENT PARTNERS ADVISOR LLC | 330565 | 24.99 | https://www.5cinvest.com/, https://www.linkedin.com/company/5c-investment-partners/ |
-| M.D. SASS-MACQUARIE FINANCIAL STRATEGIES MANAGEMENT COMPANY, LLC | 124506 | 18.02 | HTTP://WWW.MDSASS.COM, https://www.linkedin.com/company/md-sass/ |
-| KAHN BROTHERS ASSET MANAGEMENT CORP | 105620 | 15.83 | HTTP://WWW.KAHNBROTHERS.COM |
-| KRANE CAPITAL MANAGEMENT, LLC | 329110 | 15.41 | https://kranecapitalmanagement.com/ |
+| 5C INVESTMENT PARTNERS ADVISOR LLC | 330565 | 24.99 | [https://www.5cinvest.com/](https://www.5cinvest.com/), [https://www.linkedin.com/company/5c-investment-partners/](https://www.linkedin.com/company/5c-investment-partners/) |
+| M.D. SASS-MACQUARIE FINANCIAL STRATEGIES MANAGEMENT COMPANY, LLC | 124506 | 18.02 | [http://www.mdsass.com](http://www.mdsass.com), [https://www.linkedin.com/company/md-sass/](https://www.linkedin.com/company/md-sass/) |
+| KAHN BROTHERS ASSET MANAGEMENT CORP | 105620 | 15.83 | [http://www.kahnbrothers.com](http://www.kahnbrothers.com) |
+| KRANE CAPITAL MANAGEMENT, LLC | 329110 | 15.41 | [https://kranecapitalmanagement.com/](https://kranecapitalmanagement.com/) |
