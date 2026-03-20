@@ -134,7 +134,7 @@ df_full = df_funds.sort_values(by="AUM (Millions)", ascending=False)
 df_full.to_csv("full/hedge_funds.csv", index=False)
 with open("full/hedge_funds.md", "w") as f:
     f.write(df_to_markdown(df_full))
-with open("full/hedge_funds.html", "w") as f:
+with open("full_hedge_funds.html", "w") as f:
     f.write(df_to_sortable_html(df_full, "All Hedge Funds"))
 
 # Save NYC Data
@@ -142,7 +142,7 @@ df_nyc = df_funds[(df_funds['City'] == 'NEW YORK') & (df_funds['State'] == 'NY')
 df_nyc.to_csv("nyc/hedge_funds.csv", index=False)
 with open("nyc/hedge_funds.md", "w") as f:
     f.write(df_to_markdown(df_nyc))
-with open("nyc/hedge_funds.html", "w") as f:
+with open("nyc_hedge_funds.html", "w") as f:
     f.write(df_to_sortable_html(df_nyc, "NYC Hedge Funds"))
 
-print("Reports saved into 'full/' and 'nyc/' folders.")
+print("Reports saved into 'full/' and 'nyc/' folders, and HTML dashboards in root.")
