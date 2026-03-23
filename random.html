@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucky Dip - Hedge Fund Explorer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-bg: #0f172a;
+            --card-bg: rgba(30, 41, 59, 0.7);
+            --accent-green: #10b981;
+            --accent-blue: #3b82f6;
+            --text-main: #f8fafc;
+            --text-secondary: #94a3b8;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Outfit', sans-serif;
+        }
+
+        body {
+            background-color: var(--primary-bg);
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(16, 185, 129, 0.1) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(59, 130, 246, 0.1) 0px, transparent 50%);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+            overflow-x: hidden;
+        }
+
+        .nav-back {
+            position: absolute;
+            top: 2rem;
+            left: 2rem;
+            color: var(--text-secondary);
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: color 0.2s;
+        }
+
+        .nav-back:hover {
+            color: var(--text-main);
+        }
+
+        .container {
+            width: 100%;
+            max-width: 600px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 2rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #10b981 0%, #3b82f6 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+            text-align: center;
+        }
+
+        .btn-roll {
+            background: linear-gradient(135deg, #10b981 0%, #3b82f6 100%);
+            color: white;
+            border: none;
+            padding: 1rem 2rem;
+            border-radius: 30px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            letter-spacing: 0.02em;
+        }
+
+        .btn-roll:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 20px rgba(16, 185, 129, 0.5);
+        }
+
+        .btn-roll:active {
+            transform: scale(0.98);
+        }
+
+        .card-result {
+            background: var(--card-bg);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 24px;
+            padding: 2.5rem;
+            width: 100%;
+            display: none; /* Hidden initially */
+            flex-direction: column;
+            gap: 1.5rem;
+            box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+            transform: translateY(20px);
+            opacity: 0;
+            transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+
+        .card-result.show {
+            display: flex;
+            transform: translateY(0);
+            opacity: 1;
+        }
+
+        .card-header {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            padding-bottom: 1rem;
+        }
+
+        .firm-name {
+            font-size: 1.8rem;
+            font-weight: 800;
+            color: var(--text-main);
+            line-height: 1.2;
+            word-break: break-word;
+        }
+
+        .crd-info {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            margin-top: 0.2rem;
+            font-weight: 400;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1.5rem;
+        }
+
+        .stat-item {
+            display: flex;
+            flex-direction: column;
+            gap: 0.2rem;
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .stat-value {
+            font-size: 1.3rem;
+            font-weight: 600;
+            color: var(--text-main);
+        }
+
+        .stat-value.aum {
+            color: #3b82f6;
+        }
+
+        .website-section {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            margin-top: 0.5rem;
+        }
+
+        .website-section .stat-label {
+            margin-bottom: 0.2rem;
+        }
+
+        .links-container {
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+        }
+
+        .web-link {
+            color: var(--accent-green);
+            text-decoration: none;
+            font-size: 0.95rem;
+            word-break: break-all;
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            transition: color 0.2s;
+        }
+
+        .web-link:hover {
+            color: var(--accent-blue);
+            text-decoration: underline;
+        }
+
+        .loading {
+            color: var(--text-secondary);
+            font-style: italic;
+            margin-top: 1rem;
+        }
+
+        @media (max-width: 480px) {
+            .stats-grid { grid-template-columns: 1fr; }
+            .firm-name { font-size: 1.5rem; }
+            .nav-back { top: 1rem; left: 1rem; }
+            body { padding-top: 4rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <a href="index.html" class="nav-back">← Back to Menu</a>
+
+    <div class="container">
+        <header>
+            <h1>Lucky Dip</h1>
+        </header>
+
+        <button class="btn-roll" id="rollBtn">Pick a Random Fund</button>
+
+        <div class="loading" id="loadingText" style="display: none;">Loading database...</div>
+
+        <div class="card-result" id="resultCard">
+            <div class="card-header">
+                <div class="firm-name" id="firmName">-</div>
+                <div class="crd-info">CRD Number: <span id="crdNumber">-</span></div>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-label">AUM</div>
+                    <div class="stat-value aum" id="aumValue">-</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-label">Location</div>
+                    <div class="stat-value" id="locationValue">-</div>
+                </div>
+            </div>
+
+            <div class="website-section">
+                <div class="stat-label">Websites</div>
+                <div class="links-container" id="linksContainer"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let fundsData = [];
+
+        function parseCSV(text) {
+            const lines = text.split('\n');
+            const result = [];
+            
+            if (lines.length === 0) return result;
+
+            // Robust Header Parsing
+            const headers = [];
+            let headerLine = lines[0];
+            let cell = '';
+            let inQuotes = false;
+            for (let j = 0; j < headerLine.length; j++) {
+                const char = headerLine[j];
+                if (char === '"') inQuotes = !inQuotes;
+                else if (char === ',' && !inQuotes) { headers.push(cell.trim()); cell = ''; }
+                else cell += char;
+            }
+            headers.push(cell.trim());
+
+            for (let i = 1; i < lines.length; i++) {
+                const line = lines[i];
+                if (!line.trim()) continue;
+
+                const row = [];
+                cell = '';
+                inQuotes = false;
+                
+                for (let j = 0; j < line.length; j++) {
+                    const char = line[j];
+                    if (char === '"') {
+                        inQuotes = !inQuotes;
+                    } else if (char === ',' && !inQuotes) {
+                        row.push(cell.trim());
+                        cell = '';
+                    } else {
+                        cell += char;
+                    }
+                }
+                row.push(cell.trim());
+
+                const obj = {};
+                for (let j = 0; j < headers.length; j++) {
+                    obj[headers[j]] = row[j] || '';
+                }
+                result.push(obj);
+            }
+            return result;
+        }
+
+        async function loadData() {
+            const loadingText = document.getElementById('loadingText');
+            loadingText.style.display = 'block';
+            try {
+                const response = await fetch('./full/hedge_funds.csv');
+                if (!response.ok) throw new Error('Network response was not ok');
+                const text = await response.text();
+                fundsData = parseCSV(text);
+                console.log(`Loaded ${fundsData.length} records.`);
+                loadingText.style.display = 'none';
+                displayRandom(); // Auto show one item on load or when rolled
+            } catch (error) {
+                console.error('Failed to load CSV:', error);
+                loadingText.innerText = 'Error loading data. Make sure server is running.';
+            }
+        }
+
+        function displayRandom() {
+            if (fundsData.length === 0) return;
+
+            const randomIndex = Math.floor(Math.random() * fundsData.length);
+            const fund = fundsData[randomIndex];
+
+            document.getElementById('firmName').innerText = fund['Firm Name'] || 'N/A';
+            document.getElementById('crdNumber').innerText = fund['CRD Number'] || 'N/A';
+            document.getElementById('aumValue').innerText = `${fund['AUM (Millions)']}M`;
+            
+            const city = fund['City'] ? fund['City'].toLowerCase() : '';
+            const state = fund['State'] || '';
+            const locationStr = city ? `${city.charAt(0).toUpperCase() + city.slice(1)}, ${state}` : state || 'N/A';
+            document.getElementById('locationValue').innerText = locationStr;
+
+            const linksContainer = document.getElementById('linksContainer');
+            linksContainer.innerHTML = ''; // Clear previous
+
+            const websites = fund['Website'] || '';
+            if (websites === 'N/A' || !websites) {
+                linksContainer.innerHTML = '<span style="color:#94a3b8; font-size:0.9rem;">None listed</span>';
+            } else {
+                // Split URLs that might be grouped
+                const urlList = websites.split(',').map(url => url.trim());
+                urlList.forEach(url => {
+                    const a = document.createElement('a');
+                    a.href = url.startsWith('http') ? url : `https://${url}`;
+                    a.target = '_blank';
+                    a.className = 'web-link';
+                    a.innerHTML = `🔗 ${url}`;
+                    linksContainer.appendChild(a);
+                });
+            }
+
+            const card = document.getElementById('resultCard');
+            card.classList.remove('show');
+            setTimeout(() => {
+                card.style.display = 'flex';
+                card.classList.add('show');
+            }, 50);
+        }
+
+        document.getElementById('rollBtn').addEventListener('click', () => {
+             if (fundsData.length === 0) {
+                 loadData();
+             } else {
+                 displayRandom();
+             }
+        });
+
+        // Initial Load
+        loadData();
+
+    </script>
+
+</body>
+</html>
